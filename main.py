@@ -170,7 +170,7 @@ def pe_desc_generator(df_sec,df_comrep,sector):
 
 ### Generate description and save it into DB for P/E ratio description
 pevalue_index = {}
-for i in ["Telecommunication"]:
+for i in df_sec.sub_sector:
     try:
         pevalue_index[i] = pe_desc_generator(df_sec,df_comrep,i)
         print(i)
@@ -250,7 +250,7 @@ def health_desc_generator(df_metrics,df_nocom,sector):
 
 ### Generate description and save it into DB for Health & Resilience index description
 health_index = {}
-for i in ["Telecommunication"]:
+for i in df_sec.sub_sector:
     try:
         health_index[i] = health_desc_generator(df_metrics,df_nocom,i)
         print(i)
@@ -327,7 +327,7 @@ def growth_desc_generator(df_sec,df_comrep,sector):
 ### Generate description and save it into DB for Sector Growth index description
 growthvalue_index = {}
 
-for i in ["Telecommunication"]:
+for i in df_sec.sub_sector:
     growthvalue_index[i] = growth_desc_generator(df_sec,df_comrep,i)
     print(i)
 
