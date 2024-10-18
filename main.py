@@ -328,8 +328,11 @@ def growth_desc_generator(df_sec,df_comrep,sector):
 growthvalue_index = {}
 
 for i in df_sec.sub_sector:
-    growthvalue_index[i] = growth_desc_generator(df_sec,df_comrep,i)
-    print(i)
+    try:
+        growthvalue_index[i] = growth_desc_generator(df_sec,df_comrep,i)
+        print(i)
+    except:
+        print(f"Can't generate {i} growth description")
 
 for sub_sector in growthvalue_index:
     try:
