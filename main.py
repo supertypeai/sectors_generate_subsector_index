@@ -36,19 +36,23 @@ df_sec = read_table_from_supabase(supabase,"idx_sector_reports")
 df_idx = read_table_from_supabase(supabase,"idx_aggregated_calc")
 
 # Data Processing
-def get_last_pe(row, last):
+def get_last_data_from_json(row, last, metrics):
     data_list = ast.literal_eval(str(row))
-    last_pe = data_list[last]['pe']
-    return last_pe
+    last_metrics_data = data_list[last][metrics]
+    return last_metrics_data
 
 def sub_sector_financial_processing(df_sec):
-    df_sec = df_sec[["sector","slug","sub_sector","avg_yoy_q_earnings_growth","avg_yoy_q_revenue_growth","weighted_avg_growth_data","weighted_max_drawdown","weighted_rsd_close","historical_valuation"]]
+    df_sec = df_sec[["sector","slug","sub_sector","weighted_avg_growth_data","weighted_max_drawdown","weighted_rsd_close","historical_valuation"]]
 
     # Get the last PE value
-    df_sec['last_pe_value'] = df_sec['historical_valuation'].apply(lambda x: get_last_pe(x,-1))
+    df_sec['last_pe_value'] = df_sec['historical_valuation'].apply(lambda x: get_last_data_from_json(x,-1,"pe"))
 
     # Get the last 2 PE value
-    df_sec['last_two_pe_value'] = df_sec['historical_valuation'].apply(lambda x: get_last_pe(x,-2))
+    df_sec['last_two_pe_value'] = df_sec['historical_valuation'].apply(lambda x: get_last_data_from_json(x,-2,"pe"))
+
+    # Get avg_annual_earnings_growth and avg_annual_revenue_growth
+    df_sec['avg_annual_earnings_growth'] = df_sec['weighted_avg_growth_data'].apply(lambda x: get_last_data_from_json(x,-1,"avg_annual_earning_growth"))
+    df_sec['avg_annual_revenue_growth'] = df_sec['weighted_avg_growth_data'].apply(lambda x: get_last_data_from_json(x,-1,"avg_annual_revenue_growth"))
 
     return df_sec
 
@@ -75,7 +79,7 @@ def company_pe_processing(df_comrep):
     df_comrep = df_comrep.dropna(subset=["historical_valuation"])
 
     # Get the last pe_value
-    df_comrep['pe_value'] = df_comrep['historical_valuation'].apply(lambda x: get_last_pe(x,-1))
+    df_comrep['pe_value'] = df_comrep['historical_valuation'].apply(lambda x: get_last_data_from_json(x,-1,"pe"))
 
     # regenerate symbol
     format_text = lambda company_name, symbol: f"[#{symbol}]{company_name}[\\#{symbol}]"
@@ -272,29 +276,27 @@ for sub_sector in health_index:
 ### Description generator function
 def growth_desc_generator(df_sec,df_comrep,sector):
     # Get the earning and revenue growth of the sub_sector
-    subsec_earning_growth = df_sec[df_sec.sub_sector == sector].avg_yoy_q_earnings_growth.values[0]
-    subsec_revenue_growth = df_sec[df_sec.sub_sector == sector].avg_yoy_q_revenue_growth.values[0]
+    subsec_earning_growth = df_sec[df_sec.sub_sector == sector].avg_annual_earnings_growth.values[0]
+    subsec_revenue_growth = df_sec[df_sec.sub_sector == sector].avg_annual_revenue_growth.values[0]
 
     # Get the earning and revenue ranking
-    earn_rank = df_sec[df_sec.avg_yoy_q_earnings_growth > subsec_earning_growth].shape[0]+1
-    rev_rank = df_sec[df_sec.avg_yoy_q_revenue_growth > subsec_revenue_growth].shape[0]+1
+    earn_rank = df_sec[df_sec.avg_annual_earnings_growth > subsec_earning_growth].shape[0]+1
+    rev_rank = df_sec[df_sec.avg_annual_revenue_growth > subsec_revenue_growth].shape[0]+1
 
     # Get the company for the top earners, top revenue, and to net profit margin
     df_comrep_subsec = df_comrep[(df_comrep.sub_sector == sector)]
 
     top_earning = df_comrep[(df_comrep.sub_sector == sector) & (df_comrep.yoy_quarter_earnings_growth == df_comrep_subsec.yoy_quarter_earnings_growth.max())].symbol.values[0]
-
     top_revenue = df_comrep[(df_comrep.sub_sector == sector) & (df_comrep.yoy_quarter_revenue_growth == df_comrep_subsec.yoy_quarter_revenue_growth.max())].symbol.values[0]
-
     top_netprofmarg = df_comrep[(df_comrep.sub_sector == sector) & (df_comrep.net_profit_margin == df_comrep_subsec.net_profit_margin.max())].symbol.values[0]
 
     # Specify the prompt
     prompt = """
     Please write a medium-length paragraph that include some of these information: 
-    - The {sector} sub-sector growth in the past one year is {subsec_earning_growth}% for average Year on Year (YoY) quarter earnings changes
-    - The {sector} sub-sector revenue changes in the past one year is {subsec_revenue_growth}% for average Year on Year (YoY) quarter revenue changes.
+    - The {sector} sub-sector growth in the past one year is {subsec_earning_growth}% for average annual earning growth changes
+    - The {sector} sub-sector revenue changes in the past one year is {subsec_revenue_growth}% for average annual revenue growth changes.
     - The {sector} sub-sector place {earn_rank} and {rev_rank} for  earnings rank and revenue rank respectively compared to the other sub-sectors. Indicating their performance compare to another sub-sector
-    - From the {sector} sub-sector, {top_earning} is the companies with the highest YoY earning growth, {top_revenue} is the companies with the highest YoY revenue growth, and {top_netprofmarg} is the company with the highest net profit margin.
+    - - From the {sector} sub-sector, {top_earning} is the companies with the highest YoY earning growth, {top_revenue} is the companies with the highest YoY revenue growth, and {top_netprofmarg} is the company with the highest net profit margin.
     - Add the condition that can affect the {sector} sector growth in Indonesia, and use only condition that can affect only to the {sector} sub-sectors don't add any generic answer that can be applied to other sub-sector. 
     - Attempt to provide regulatory that affect the growth unique to {sector} sub-sector in Indonesia
 
@@ -316,11 +318,14 @@ def growth_desc_generator(df_sec,df_comrep,sector):
     top_revenue = top_revenue,
     top_netprofmarg = top_netprofmarg)
 
-    ticker = [top_earning,top_revenue,top_netprofmarg]
-    ticker = list(set(ticker))
+    try:
+        ticker = [top_earning,top_revenue,top_netprofmarg]
+        ticker = list(set(ticker))
 
-    for i in ticker:
-        result = result.replace(i, f'[#{i}]{df_comrep[df_comrep.symbol == i].company_name.values[0]}[\#{i}]')
+        for i in ticker:
+            result = result.replace(i, f'[#{i}]{df_comrep[df_comrep.symbol == i].company_name.values[0]}[\#{i}]')
+    except:
+        return result
 
     return result
 
