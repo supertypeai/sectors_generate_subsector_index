@@ -8,7 +8,6 @@ import logging
 from supabase import create_client
 from dotenv import load_dotenv
 from langchain import PromptTemplate
-from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain
 
