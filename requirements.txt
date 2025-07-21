@@ -57,7 +57,7 @@ sniffio==1.3.0
 SQLAlchemy==2.0.26
 storage3==0.7.0
 StrEnum==0.4.15
-supabase==2.3.4
+supabase==2.16.0
 supafunc==0.3.3
 tenacity==8.2.3
 tqdm==4.66.2
