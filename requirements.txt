@@ -19,7 +19,7 @@ langchain==0.3.26
 langchain-core==0.3.69
 langchain-text-splitters==0.3.8
 langsmith==0.4.8
-numpy==2.2.6
+numpy==2.0.2
 orjson==3.11.0
 packaging==25.0
 pandas==2.3.1
