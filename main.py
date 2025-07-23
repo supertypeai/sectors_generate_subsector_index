@@ -8,8 +8,8 @@ import logging
 from supabase import create_client
 from dotenv import load_dotenv
 from langchain import PromptTemplate
-from langchain.chat_models import ChatOpenAI
-from langchain.chains import LLMChain
+from langchain_core.messages import HumanMessage
+from langchain.chat_models import init_chat_model
 
 load_dotenv()
 
@@ -19,20 +19,21 @@ key = os.environ.get("SUPABASE_KEY")
 supabase = create_client(url, key)
 
 # Read Data
-def read_table_from_supabase(supabase, table_name):
-
-    response = supabase.table(table_name).select("*").execute()
-
+def read_table_from_supabase(supabase, table_name, columns):
+    # Convert list of columns to comma-separated string if needed
+    if isinstance(columns, list):
+        columns = ",".join(columns)
+    
+    response = supabase.table(table_name).select(columns).execute()
     response = pd.DataFrame(response.data)
-
+    
     return response
 
-df_compro = read_table_from_supabase(supabase,"idx_company_profile")
-df_comrep = read_table_from_supabase(supabase,"idx_company_report")
-df_subsec = read_table_from_supabase(supabase,"idx_subsector_metadata")
-df_metrics = read_table_from_supabase(supabase,"idx_calc_metrics_daily")
-df_sec = read_table_from_supabase(supabase,"idx_sector_reports")
-df_idx = read_table_from_supabase(supabase,"idx_aggregated_calc")
+df_compro = read_table_from_supabase(supabase,"idx_company_profile", columns = ["symbol","company_name",'sub_sector_id',"listing_date"])
+df_comrep = read_table_from_supabase(supabase,"idx_company_report",columns=["symbol","company_name","sector","sub_sector","historical_valuation","yoy_quarter_earnings_growth","yoy_quarter_revenue_growth"])
+df_subsec = read_table_from_supabase(supabase,"idx_subsector_metadata", columns = ["sub_sector_id","sub_sector","sector"])
+df_metrics = read_table_from_supabase(supabase,"idx_calc_metrics_daily", columns=["symbol","price_change_30_days","max_drawdown","rsd_close"])
+df_sec = read_table_from_supabase(supabase,"idx_sector_reports", columns = ["sector","slug","sub_sector","weighted_avg_growth_data","weighted_max_drawdown","weighted_rsd_close","historical_valuation"])
 
 # Data Processing
 def get_last_data_from_json(row, last, metrics):
@@ -41,8 +42,6 @@ def get_last_data_from_json(row, last, metrics):
     return last_metrics_data
 
 def sub_sector_financial_processing(df_sec):
-    df_sec = df_sec[["sector","slug","sub_sector","weighted_avg_growth_data","weighted_max_drawdown","weighted_rsd_close","historical_valuation"]]
-
     # Get the last PE value
     df_sec['last_pe_value'] = df_sec['historical_valuation'].apply(lambda x: get_last_data_from_json(x,-1,"pe"))
 
@@ -57,8 +56,8 @@ def sub_sector_financial_processing(df_sec):
 
 def price_changes_data(df_metrics):
     # Data sub-sector merging
-    df_metrics = df_metrics[["symbol","price_change_30_days","max_drawdown","rsd_close"]].merge(df_compro[["symbol","company_name",'sub_sector_id']])
-    df_metrics = df_metrics.merge(df_subsec[["sub_sector_id","sub_sector","sector"]])
+    df_metrics = df_metrics.merge(df_compro)
+    df_metrics = df_metrics.merge(df_subsec)
 
     # Change symbol format
     format_text = lambda company_name, symbol: f"[#{symbol}]{company_name}[\\#{symbol}]"
@@ -73,8 +72,6 @@ def price_changes_data(df_metrics):
     return df_metrics
 
 def company_pe_processing(df_comrep):
-    df_comrep = df_comrep[["symbol","company_name","sector","sub_sector","historical_valuation","yoy_quarter_earnings_growth","yoy_quarter_revenue_growth","net_profit_margin"]]
-
     df_comrep = df_comrep.dropna(subset=["historical_valuation"])
 
     # Get the last pe_value
@@ -93,7 +90,7 @@ def company_pe_processing(df_comrep):
 
 def new_listing_company(df_compro):
    # Merge company profile data with sub_sector metadata
-    df_no_company = df_compro[["symbol",'sub_sector_id',"listing_date"]].merge(df_subsec[["sub_sector_id","sub_sector","sector"]])
+    df_no_company = df_compro[["symbol",'sub_sector_id',"listing_date"]].merge(df_subsec)
 
     # Datetime data manipulation
     df_no_company["listing_date"] = pd.to_datetime(df_no_company["listing_date"])
@@ -123,49 +120,60 @@ df_nocom = new_listing_company(df_compro)
 
 ### Description generator function
 def pe_desc_generator(df_sec,df_comrep,sector):
-    # subsector PE value
+    # Load the chat model
+    model = init_chat_model("gpt-3.5-turbo", model_provider="openai",)
+
+    # Get P/E data from your DataFrames
     subsec_pe = df_sec[df_sec.sub_sector == sector]["last_pe_value"].values[0]
 
-    # P/E ratio comparison to last year
-    if subsec_pe<0:
+    if subsec_pe < 0:
         status = "negative"
-    elif (subsec_pe>0) & (subsec_pe < df_sec[df_sec.sub_sector == sector]["last_two_pe_value"].values[0]):
+    elif (subsec_pe > 0) & (subsec_pe < df_sec[df_sec.sub_sector == sector]["last_two_pe_value"].values[0]):
         status = "lower"
     else:
         status = "higher"
 
-    # PE ranking compared to other subsector
-    pe_rank = df_sec[(df_sec.last_pe_value < subsec_pe) & (df_sec.last_pe_value >=0)].shape[0]+1
+    pe_rank = df_sec[(df_sec.last_pe_value < subsec_pe) & (df_sec.last_pe_value >= 0)].shape[0] + 1
 
-    # no of company in subsector
-    sector_comp_num = df_comrep[(df_comrep.sub_sector == sector)].shape[0]
+    sector_comp_num = df_comrep[df_comrep.sub_sector == sector].shape[0]
 
-    # no of company that outperform subsector avg PE
-    outperform_sector = df_comrep[(df_comrep.sub_sector == sector) & (df_comrep.pe_value < subsec_pe) & (df_comrep.pe_value > 0)].shape[0]
+    outperform_sector = df_comrep[
+        (df_comrep.sub_sector == sector) &
+        (df_comrep.pe_value < subsec_pe) &
+        (df_comrep.pe_value > 0)
+    ].shape[0]
 
-    # top 3 undervalued company name
-    undervalued = df_comrep[(df_comrep.pe_value >=0) & (df_comrep.sub_sector == sector)].sort_values("pe_value", ascending=True).head(3)
+    undervalued = df_comrep[
+        (df_comrep.pe_value >= 0) &
+        (df_comrep.sub_sector == sector)
+    ].sort_values("pe_value", ascending=True).head(3)
     undervalued = undervalued.symbol.values
 
-    # Generate LLM for P/E ratio description
-    prompt = """
-    Please write a medium-length paragraph that include some of these: 
-    - describing whether the {sector} sub-sector is considered defensive or cyclical, along with its historical P/E value conditions categorized as moderate, high, or low. 
-    - Explore potential factors influencing the current P/E value {status} compared to last year's P/E value for the {sector} sub-sector, noting that lower P/E values indicate undervaluation and vice versa. 
-    - Notably, {outperform_sector} companies from the {sector} boasting favorable P/E ratios below the market average, with {undervalued} standing out as the most undervalued based on P/E ratio analysis. 
-    - Provide concrete hypotheses on what said sector command a PE value in that region, and how it relates to the broader Indonesian economy.
+    # === Define the prompt template ===
+    prompt_template = PromptTemplate.from_template("""
+    Please write a medium-length paragraph that includes some of the following:
+    - Describe whether the {sector} sub-sector is considered defensive or cyclical, along with its historical P/E value conditions (moderate, high, or low).
+    - Explore potential factors influencing the current P/E value being {status} compared to last year.
+    - Mention that {outperform_sector} companies in the {sector} sub-sector have P/E ratios below the market average, with {undervalued} being among the most undervalued.
+    - Hypothesize what might be driving this sector’s P/E levels and how it relates to the broader Indonesian economy.
 
-    Don't give a financial advice and keep it short, no need to explain in detail for all the factors
-    """
+    Avoid giving financial advice and keep it concise.
+    """)
 
-    model = ChatOpenAI(temperature=0.5, openai_api_key=os.environ.get("OPENAI_API_KEY"))
+    # === Run the chain ===
+    chain = prompt_template | model
 
-    prompt = PromptTemplate(input_variables=["sub_sector","sub_industries","companies"],template=prompt)
+    result = chain.invoke({
+        "sector": sector,
+        "status": status,
+        "pe_rank": pe_rank,
+        "outperform_sector": outperform_sector,
+        "undervalued": ', '.join(undervalued),
+        "sector_comp_num": sector_comp_num
+    })
 
-    chain = LLMChain(llm=model, prompt=prompt)
-
-    result = chain.run(sector=sector, status=status, pe_rank=pe_rank, outperform_sector=outperform_sector, undervalued=undervalued, sector_comp_num=sector_comp_num)
-
+    result = result.content
+    
     for i in undervalued:
         result = result.replace(i, f'[#{i}]{df_comrep[df_comrep.symbol == i].company_name.values[0]}[\#{i}]')
 
@@ -179,7 +187,7 @@ for i in df_sec.sub_sector:
         print(i)
     except:
         logging.error(
-            f"Failed to generate complete description for {i}. The description on the table won't be updated."
+            f"Failed to generate complete pe ratio description for {i}. The description on the table won't be updated."
         )
 
 for sub_sector in pevalue_index:
@@ -195,12 +203,14 @@ for sub_sector in pevalue_index:
 
 ### Description generator function
 def health_desc_generator(df_metrics,df_nocom,sector):
-    # 30 days price changes
-    idx_avg_pricechg = df_metrics.price_change_30_days.mean()
+    # Initialize Model
+    model = init_chat_model("gpt-3.5-turbo", model_provider="openai")
 
-    sector_avg_pricechg = df_metrics[df_metrics.sub_sector==sector].sector_price_change_30_days.values[0]
-    
-    if idx_avg_pricechg>sector_avg_pricechg:
+    # IDX average price change
+    idx_avg_pricechg = df_metrics.price_change_30_days.mean()
+    sector_avg_pricechg = df_metrics[df_metrics.sub_sector == sector].sector_price_change_30_days.values[0]
+
+    if idx_avg_pricechg > sector_avg_pricechg:
         comparison = "The sub-sector's average price changes is worse than the average IDX price changes in the last 30 days"
     else:
         comparison = "The sub-sector outperform IDX for the average price changes in the last 30 days"
@@ -211,45 +221,49 @@ def health_desc_generator(df_metrics,df_nocom,sector):
     if new_com_pct > 0:
         status = f"{new_com_pct}% of the company in {sector} is listing this month"
     else:
-        status = f"There aren't any new listing company in this month, the last new listing company in this subsector happened in {np.datetime_as_string(df_nocom[df_nocom.sub_sector == sector].listing_date.values[0], unit='D')}"
+        date = np.datetime_as_string(df_nocom[df_nocom.sub_sector == sector].listing_date.values[0], unit='D')
+        status = f"There aren't any new listing company in this month, the last new listing company in this subsector happened in {date}"
 
-    # Price change in last 30 days
-    sector_nocomp = df_metrics[(df_metrics.sub_sector == sector)].shape[0]
-
+    # Price change count
+    sector_nocomp = df_metrics[df_metrics.sub_sector == sector].shape[0]
     pos_price_chg = df_metrics[(df_metrics.sub_sector == sector) & (df_metrics.price_change_30_days > 0)].shape[0]
 
-    neg_price_chg = sector_nocomp - pos_price_chg
-
-    # subsector price changes rank
+    # Subsector ranking
     df_metrics_subsec = df_metrics.drop_duplicates('sub_sector')
-    subsec_rank = df_metrics_subsec[df_metrics_subsec.sector_price_change_30_days > df_metrics_subsec[df_metrics_subsec.sub_sector == sector].sector_price_change_30_days.values[0]].shape[0] + 1
+    subsec_rank = df_metrics_subsec[
+        df_metrics_subsec.sector_price_change_30_days >
+        df_metrics_subsec[df_metrics_subsec.sub_sector == sector].sector_price_change_30_days.values[0]
+    ].shape[0] + 1
 
-    prompt = """
-    Please write a medium-length paragraph that include some of these: 
-    - With {sector_nocomp} companies in {sector} sub-sector, this sub-sector placed {subsec_rank} in the sub-sector ranking based on the price changes in the previous 30 days.
+    # === Define the prompt ===
+    template = """
+    Please write a medium-length paragraph that includes some of these: 
+    - With {sector_nocomp} companies in the {sector} sub-sector, this sub-sector placed {subsec_rank} in the sub-sector ranking based on the price changes in the previous 30 days.
     - {comparison}
-    - Make a hypoteses based on {comparison}, why that could happened for the {sector} sector
-    - In this month, {status}. Add some explanation about barriers to entry based on this month new company status
-    - From {sector_nocomp} companies, {pos_price_chg} has a positive price changes in the last 30 days
-    - Add the conditions that can affect uniquely to the {sector} market health in Indonesia index but just mention the factor,
+    - Make a hypothesis based on {comparison}, why that could happen for the {sector} sector.
+    - In this month, {status}. Add some explanation about barriers to entry based on this month's new company status.
+    - From {sector_nocomp} companies, {pos_price_chg} has a positive price change in the last 30 days.
+    - Add conditions that can uniquely affect the {sector} market health in the Indonesian index — just mention the factors, no need to elaborate.
 
-    Don't give a financial advice and keep it short, no need to explain in detail for all the factors
+    Do not give financial advice. Keep it concise.
     """
 
-    model = ChatOpenAI(temperature=0.5, openai_api_key=os.environ.get("OPENAI_API_KEY"))
+    prompt = PromptTemplate.from_template(template)
 
-    prompt = PromptTemplate(input_variables=["sub_sector","sub_industries","companies"],template=prompt)
+    # === Chain execution using LCEL ===
+    chain = prompt | model
 
-    chain = LLMChain(llm=model, prompt=prompt)
+    # Invoke the model
+    result = chain.invoke({
+        "sector": sector,
+        "sector_nocomp": sector_nocomp,
+        "subsec_rank": subsec_rank,
+        "status": status,
+        "comparison": comparison,
+        "pos_price_chg": pos_price_chg
+    })
 
-    result = chain.run(sector=sector,
-    sector_nocomp = sector_nocomp,
-    subsec_rank = subsec_rank,
-    status = status,
-    comparison = comparison,
-    pos_price_chg = pos_price_chg)
-
-    return result
+    return result.content
 
 ### Generate description and save it into DB for Health & Resilience index description
 health_index = {}
@@ -259,7 +273,7 @@ for i in df_sec.sub_sector:
         print(i)
     except:
         logging.error(
-            f"Failed to generate complete description for {i}. The description on the table won't be updated."
+            f"Failed to generate complete health & resilience description for {i}. The description on the table won't be updated."
         )
 
 for sub_sector in health_index:
@@ -274,58 +288,66 @@ for sub_sector in health_index:
         
 ### Description generator function
 def growth_desc_generator(df_sec,df_comrep,sector):
+    # Initialize model
+    model = init_chat_model("gpt-3.5-turbo", model_provider="openai")
+
     # Get the earning and revenue growth of the sub_sector
     subsec_earning_growth = df_sec[df_sec.sub_sector == sector].avg_annual_earnings_growth.values[0]
     subsec_revenue_growth = df_sec[df_sec.sub_sector == sector].avg_annual_revenue_growth.values[0]
 
-    # Get the earning and revenue ranking
-    earn_rank = df_sec[df_sec.avg_annual_earnings_growth > subsec_earning_growth].shape[0]+1
-    rev_rank = df_sec[df_sec.avg_annual_revenue_growth > subsec_revenue_growth].shape[0]+1
+    # Rankings
+    earn_rank = df_sec[df_sec.avg_annual_earnings_growth > subsec_earning_growth].shape[0] + 1
+    rev_rank = df_sec[df_sec.avg_annual_revenue_growth > subsec_revenue_growth].shape[0] + 1
 
-    # Get the company for the top earners, top revenue, and to net profit margin
-    df_comrep_subsec = df_comrep[(df_comrep.sub_sector == sector)]
+    # Get top earning and revenue companies
+    df_comrep_subsec = df_comrep[df_comrep.sub_sector == sector]
+    top_earning = df_comrep_subsec[
+        df_comrep_subsec.yoy_quarter_earnings_growth == df_comrep_subsec.yoy_quarter_earnings_growth.max()
+    ].symbol.values[0]
+    top_revenue = df_comrep_subsec[
+        df_comrep_subsec.yoy_quarter_revenue_growth == df_comrep_subsec.yoy_quarter_revenue_growth.max()
+    ].symbol.values[0]
 
-    top_earning = df_comrep[(df_comrep.sub_sector == sector) & (df_comrep.yoy_quarter_earnings_growth == df_comrep_subsec.yoy_quarter_earnings_growth.max())].symbol.values[0]
-    top_revenue = df_comrep[(df_comrep.sub_sector == sector) & (df_comrep.yoy_quarter_revenue_growth == df_comrep_subsec.yoy_quarter_revenue_growth.max())].symbol.values[0]
-    top_netprofmarg = df_comrep[(df_comrep.sub_sector == sector) & (df_comrep.net_profit_margin == df_comrep_subsec.net_profit_margin.max())].symbol.values[0]
+    # === Prompt Template ===
+    template = """
+    Please write a medium-length paragraph that includes some of these information: 
+    - The {sector} sub-sector growth in the past one year is {subsec_earning_growth}% for average annual earning growth.
+    - The {sector} sub-sector revenue changes in the past one year is {subsec_revenue_growth}% for average annual revenue growth.
+    - The {sector} sub-sector places {earn_rank} and {rev_rank} in earnings and revenue rank respectively compared to the other sub-sectors, indicating their performance.
+    - From the {sector} sub-sector, {top_earning} is the company with the highest YoY earnings growth and {top_revenue} has the highest YoY revenue growth.
+    - Add conditions that uniquely affect the {sector} sector's growth in Indonesia — do not include generic factors applicable to other sub-sectors.
+    - Attempt to mention specific regulations that influence the {sector} sector's growth in Indonesia.
 
-    # Specify the prompt
-    prompt = """
-    Please write a medium-length paragraph that include some of these information: 
-    - The {sector} sub-sector growth in the past one year is {subsec_earning_growth}% for average annual earning growth changes
-    - The {sector} sub-sector revenue changes in the past one year is {subsec_revenue_growth}% for average annual revenue growth changes.
-    - The {sector} sub-sector place {earn_rank} and {rev_rank} for  earnings rank and revenue rank respectively compared to the other sub-sectors. Indicating their performance compare to another sub-sector
-    - - From the {sector} sub-sector, {top_earning} is the companies with the highest YoY earning growth, {top_revenue} is the companies with the highest YoY revenue growth, and {top_netprofmarg} is the company with the highest net profit margin.
-    - Add the condition that can affect the {sector} sector growth in Indonesia, and use only condition that can affect only to the {sector} sub-sectors don't add any generic answer that can be applied to other sub-sector. 
-    - Attempt to provide regulatory that affect the growth unique to {sector} sub-sector in Indonesia
-
-    Don't give a financial advice and keep it short, no need to explain in detail for all the factors
+    Do not give financial advice. Keep it concise.
     """
-    # Call OpenAI model
-    model = ChatOpenAI(temperature=0.5, openai_api_key=os.environ.get("OPENAI_API_KEY"))
 
-    prompt = PromptTemplate(input_variables=["sub_sector","sub_industries","companies"],template=prompt)
+    prompt = PromptTemplate.from_template(template)
 
-    chain = LLMChain(llm=model, prompt=prompt)
+    # === Chain ===
+    chain = prompt | model
 
-    result = chain.run(sector=sector,
-    subsec_earning_growth = round(subsec_earning_growth*100,2),
-    subsec_revenue_growth = round(subsec_revenue_growth*100,2),
-    earn_rank = earn_rank,
-    rev_rank = rev_rank,
-    top_earning = top_earning,
-    top_revenue = top_revenue,
-    top_netprofmarg = top_netprofmarg)
+    # === Call the model ===
+    result = chain.invoke({
+        "sector": sector,
+        "subsec_earning_growth": round(subsec_earning_growth * 100, 2),
+        "subsec_revenue_growth": round(subsec_revenue_growth * 100, 2),
+        "earn_rank": earn_rank,
+        "rev_rank": rev_rank,
+        "top_earning": top_earning,
+        "top_revenue": top_revenue,
+    })
 
+    result = result.content
+    
     try:
-        ticker = [top_earning,top_revenue,top_netprofmarg]
+        ticker = [top_earning,top_revenue]
         ticker = list(set(ticker))
 
         for i in ticker:
             result = result.replace(i, f'[#{i}]{df_comrep[df_comrep.symbol == i].company_name.values[0]}[\#{i}]')
     except:
         return result
-
+    
     return result
 
 ### Generate description and save it into DB for Sector Growth index description
