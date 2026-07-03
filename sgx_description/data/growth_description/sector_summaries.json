@@ -1,0 +1,286 @@
+[
+  {
+    "sector_name": "Consumer Non-Cyclicals",
+    "company_count": 10,
+    "avg_annual_earning_growth": 0.399721826384699,
+    "avg_annual_revenue_growth": 0.0506138192581723,
+    "earnings_rank": 6,
+    "revenue_rank": 9,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "VC2",
+      "company_name": "Olam Group Ltd"
+    },
+    "top_revenue": {
+      "symbol": "EB5",
+      "company_name": "First Resources Ltd"
+    },
+    "excluded_symbols": []
+  },
+  {
+    "sector_name": "Consumer Cyclicals",
+    "company_count": 84,
+    "avg_annual_earning_growth": -0.137652108509221,
+    "avg_annual_revenue_growth": 0.0900103558988703,
+    "earnings_rank": 13,
+    "revenue_rank": 7,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "51O",
+      "company_name": "MSM International Ltd"
+    },
+    "top_revenue": {
+      "symbol": "5OX",
+      "company_name": "Mary Chia Holdings Ltd"
+    },
+    "excluded_symbols": [
+      "8M4R",
+      "YV4R"
+    ]
+  },
+  {
+    "sector_name": "Transportation & Logistics",
+    "company_count": 8,
+    "avg_annual_earning_growth": 0.0263667042474101,
+    "avg_annual_revenue_growth": 0.0265066011271497,
+    "earnings_rank": 11,
+    "revenue_rank": 11,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "FQ7",
+      "company_name": "Salt Investments Ltd"
+    },
+    "top_revenue": {
+      "symbol": "R14",
+      "company_name": "Eneco Energy Ltd"
+    },
+    "excluded_symbols": []
+  },
+  {
+    "sector_name": "Healthcare",
+    "company_count": 42,
+    "avg_annual_earning_growth": -0.849533074515486,
+    "avg_annual_revenue_growth": 0.188895100647285,
+    "earnings_rank": 14,
+    "revenue_rank": 2,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "1H3",
+      "company_name": "Clearbridge Health Ltd"
+    },
+    "top_revenue": {
+      "symbol": "8YY",
+      "company_name": "Embracing Future Holdings Ltd"
+    },
+    "excluded_symbols": []
+  },
+  {
+    "sector_name": "Properties & Real Estate",
+    "company_count": 53,
+    "avg_annual_earning_growth": 0.726579568657245,
+    "avg_annual_revenue_growth": 0.271343765187729,
+    "earnings_rank": 4,
+    "revenue_rank": 1,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "5IC",
+      "company_name": "SING Holdings Ltd"
+    },
+    "top_revenue": {
+      "symbol": "5IC",
+      "company_name": "SING Holdings Ltd"
+    },
+    "excluded_symbols": []
+  },
+  {
+    "sector_name": "Energy",
+    "company_count": 25,
+    "avg_annual_earning_growth": -0.11870614292778,
+    "avg_annual_revenue_growth": 0.00443574739025789,
+    "earnings_rank": 12,
+    "revenue_rank": 14,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "JFQ",
+      "company_name": "JFQ"
+    },
+    "top_revenue": {
+      "symbol": "BDU",
+      "company_name": "Federal International (2000) Ltd"
+    },
+    "excluded_symbols": []
+  },
+  {
+    "sector_name": "Utilities",
+    "company_count": 13,
+    "avg_annual_earning_growth": 0.40190625398686,
+    "avg_annual_revenue_growth": -0.0742055244171343,
+    "earnings_rank": 5,
+    "revenue_rank": 15,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "5GD",
+      "company_name": "Sunpower Group Ltd"
+    },
+    "top_revenue": {
+      "symbol": "BEH",
+      "company_name": "China International Holdings Ltd"
+    },
+    "excluded_symbols": []
+  },
+  {
+    "sector_name": "Consumer Defensive",
+    "company_count": 30,
+    "avg_annual_earning_growth": 0.895018261999672,
+    "avg_annual_revenue_growth": 0.136406558134791,
+    "earnings_rank": 3,
+    "revenue_rank": 4,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "CNE",
+      "company_name": "MindChamps PreSchool Ltd"
+    },
+    "top_revenue": {
+      "symbol": "5EG",
+      "company_name": "Zhongxin Fruit and Juice Ltd"
+    },
+    "excluded_symbols": []
+  },
+  {
+    "sector_name": "Financial Services",
+    "company_count": 29,
+    "avg_annual_earning_growth": 0.110375886273585,
+    "avg_annual_revenue_growth": 0.114171776372835,
+    "earnings_rank": 10,
+    "revenue_rank": 5,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "I49",
+      "company_name": "IFS Capital Ltd"
+    },
+    "top_revenue": {
+      "symbol": "K6S",
+      "company_name": "Prudential PLC"
+    },
+    "excluded_symbols": []
+  },
+  {
+    "sector_name": "Communication Services",
+    "company_count": 15,
+    "avg_annual_earning_growth": -1.15831219021852,
+    "avg_annual_revenue_growth": 0.0295435433873041,
+    "earnings_rank": 15,
+    "revenue_rank": 10,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "9VW",
+      "company_name": "Spackman Entertainment Group Ltd"
+    },
+    "top_revenue": {
+      "symbol": "9VW",
+      "company_name": "Spackman Entertainment Group Ltd"
+    },
+    "excluded_symbols": []
+  },
+  {
+    "sector_name": "Basic Materials",
+    "company_count": 36,
+    "avg_annual_earning_growth": 10.4653654180106,
+    "avg_annual_revenue_growth": 0.0995003628342628,
+    "earnings_rank": 1,
+    "revenue_rank": 6,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "KUO",
+      "company_name": "International Cement Group Ltd"
+    },
+    "top_revenue": {
+      "symbol": "C8R",
+      "company_name": "Jiutian Chemical Group Ltd"
+    },
+    "excluded_symbols": []
+  },
+  {
+    "sector_name": "Infrastructures",
+    "company_count": 7,
+    "avg_annual_earning_growth": 3.50908276931616,
+    "avg_annual_revenue_growth": 0.0222667277489411,
+    "earnings_rank": 2,
+    "revenue_rank": 13,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "Z74",
+      "company_name": "Singapore Telecommunications Ltd"
+    },
+    "top_revenue": {
+      "symbol": "S59",
+      "company_name": "SIA Engineering Co Ltd"
+    },
+    "excluded_symbols": []
+  },
+  {
+    "sector_name": "REIT",
+    "company_count": 38,
+    "avg_annual_earning_growth": 0.301123091570791,
+    "avg_annual_revenue_growth": 0.0529646926841167,
+    "earnings_rank": 7,
+    "revenue_rank": 8,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "M1GU",
+      "company_name": "Alpha Integrated REIT"
+    },
+    "top_revenue": {
+      "symbol": "DCRU",
+      "company_name": "Digital Core REIT"
+    },
+    "excluded_symbols": [
+      "8U7U",
+      "MENU",
+      "SET"
+    ]
+  },
+  {
+    "sector_name": "Industrials",
+    "company_count": 126,
+    "avg_annual_earning_growth": 0.131464311666503,
+    "avg_annual_revenue_growth": 0.0224806311983496,
+    "earnings_rank": 9,
+    "revenue_rank": 12,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "5OC",
+      "company_name": "Koyo International Ltd"
+    },
+    "top_revenue": {
+      "symbol": "Y06",
+      "company_name": "Green Build Technology Ltd"
+    },
+    "excluded_symbols": [
+      "VDCR",
+      "LQPR",
+      "P7VU",
+      "Y5DR"
+    ]
+  },
+  {
+    "sector_name": "Technology",
+    "company_count": 57,
+    "avg_annual_earning_growth": 0.265302504677647,
+    "avg_annual_revenue_growth": 0.164699576888117,
+    "earnings_rank": 8,
+    "revenue_rank": 3,
+    "total_sectors": 15,
+    "top_earning": {
+      "symbol": "BLU",
+      "company_name": "GRP Ltd"
+    },
+    "top_revenue": {
+      "symbol": "9MT",
+      "company_name": "MetaOptics Ltd"
+    },
+    "excluded_symbols": [
+      "XWA"
+    ]
+  }
+]

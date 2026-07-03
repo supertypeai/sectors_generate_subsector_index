@@ -1,0 +1,70 @@
+name: Update SGX sector, P/E Value, Health & Resilience Index, & Growth Index descriptions
+
+on:
+  schedule:
+    - cron: '0 3 1 * *' # Sector description: 1st of month at 10am (WIB)
+    - cron: '0 2 * * 1'  # P/E, Health & Growth index descriptions: every Monday at 9am (WIB)
+  workflow_dispatch:
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.12'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run description generation
+      env:
+        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+        SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        SCHEDULE: ${{ github.event.schedule }}
+      run: |
+        if [ "$SCHEDULE" = "0 3 1 * *" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          python -m sgx_description.generate_description
+        fi
+
+        if [ "$SCHEDULE" = "0 2 * * 1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          python -m sgx_description.generate_growth_description
+          python -m sgx_description.generate_health_description
+          python -m sgx_description.generate_pe_description
+        fi
+
+    - name: Upsert descriptions
+      env:
+        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+        SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        SCHEDULE: ${{ github.event.schedule }}
+      run: |
+        if [ "$SCHEDULE" = "0 3 1 * *" ]; then
+          python -m sgx_description.upsert_description description
+        elif [ "$SCHEDULE" = "0 2 * * 1" ]; then
+          python -m sgx_description.upsert_description growth health pe
+        else
+          python -m sgx_description.upsert_description
+        fi
+
+    - name: commit files
+      run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+
+    - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.TOKEN_GITHUB }}
+        branch: main
