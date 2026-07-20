@@ -2,9 +2,9 @@
   {
     "sector_name": "Consumer Non-Cyclicals",
     "company_count": 10,
-    "sector_pe_median": 18.573974,
-    "sector_last_year_pe_median": 10.821400455836656,
-    "overall_pe_median": 8.715084,
+    "sector_pe_median": 18.342806,
+    "sector_last_year_pe_median": 10.986854093351571,
+    "overall_pe_median": 8.5505415,
     "pe_status": "higher",
     "below_sector_median_count": 5,
     "below_market_median_count": 1,
@@ -27,9 +27,9 @@
   {
     "sector_name": "Consumer Cyclicals",
     "company_count": 84,
-    "sector_pe_median": 6.5017485,
-    "sector_last_year_pe_median": 4.627069699499052,
-    "overall_pe_median": 8.715084,
+    "sector_pe_median": 6.592644,
+    "sector_last_year_pe_median": 4.920851870534132,
+    "overall_pe_median": 8.5505415,
     "pe_status": "higher",
     "below_sector_median_count": 8,
     "below_market_median_count": 10,
@@ -55,9 +55,9 @@
   {
     "sector_name": "Transportation & Logistics",
     "company_count": 8,
-    "sector_pe_median": 5.496379,
-    "sector_last_year_pe_median": 7.865446238176516,
-    "overall_pe_median": 8.715084,
+    "sector_pe_median": 5.412256,
+    "sector_last_year_pe_median": 8.280006795035915,
+    "overall_pe_median": 8.5505415,
     "pe_status": "lower",
     "below_sector_median_count": 3,
     "below_market_median_count": 4,
@@ -79,10 +79,10 @@
   },
   {
     "sector_name": "Healthcare",
-    "company_count": 42,
-    "sector_pe_median": 1.59455146077685,
-    "sector_last_year_pe_median": 5.815874155705652,
-    "overall_pe_median": 8.715084,
+    "company_count": 40,
+    "sector_pe_median": 1.26976332608696,
+    "sector_last_year_pe_median": 5.634128095745941,
+    "overall_pe_median": 8.5505415,
     "pe_status": "lower",
     "below_sector_median_count": 2,
     "below_market_median_count": 5,
@@ -105,34 +105,34 @@
   {
     "sector_name": "Properties & Real Estate",
     "company_count": 53,
-    "sector_pe_median": 10.163339,
-    "sector_last_year_pe_median": 9.363172203088546,
-    "overall_pe_median": 8.715084,
-    "pe_status": "higher",
+    "sector_pe_median": 10.338346,
+    "sector_last_year_pe_median": 10.793622762552527,
+    "overall_pe_median": 8.5505415,
+    "pe_status": "lower",
     "below_sector_median_count": 9,
-    "below_market_median_count": 9,
+    "below_market_median_count": 7,
     "undervalued_companies": [
       {
         "symbol": "1F3",
         "company_name": "Aspen (Group) Holdings Ltd"
       },
       {
-        "symbol": "B61",
-        "company_name": "Bukit Sembawang Estates Ltd"
+        "symbol": "5IC",
+        "company_name": "SING Holdings Ltd"
       },
       {
-        "symbol": "F86",
-        "company_name": "MYP Ltd"
+        "symbol": "CTO",
+        "company_name": "Hong Lai Huat Group Ltd"
       }
     ],
     "excluded_symbols": []
   },
   {
     "sector_name": "Energy",
-    "company_count": 25,
-    "sector_pe_median": 7.862137,
-    "sector_last_year_pe_median": 5.330023482053003,
-    "overall_pe_median": 8.715084,
+    "company_count": 23,
+    "sector_pe_median": 6.60877,
+    "sector_last_year_pe_median": 6.030467293504923,
+    "overall_pe_median": 8.5505415,
     "pe_status": "higher",
     "below_sector_median_count": 0,
     "below_market_median_count": 1,
@@ -142,12 +142,12 @@
         "company_name": "AnAn International Ltd"
       },
       {
-        "symbol": "DU4",
-        "company_name": "Mermaid Maritime PCL"
-      },
-      {
         "symbol": "BDU",
         "company_name": "Federal International (2000) Ltd"
+      },
+      {
+        "symbol": "DU4",
+        "company_name": "Mermaid Maritime PCL"
       }
     ],
     "excluded_symbols": []
@@ -155,9 +155,9 @@
   {
     "sector_name": "Utilities",
     "company_count": 13,
-    "sector_pe_median": 0.15141409752698723,
-    "sector_last_year_pe_median": 1.8303993064370097,
-    "overall_pe_median": 8.715084,
+    "sector_pe_median": 0.12479262473551636,
+    "sector_last_year_pe_median": 1.850558272113275,
+    "overall_pe_median": 8.5505415,
     "pe_status": "lower",
     "below_sector_median_count": 0,
     "below_market_median_count": 5,
@@ -180,9 +180,9 @@
   {
     "sector_name": "Consumer Defensive",
     "company_count": 30,
-    "sector_pe_median": 5.766945,
-    "sector_last_year_pe_median": 5.319956312592091,
-    "overall_pe_median": 8.715084,
+    "sector_pe_median": 5.5279834999999995,
+    "sector_last_year_pe_median": 5.459625867885683,
+    "overall_pe_median": 8.5505415,
     "pe_status": "higher",
     "below_sector_median_count": 7,
     "below_market_median_count": 11,
@@ -205,9 +205,9 @@
   {
     "sector_name": "Financial Services",
     "company_count": 29,
-    "sector_pe_median": 12.550908,
-    "sector_last_year_pe_median": 10.804989377080055,
-    "overall_pe_median": 8.715084,
+    "sector_pe_median": 11.803431,
+    "sector_last_year_pe_median": 10.361338589307703,
+    "overall_pe_median": 8.5505415,
     "pe_status": "higher",
     "below_sector_median_count": 5,
     "below_market_median_count": 2,
@@ -230,9 +230,9 @@
   {
     "sector_name": "Communication Services",
     "company_count": 15,
-    "sector_pe_median": -0.0100663771938,
-    "sector_last_year_pe_median": 9.912360387953036,
-    "overall_pe_median": 8.715084,
+    "sector_pe_median": -0.00636880597018086,
+    "sector_last_year_pe_median": 10.32142110841914,
+    "overall_pe_median": 8.5505415,
     "pe_status": "negative",
     "below_sector_median_count": 0,
     "below_market_median_count": 0,
@@ -246,8 +246,8 @@
         "company_name": "TeleChoice International Ltd"
       },
       {
-        "symbol": "YYB",
-        "company_name": "Bacui Technologies International Ltd"
+        "symbol": "CC3",
+        "company_name": "StarHub Ltd"
       }
     ],
     "excluded_symbols": []
@@ -255,9 +255,9 @@
   {
     "sector_name": "Basic Materials",
     "company_count": 36,
-    "sector_pe_median": 6.052099,
-    "sector_last_year_pe_median": 3.306477884166613,
-    "overall_pe_median": 8.715084,
+    "sector_pe_median": 5.1211865,
+    "sector_last_year_pe_median": 3.344051505336105,
+    "overall_pe_median": 8.5505415,
     "pe_status": "higher",
     "below_sector_median_count": 3,
     "below_market_median_count": 9,
@@ -271,8 +271,8 @@
         "company_name": "Luxking Group Holdings Ltd"
       },
       {
-        "symbol": "KUO",
-        "company_name": "International Cement Group Ltd"
+        "symbol": "5MD",
+        "company_name": "Soon Lian Holdings Ltd"
       }
     ],
     "excluded_symbols": []
@@ -280,9 +280,9 @@
   {
     "sector_name": "Infrastructures",
     "company_count": 7,
-    "sector_pe_median": 12.968471,
-    "sector_last_year_pe_median": 15.865859837208145,
-    "overall_pe_median": 8.715084,
+    "sector_pe_median": 13.206425,
+    "sector_last_year_pe_median": 17.140061015831133,
+    "overall_pe_median": 8.5505415,
     "pe_status": "lower",
     "below_sector_median_count": 3,
     "below_market_median_count": 0,
@@ -305,12 +305,12 @@
   {
     "sector_name": "REIT",
     "company_count": 38,
-    "sector_pe_median": 14.305080499999999,
-    "sector_last_year_pe_median": 13.629224774943648,
-    "overall_pe_median": 8.715084,
-    "pe_status": "higher",
+    "sector_pe_median": 13.7519295,
+    "sector_last_year_pe_median": 13.901614475871925,
+    "overall_pe_median": 8.5505415,
+    "pe_status": "lower",
     "below_sector_median_count": 12,
-    "below_market_median_count": 3,
+    "below_market_median_count": 2,
     "undervalued_companies": [
       {
         "symbol": "D5IU",
@@ -334,12 +334,12 @@
   {
     "sector_name": "Industrials",
     "company_count": 126,
-    "sector_pe_median": 9.199911499999999,
-    "sector_last_year_pe_median": 7.168342900510556,
-    "overall_pe_median": 8.715084,
+    "sector_pe_median": 8.4601525,
+    "sector_last_year_pe_median": 7.758138693127361,
+    "overall_pe_median": 8.5505415,
     "pe_status": "higher",
     "below_sector_median_count": 35,
-    "below_market_median_count": 32,
+    "below_market_median_count": 35,
     "undervalued_companies": [
       {
         "symbol": "LS9",
@@ -350,27 +350,30 @@
         "company_name": "Hoe Leong Corp Ltd"
       },
       {
-        "symbol": "NEX",
-        "company_name": "Reclaims Global Ltd"
+        "symbol": "G20",
+        "company_name": "GP Industries Ltd"
       }
     ],
     "excluded_symbols": [
       "VDCR",
       "LQPR",
-      "P7VU",
-      "Y5DR"
+      "P7VU"
     ]
   },
   {
     "sector_name": "Technology",
     "company_count": 57,
-    "sector_pe_median": 6.759803240194325,
-    "sector_last_year_pe_median": 5.5476018818013255,
-    "overall_pe_median": 8.715084,
-    "pe_status": "higher",
+    "sector_pe_median": 2.389359619810975,
+    "sector_last_year_pe_median": 6.61714947492443,
+    "overall_pe_median": 8.5505415,
+    "pe_status": "lower",
     "below_sector_median_count": 1,
-    "below_market_median_count": 2,
+    "below_market_median_count": 3,
     "undervalued_companies": [
+      {
+        "symbol": "5PF",
+        "company_name": "Jason Marine Group Ltd"
+      },
       {
         "symbol": "K29",
         "company_name": "Karin Technology Holdings Ltd"
@@ -378,10 +381,6 @@
       {
         "symbol": "AYN",
         "company_name": "Global Testing Corp Ltd"
-      },
-      {
-        "symbol": "42E",
-        "company_name": "Choo Chiang Holdings Ltd"
       }
     ],
     "excluded_symbols": [
