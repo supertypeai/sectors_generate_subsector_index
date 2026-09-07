@@ -2,8 +2,8 @@
   {
     "sector_name": "Consumer Non-Cyclicals",
     "company_count": 10,
-    "avg_annual_earning_growth": 0.312714339701141,
-    "avg_annual_revenue_growth": 0.0953758468857644,
+    "avg_annual_earning_growth": 0.322707080082426,
+    "avg_annual_revenue_growth": 0.0971380183720375,
     "earnings_rank": 9,
     "revenue_rank": 6,
     "total_sectors": 15,
@@ -20,10 +20,10 @@
   {
     "sector_name": "Consumer Cyclicals",
     "company_count": 84,
-    "avg_annual_earning_growth": -0.0304355471718704,
-    "avg_annual_revenue_growth": 0.155791074490786,
+    "avg_annual_earning_growth": -0.0392652876457456,
+    "avg_annual_revenue_growth": 0.148970688235498,
     "earnings_rank": 12,
-    "revenue_rank": 1,
+    "revenue_rank": 2,
     "total_sectors": 15,
     "top_earning": {
       "symbol": "51O.SI",
@@ -38,8 +38,8 @@
   {
     "sector_name": "Transportation & Logistics",
     "company_count": 8,
-    "avg_annual_earning_growth": 0.0184460409319498,
-    "avg_annual_revenue_growth": 0.0270318170039604,
+    "avg_annual_earning_growth": 0.0181103072537917,
+    "avg_annual_revenue_growth": 0.0270343658488597,
     "earnings_rank": 11,
     "revenue_rank": 11,
     "total_sectors": 15,
@@ -56,8 +56,8 @@
   {
     "sector_name": "Healthcare",
     "company_count": 40,
-    "avg_annual_earning_growth": -0.784260268776128,
-    "avg_annual_revenue_growth": 0.131747898242193,
+    "avg_annual_earning_growth": -0.794214407035129,
+    "avg_annual_revenue_growth": 0.131638980495655,
     "earnings_rank": 14,
     "revenue_rank": 4,
     "total_sectors": 15,
@@ -74,8 +74,8 @@
   {
     "sector_name": "Properties & Real Estate",
     "company_count": 53,
-    "avg_annual_earning_growth": 0.822905185242402,
-    "avg_annual_revenue_growth": 0.143499502354392,
+    "avg_annual_earning_growth": 0.841091651380415,
+    "avg_annual_revenue_growth": 0.134015027010959,
     "earnings_rank": 3,
     "revenue_rank": 3,
     "total_sectors": 15,
@@ -92,8 +92,8 @@
   {
     "sector_name": "Energy",
     "company_count": 23,
-    "avg_annual_earning_growth": -0.0743946772155759,
-    "avg_annual_revenue_growth": 0.00581066177369306,
+    "avg_annual_earning_growth": -0.0840108787571953,
+    "avg_annual_revenue_growth": 0.00498102683629166,
     "earnings_rank": 13,
     "revenue_rank": 14,
     "total_sectors": 15,
@@ -102,17 +102,17 @@
       "company_name": "JFQ"
     },
     "top_revenue": {
-      "symbol": "BDU.SI",
-      "company_name": "Federal International (2000) Ltd"
+      "symbol": "TPED.SI",
+      "company_name": "PTT Exploration Production PCL DRC"
     },
     "excluded_symbols": []
   },
   {
     "sector_name": "Utilities",
     "company_count": 13,
-    "avg_annual_earning_growth": 0.48997405859919,
-    "avg_annual_revenue_growth": -0.055478619464631,
-    "earnings_rank": 5,
+    "avg_annual_earning_growth": 0.499569497763149,
+    "avg_annual_revenue_growth": -0.0550333067475936,
+    "earnings_rank": 4,
     "revenue_rank": 15,
     "total_sectors": 15,
     "top_earning": {
@@ -128,9 +128,9 @@
   {
     "sector_name": "Consumer Defensive",
     "company_count": 30,
-    "avg_annual_earning_growth": 0.539792082555928,
-    "avg_annual_revenue_growth": 0.10995702880393,
-    "earnings_rank": 4,
+    "avg_annual_earning_growth": 0.46803563822444,
+    "avg_annual_revenue_growth": 0.108551085573665,
+    "earnings_rank": 5,
     "revenue_rank": 5,
     "total_sectors": 15,
     "top_earning": {
@@ -146,8 +146,8 @@
   {
     "sector_name": "Financial Services",
     "company_count": 29,
-    "avg_annual_earning_growth": 0.0920355200736032,
-    "avg_annual_revenue_growth": 0.0883943240288329,
+    "avg_annual_earning_growth": 0.0895881273001325,
+    "avg_annual_revenue_growth": 0.0868803188431545,
     "earnings_rank": 10,
     "revenue_rank": 8,
     "total_sectors": 15,
@@ -164,8 +164,8 @@
   {
     "sector_name": "Communication Services",
     "company_count": 15,
-    "avg_annual_earning_growth": -1.1980486578193,
-    "avg_annual_revenue_growth": 0.0298406016460406,
+    "avg_annual_earning_growth": -1.1656575220502,
+    "avg_annual_revenue_growth": 0.0289543741530457,
     "earnings_rank": 15,
     "revenue_rank": 10,
     "total_sectors": 15,
@@ -182,8 +182,8 @@
   {
     "sector_name": "Basic Materials",
     "company_count": 36,
-    "avg_annual_earning_growth": 12.116315798579,
-    "avg_annual_revenue_growth": 0.0948963849186892,
+    "avg_annual_earning_growth": 11.9769705079392,
+    "avg_annual_revenue_growth": 0.0916967872008275,
     "earnings_rank": 1,
     "revenue_rank": 7,
     "total_sectors": 15,
@@ -200,8 +200,8 @@
   {
     "sector_name": "Infrastructures",
     "company_count": 7,
-    "avg_annual_earning_growth": 3.419220409549,
-    "avg_annual_revenue_growth": 0.0174952540874822,
+    "avg_annual_earning_growth": 3.41480095666076,
+    "avg_annual_revenue_growth": 0.0174686229241665,
     "earnings_rank": 2,
     "revenue_rank": 13,
     "total_sectors": 15,
@@ -218,8 +218,8 @@
   {
     "sector_name": "REIT",
     "company_count": 42,
-    "avg_annual_earning_growth": 0.373250044550414,
-    "avg_annual_revenue_growth": 0.0411758927113035,
+    "avg_annual_earning_growth": 0.374703497989522,
+    "avg_annual_revenue_growth": 0.0412483364272756,
     "earnings_rank": 8,
     "revenue_rank": 9,
     "total_sectors": 15,
@@ -236,8 +236,8 @@
   {
     "sector_name": "Industrials",
     "company_count": 127,
-    "avg_annual_earning_growth": 0.435346650804002,
-    "avg_annual_revenue_growth": 0.0234288651936925,
+    "avg_annual_earning_growth": 0.435003370816408,
+    "avg_annual_revenue_growth": 0.0233621815032601,
     "earnings_rank": 6,
     "revenue_rank": 12,
     "total_sectors": 15,
@@ -254,10 +254,10 @@
   {
     "sector_name": "Technology",
     "company_count": 58,
-    "avg_annual_earning_growth": 0.42545870363998,
-    "avg_annual_revenue_growth": 0.153970223790004,
+    "avg_annual_earning_growth": 0.423730191823045,
+    "avg_annual_revenue_growth": 0.169747057104049,
     "earnings_rank": 7,
-    "revenue_rank": 2,
+    "revenue_rank": 1,
     "total_sectors": 15,
     "top_earning": {
       "symbol": "BLU.SI",

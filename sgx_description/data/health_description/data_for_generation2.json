@@ -2,10 +2,10 @@
   {
     "Consumer Non-Cyclicals": {
       "P8Z.SI": {
-        "market_cap": 2930703434,
-        "close_30d": 1.69,
-        "close_today": 2.09,
-        "return_30d": 23.67,
+        "market_cap": 3034752077,
+        "close_30d": 1.75,
+        "close_today": 2.07,
+        "return_30d": 18.29,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -18,15 +18,15 @@
         "exclusion_reason": null
       },
       "D01.SI": {
-        "market_cap": 6262091107,
-        "close_30d": 3.58,
-        "close_today": 3.53,
-        "return_30d": -1.4,
+        "market_cap": 6546976377,
+        "close_30d": 3.77,
+        "close_today": 3.62,
+        "return_30d": -3.98,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "EMI.SI": {
-        "market_cap": 5123464940,
+        "market_cap": 5217105688,
         "close_30d": 0.345,
         "close_today": 0.34,
         "return_30d": -1.45,
@@ -34,54 +34,54 @@
         "exclusion_reason": null
       },
       "EB5.SI": {
-        "market_cap": 5356221060,
-        "close_30d": 3.46,
-        "close_today": 4.47,
-        "return_30d": 29.19,
+        "market_cap": 5557466360,
+        "close_30d": 3.59,
+        "close_today": 4.55,
+        "return_30d": 26.74,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "E5H.SI": {
-        "market_cap": 3614276820,
-        "close_30d": 0.285,
-        "close_today": 0.32,
-        "return_30d": 12.28,
+        "market_cap": 3550868455,
+        "close_30d": 0.28,
+        "close_today": 0.335,
+        "return_30d": 19.64,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "VC2.SI": {
-        "market_cap": 5279608859,
-        "close_30d": 1.4,
-        "close_today": 1.03,
-        "return_30d": -26.43,
+        "market_cap": 5166474383,
+        "close_30d": 1.37,
+        "close_today": 1.08,
+        "return_30d": -21.17,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "OV8.SI": {
-        "market_cap": 4901530620,
-        "close_30d": 3.26,
-        "close_today": 3.19,
-        "return_30d": -2.15,
+        "market_cap": 4856424510,
+        "close_30d": 3.23,
+        "close_today": 3.27,
+        "return_30d": 1.24,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "Y92.SI": {
         "market_cap": 11560575625,
         "close_30d": 0.46,
-        "close_today": 0.465,
-        "return_30d": 1.09,
+        "close_today": 0.45,
+        "return_30d": -2.17,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "F34.SI": {
-        "market_cap": 24347305343,
-        "close_30d": 3.9,
-        "close_today": 3.81,
-        "return_30d": -2.31,
+        "market_cap": 24784308259,
+        "close_30d": 3.97,
+        "close_today": 3.82,
+        "return_30d": -3.78,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": -1.4
+      "sector_median": -1.45
     }
   },
   {
@@ -89,77 +89,77 @@
       "533.SI": {
         "market_cap": 78388336,
         "close_30d": 0.39,
-        "close_today": 0.4,
-        "return_30d": 2.56,
+        "close_today": 0.39,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AYV.SI": {
-        "market_cap": 4374750,
-        "close_30d": 0.086,
+        "market_cap": 4323881,
+        "close_30d": 0.085,
         "close_today": 0.069,
-        "return_30d": -19.77,
+        "return_30d": -18.82,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "A30.SI": {
-        "market_cap": 296882059,
-        "close_30d": 0.134,
-        "close_today": 0.158,
-        "return_30d": 17.91,
+        "market_cap": 301313135,
+        "close_30d": 0.136,
+        "close_today": 0.16,
+        "return_30d": 17.65,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5UF.SI": {
-        "market_cap": 761174233,
-        "close_30d": 0.37,
-        "close_today": 0.35,
-        "return_30d": -5.41,
+        "market_cap": 771460372,
+        "close_30d": 0.375,
+        "close_today": 0.355,
+        "return_30d": -5.33,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "B58.SI": {
         "market_cap": 477204864,
         "close_30d": 0.55,
-        "close_today": 0.525,
-        "return_30d": -4.55,
+        "close_today": 0.505,
+        "return_30d": -8.18,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "B28.SI": {
-        "market_cap": 375418365,
-        "close_30d": 0.935,
-        "close_today": 0.945,
-        "return_30d": 1.07,
+        "market_cap": 393486628,
+        "close_30d": 0.98,
+        "close_today": 0.955,
+        "return_30d": -2.55,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "9I7.SI": {
-        "market_cap": 27195550,
-        "close_30d": 0.06,
-        "close_today": 0.09,
-        "return_30d": 50.0,
+        "market_cap": 30821623,
+        "close_30d": 0.068,
+        "close_today": 0.071,
+        "return_30d": 4.41,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "C04.SI": {
-        "market_cap": 23920179,
-        "close_30d": 0.114,
-        "close_today": 0.111,
-        "return_30d": -2.63,
+        "market_cap": 24130006,
+        "close_30d": 0.115,
+        "close_today": 0.11,
+        "return_30d": -4.35,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "OU8.SI": {
-        "market_cap": 1294799080,
-        "close_30d": 1.54,
-        "close_today": 1.56,
-        "return_30d": 1.3,
+        "market_cap": 1370469157,
+        "close_30d": 1.63,
+        "close_today": 1.59,
+        "return_30d": -2.45,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "UIX.SI": {
-        "market_cap": 55645895,
+        "market_cap": 55256868,
         "close_30d": 0.09,
         "close_today": 0.08,
         "return_30d": -11.11,
@@ -175,10 +175,10 @@
         "exclusion_reason": null
       },
       "C41.SI": {
-        "market_cap": 635821113,
-        "close_30d": 3.84,
-        "close_today": 3.86,
-        "return_30d": 0.52,
+        "market_cap": 640788466,
+        "close_30d": 3.87,
+        "close_today": 4.03,
+        "return_30d": 4.13,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -191,66 +191,66 @@
         "exclusion_reason": null
       },
       "5SO.SI": {
-        "market_cap": 79081219,
-        "close_30d": 0.066,
+        "market_cap": 77883019,
+        "close_30d": 0.065,
         "close_today": 0.07,
-        "return_30d": 6.06,
+        "return_30d": 7.69,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5G1.SI": {
-        "market_cap": 12159000,
-        "close_30d": 0.042,
-        "close_today": 0.035,
-        "return_30d": -16.67,
+        "market_cap": 10711500,
+        "close_30d": 0.037,
+        "close_today": 0.027,
+        "return_30d": -27.03,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "F10.SI": {
         "market_cap": 8311197,
         "close_30d": 0.007,
-        "close_today": 0.007,
+        "close_today": 0.006,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "KYB.SI": {
-        "market_cap": 13565453,
-        "close_30d": 0.12,
+        "market_cap": 13000226,
+        "close_30d": 0.115,
         "close_today": 0.115,
-        "return_30d": -4.17,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AWK.SI": {
-        "market_cap": 17819092,
-        "close_30d": 0.87,
+        "market_cap": 17614275,
+        "close_30d": 0.86,
         "close_today": 0.8,
-        "return_30d": -8.05,
+        "return_30d": -6.98,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "43A.SI": {
-        "market_cap": 56263694,
-        "close_30d": 0.049,
+        "market_cap": 53967217,
+        "close_30d": 0.047,
         "close_today": 0.04,
-        "return_30d": -18.37,
+        "return_30d": -14.89,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "G13.SI": {
-        "market_cap": 7675926020,
-        "close_30d": 0.635,
-        "close_today": 0.63,
-        "return_30d": -0.79,
+        "market_cap": 7615485658,
+        "close_30d": 0.63,
+        "close_today": 0.62,
+        "return_30d": -1.59,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "G50.SI": {
         "market_cap": 141804333,
         "close_30d": 0.76,
-        "close_today": 0.73,
-        "return_30d": -3.95,
+        "close_today": 0.755,
+        "return_30d": -0.66,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -263,31 +263,31 @@
         "exclusion_reason": null
       },
       "AVX.SI": {
-        "market_cap": 38505288,
-        "close_30d": 0.41,
-        "close_today": 0.365,
-        "return_30d": -10.98,
+        "market_cap": 33809521,
+        "close_30d": 0.36,
+        "close_today": 0.34,
+        "return_30d": -5.56,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "504.SI": {
-        "market_cap": 38960190,
-        "close_30d": 0.007,
-        "close_today": 0.006,
+        "market_cap": 33394449,
+        "close_30d": 0.006,
+        "close_today": 0.007,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5DP.SI": {
-        "market_cap": 121808683,
-        "close_30d": 0.25,
+        "market_cap": 112063989,
+        "close_30d": 0.23,
         "close_today": 0.225,
-        "return_30d": -10.0,
+        "return_30d": -2.17,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "HLS.SI": {
-        "market_cap": 385600474,
+        "market_cap": 357032759,
         "close_30d": 0.17,
         "close_today": 0.24,
         "return_30d": 41.18,
@@ -295,58 +295,58 @@
         "exclusion_reason": null
       },
       "5JK.SI": {
-        "market_cap": 301156826,
-        "close_30d": 0.64,
+        "market_cap": 298804038,
+        "close_30d": 0.635,
         "close_today": 0.595,
-        "return_30d": -7.03,
+        "return_30d": -6.3,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "H22.SI": {
-        "market_cap": 2274702756,
-        "close_30d": 2.85,
-        "close_today": 3.12,
-        "return_30d": 9.47,
+        "market_cap": 2514145151,
+        "close_30d": 3.15,
+        "close_today": 3.02,
+        "return_30d": -4.13,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "H18.SI": {
-        "market_cap": 524992565,
-        "close_30d": 0.71,
+        "market_cap": 528689695,
+        "close_30d": 0.715,
         "close_today": 0.71,
-        "return_30d": 0.0,
+        "return_30d": -0.7,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "H15.SI": {
-        "market_cap": 2415026027,
-        "close_30d": 4.55,
-        "close_today": 4.63,
-        "return_30d": 1.76,
+        "market_cap": 2409718277,
+        "close_30d": 4.54,
+        "close_today": 4.6,
+        "return_30d": 1.32,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "H12.SI": {
-        "market_cap": 251596800,
-        "close_30d": 2.08,
-        "close_today": 2.04,
-        "return_30d": -1.92,
+        "market_cap": 250387200,
+        "close_30d": 2.07,
+        "close_today": 2.03,
+        "return_30d": -1.93,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5OI.SI": {
-        "market_cap": 17368620,
-        "close_30d": 0.1,
-        "close_today": 0.12,
-        "return_30d": 20.0,
+        "market_cap": 18237051,
+        "close_30d": 0.105,
+        "close_today": 0.101,
+        "return_30d": -3.81,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "42R.SI": {
-        "market_cap": 165430554,
-        "close_30d": 0.275,
-        "close_today": 0.26,
-        "return_30d": -5.45,
+        "market_cap": 162422726,
+        "close_30d": 0.27,
+        "close_today": 0.265,
+        "return_30d": -1.85,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -361,16 +361,16 @@
       "1A0.SI": {
         "market_cap": 6296342,
         "close_30d": 0.025,
-        "close_today": 0.017,
-        "return_30d": -32.0,
+        "close_today": 0.01,
+        "return_30d": -60.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1D0.SI": {
-        "market_cap": 485507183,
+        "market_cap": 491731634,
         "close_30d": 0.39,
-        "close_today": 0.41,
-        "return_30d": 5.13,
+        "close_today": 0.405,
+        "return_30d": 3.85,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -385,8 +385,8 @@
       "1H8.SI": {
         "market_cap": 20040767,
         "close_30d": 0.041,
-        "close_today": 0.031,
-        "return_30d": -24.39,
+        "close_today": 0.038,
+        "return_30d": -7.32,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -409,40 +409,40 @@
       "SJY.SI": {
         "market_cap": 7171398,
         "close_30d": 0.06,
-        "close_today": 0.06,
-        "return_30d": 0.0,
+        "close_today": 0.083,
+        "return_30d": 38.33,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "M01.SI": {
-        "market_cap": 380896502,
-        "close_30d": 0.46,
+        "market_cap": 372616143,
+        "close_30d": 0.45,
         "close_today": 0.415,
-        "return_30d": -9.78,
+        "return_30d": -7.78,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5WJ.SI": {
-        "market_cap": 754791790,
-        "close_30d": 0.79,
-        "close_today": 0.735,
-        "return_30d": -6.96,
+        "market_cap": 773900443,
+        "close_30d": 0.81,
+        "close_today": 0.755,
+        "return_30d": -6.79,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "NIO.SI": {
-        "market_cap": 15268568193,
-        "close_30d": 4.85,
-        "close_today": 4.44,
-        "return_30d": -8.45,
+        "market_cap": 15559994394,
+        "close_30d": 4.83,
+        "close_today": 3.89,
+        "return_30d": -19.46,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "N08.SI": {
-        "market_cap": 85106015,
-        "close_30d": 0.194,
-        "close_today": 0.205,
-        "return_30d": 5.67,
+        "market_cap": 85544706,
+        "close_30d": 0.195,
+        "close_today": 0.2,
+        "return_30d": 2.56,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -455,42 +455,42 @@
         "exclusion_reason": null
       },
       "5ML.SI": {
-        "market_cap": 143222146,
-        "close_30d": 1.18,
+        "market_cap": 144435893,
+        "close_30d": 1.19,
         "close_today": 1.17,
-        "return_30d": -0.85,
+        "return_30d": -1.68,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "O08.SI": {
-        "market_cap": 43957530,
-        "close_30d": 0.174,
+        "market_cap": 40925976,
+        "close_30d": 0.162,
         "close_today": 0.215,
-        "return_30d": 23.56,
+        "return_30d": 32.72,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "DM0.SI": {
-        "market_cap": 234477686,
-        "close_30d": 0.43,
-        "close_today": 0.49,
-        "return_30d": 13.95,
+        "market_cap": 239930656,
+        "close_30d": 0.44,
+        "close_today": 0.5,
+        "return_30d": 13.64,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "O9E.SI": {
-        "market_cap": 77487000,
-        "close_30d": 0.115,
-        "close_today": 0.105,
-        "return_30d": -8.7,
+        "market_cap": 80182200,
+        "close_30d": 0.119,
+        "close_today": 0.1,
+        "return_30d": -15.97,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "596.SI": {
         "market_cap": 25829410,
         "close_30d": 0.018,
-        "close_today": 0.017,
-        "return_30d": -5.56,
+        "close_today": 0.014,
+        "return_30d": -22.22,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -505,24 +505,24 @@
       "PPC.SI": {
         "market_cap": 88328236,
         "close_30d": 0.055,
-        "close_today": 0.055,
-        "return_30d": 0.0,
+        "close_today": 0.075,
+        "return_30d": 36.36,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5HH.SI": {
         "market_cap": 10767779,
         "close_30d": 0.013,
-        "close_today": 0.013,
-        "return_30d": 0.0,
+        "close_today": 0.012,
+        "return_30d": -7.69,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BCV.SI": {
-        "market_cap": 13736702,
-        "close_30d": 0.121,
+        "market_cap": 14304334,
+        "close_30d": 0.126,
         "close_today": 0.118,
-        "return_30d": -2.48,
+        "return_30d": -6.35,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -535,192 +535,192 @@
         "exclusion_reason": null
       },
       "BHU.SI": {
-        "market_cap": 81246420,
-        "close_30d": 0.915,
-        "close_today": 0.835,
-        "return_30d": -8.74,
+        "market_cap": 79914511,
+        "close_30d": 0.9,
+        "close_today": 0.86,
+        "return_30d": -4.44,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5DO.SI": {
-        "market_cap": 12090564,
-        "close_30d": 0.087,
-        "close_today": 0.087,
-        "return_30d": 0.0,
+        "market_cap": 10283928,
+        "close_30d": 0.074,
+        "close_today": 0.076,
+        "return_30d": 2.7,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S07.SI": {
-        "market_cap": 2405449990,
-        "close_30d": 4.5,
-        "close_today": 4.14,
-        "return_30d": -8.0,
+        "market_cap": 2498594960,
+        "close_30d": 4.32,
+        "close_today": 4.15,
+        "return_30d": -3.94,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "URR.SI": {
-        "market_cap": 67799732,
-        "close_30d": 0.41,
+        "market_cap": 64492428,
+        "close_30d": 0.39,
         "close_today": 0.465,
-        "return_30d": 13.41,
+        "return_30d": 19.23,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5LE.SI": {
-        "market_cap": 31149300,
-        "close_30d": 0.021,
+        "market_cap": 34115900,
+        "close_30d": 0.023,
         "close_today": 0.02,
-        "return_30d": -4.76,
+        "return_30d": -13.04,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5KI.SI": {
-        "market_cap": 11452435,
-        "close_30d": 0.041,
-        "close_today": 0.04,
-        "return_30d": -2.44,
+        "market_cap": 12569746,
+        "close_30d": 0.045,
+        "close_today": 0.041,
+        "return_30d": -8.89,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BQP.SI": {
-        "market_cap": 19337770,
-        "close_30d": 0.275,
-        "close_today": 0.27,
-        "return_30d": -1.82,
+        "market_cap": 22502132,
+        "close_30d": 0.32,
+        "close_today": 0.33,
+        "return_30d": 3.13,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "H07.SI": {
-        "market_cap": 734386960,
-        "close_30d": 0.495,
-        "close_today": 0.47,
-        "return_30d": -5.05,
+        "market_cap": 712132810,
+        "close_30d": 0.48,
+        "close_today": 0.475,
+        "return_30d": -1.04,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S29.SI": {
         "market_cap": 45815545,
         "close_30d": 0.193,
-        "close_today": 0.197,
-        "return_30d": 2.07,
+        "close_today": 0.205,
+        "return_30d": 6.22,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S85.SI": {
         "market_cap": 299325103,
         "close_30d": 0.35,
-        "close_today": 0.315,
-        "return_30d": -10.0,
+        "close_today": 0.31,
+        "return_30d": -11.43,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "KUH.SI": {
         "market_cap": 7096878,
         "close_30d": 0.16,
-        "close_today": 0.139,
-        "return_30d": -13.12,
+        "close_today": 0.151,
+        "return_30d": -5.63,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "42L.SI": {
-        "market_cap": 107965358,
-        "close_30d": 0.193,
-        "close_today": 0.196,
-        "return_30d": 1.55,
+        "market_cap": 110762388,
+        "close_30d": 0.198,
+        "close_today": 0.2,
+        "return_30d": 1.01,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "T15.SI": {
-        "market_cap": 530869317,
-        "close_30d": 1.6,
-        "close_today": 1.55,
-        "return_30d": -3.13,
+        "market_cap": 527003764,
+        "close_30d": 1.61,
+        "close_today": 1.65,
+        "return_30d": 2.48,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "T12.SI": {
-        "market_cap": 157200000,
-        "close_30d": 1.0,
-        "close_today": 0.95,
-        "return_30d": -5.0,
+        "market_cap": 158772000,
+        "close_30d": 1.01,
+        "close_today": 0.915,
+        "return_30d": -9.41,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AWI.SI": {
-        "market_cap": 266152992,
-        "close_30d": 1.75,
-        "close_today": 1.67,
-        "return_30d": -4.57,
+        "market_cap": 264632117,
+        "close_30d": 1.74,
+        "close_today": 1.64,
+        "return_30d": -5.75,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AGS.SI": {
-        "market_cap": 1758462145,
-        "close_30d": 2.75,
-        "close_today": 2.73,
-        "return_30d": -0.73,
+        "market_cap": 1764856552,
+        "close_30d": 2.76,
+        "close_today": 2.79,
+        "return_30d": 1.09,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "VI2.SI": {
         "market_cap": 8254612,
         "close_30d": 0.014,
-        "close_today": 0.012,
-        "return_30d": -14.29,
+        "close_today": 0.011,
+        "return_30d": -21.43,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BCZ.SI": {
-        "market_cap": 7571809,
-        "close_30d": 0.08,
+        "market_cap": 7003923,
+        "close_30d": 0.074,
         "close_today": 0.074,
-        "return_30d": -7.5,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "540.SI": {
         "market_cap": 14817600,
         "close_30d": 0.054,
-        "close_today": 0.075,
-        "return_30d": 38.89,
+        "close_today": 0.08,
+        "return_30d": 48.15,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1F2.SI": {
         "market_cap": 127018256,
-        "close_30d": 0.4,
-        "close_today": 0.475,
-        "return_30d": 18.75,
+        "close_30d": 0.45,
+        "close_today": 0.47,
+        "return_30d": 4.44,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "T6I.SI": {
-        "market_cap": 894869508,
-        "close_30d": 0.945,
-        "close_today": 0.955,
-        "return_30d": 1.06,
+        "market_cap": 909073786,
+        "close_30d": 0.96,
+        "close_today": 0.965,
+        "return_30d": 0.52,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "WJP.SI": {
-        "market_cap": 645313760,
-        "close_30d": 1.82,
+        "market_cap": 648859440,
+        "close_30d": 1.83,
         "close_today": 1.84,
-        "return_30d": 1.1,
+        "return_30d": 0.55,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "VIN.SI": {
-        "market_cap": 26877777,
-        "close_30d": 0.205,
-        "close_today": 0.2,
-        "return_30d": -2.44,
+        "market_cap": 34088888,
+        "close_30d": 0.26,
+        "close_today": 0.25,
+        "return_30d": -3.85,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "WNH.SI": {
-        "market_cap": 6910510,
-        "close_30d": 0.003,
+        "market_cap": 9214014,
+        "close_30d": 0.004,
         "close_today": 0.005,
         "return_30d": null,
         "excluded_from_aggregate": false,
@@ -735,18 +735,18 @@
         "exclusion_reason": null
       },
       "BPF.SI": {
-        "market_cap": 109443679,
-        "close_30d": 0.375,
+        "market_cap": 112362177,
+        "close_30d": 0.385,
         "close_today": 0.37,
-        "return_30d": -1.33,
+        "return_30d": -3.9,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "YK9.SI": {
-        "market_cap": 58106569,
-        "close_30d": 0.138,
+        "market_cap": 52632762,
+        "close_30d": 0.125,
         "close_today": 0.12,
-        "return_30d": -13.04,
+        "return_30d": -4.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -758,21 +758,21 @@
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": -1.87
+      "sector_median": -1.89
     }
   },
   {
     "Transportation & Logistics": {
       "BTJ.SI": {
-        "market_cap": 49836587,
-        "close_30d": 0.49,
-        "close_today": 0.565,
-        "return_30d": 15.31,
+        "market_cap": 53396343,
+        "close_30d": 0.525,
+        "close_today": 0.53,
+        "return_30d": 0.95,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "CIN.SI": {
-        "market_cap": 27130061,
+        "market_cap": 26581186,
         "close_30d": 0.016,
         "close_today": 0.017,
         "return_30d": 6.25,
@@ -788,10 +788,10 @@
         "exclusion_reason": null
       },
       "S61.SI": {
-        "market_cap": 1124152912,
-        "close_30d": 3.59,
-        "close_today": 3.77,
-        "return_30d": 5.01,
+        "market_cap": 1127284257,
+        "close_30d": 3.6,
+        "close_today": 3.76,
+        "return_30d": 4.44,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -804,159 +804,159 @@
         "exclusion_reason": null
       },
       "S56.SI": {
-        "market_cap": 521897053,
-        "close_30d": 0.97,
-        "close_today": 0.925,
-        "return_30d": -4.64,
+        "market_cap": 513826480,
+        "close_30d": 0.955,
+        "close_today": 0.915,
+        "return_30d": -4.19,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "C6L.SI": {
-        "market_cap": 23726158673,
-        "close_30d": 7.53,
-        "close_today": 6.89,
-        "return_30d": -8.5,
+        "market_cap": 24251048316,
+        "close_30d": 7.69,
+        "close_today": 6.76,
+        "return_30d": -12.09,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S19.SI": {
         "market_cap": 120172969,
         "close_30d": 0.3,
-        "close_today": 0.29,
-        "return_30d": -3.33,
+        "close_today": 0.295,
+        "return_30d": -1.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": 0.84
+      "sector_median": -0.36
     }
   },
   {
     "Healthcare": {
       "584.SI": {
-        "market_cap": 8657691,
-        "close_30d": 0.005,
-        "close_today": 0.003,
+        "market_cap": 6926153,
+        "close_30d": 0.004,
+        "close_today": 0.004,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "QZG.SI": {
-        "market_cap": 20547008,
-        "close_30d": 0.064,
-        "close_today": 0.099,
-        "return_30d": 54.69,
+        "market_cap": 20225961,
+        "close_30d": 0.063,
+        "close_today": 0.159,
+        "return_30d": 152.38,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "MIJ.SI": {
         "market_cap": 32752576,
         "close_30d": 0.158,
-        "close_today": 0.181,
-        "return_30d": 14.56,
+        "close_today": 0.18,
+        "return_30d": 13.92,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1D4.SI": {
-        "market_cap": 283475803,
+        "market_cap": 289261024,
         "close_30d": 0.245,
-        "close_today": 0.215,
-        "return_30d": -12.24,
+        "close_today": 0.197,
+        "return_30d": -19.59,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5RE.SI": {
-        "market_cap": 9499470,
-        "close_30d": 0.065,
+        "market_cap": 11545509,
+        "close_30d": 0.079,
         "close_today": 0.078,
-        "return_30d": 20.0,
+        "return_30d": -1.27,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "505.SI": {
-        "market_cap": 25252089,
-        "close_30d": 0.022,
-        "close_today": 0.018,
-        "return_30d": -18.18,
+        "market_cap": 26399912,
+        "close_30d": 0.023,
+        "close_today": 0.016,
+        "return_30d": -30.43,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "9QX.SI": {
-        "market_cap": 4768090,
-        "close_30d": 0.004,
+        "market_cap": 5960113,
+        "close_30d": 0.005,
         "close_today": 0.005,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "8A8.SI": {
-        "market_cap": 4866970446,
-        "close_30d": 1.97,
-        "close_today": 1.88,
-        "return_30d": -4.57,
+        "market_cap": 4781191800,
+        "close_30d": 1.94,
+        "close_today": 1.8,
+        "return_30d": -7.22,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1H3.SI": {
-        "market_cap": 12887462,
-        "close_30d": 0.002,
-        "close_today": 0.002,
+        "market_cap": 6443731,
+        "close_30d": 0.001,
+        "close_today": 0.001,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "P8A.SI": {
-        "market_cap": 35883084,
-        "close_30d": 0.14,
+        "market_cap": 38189853,
+        "close_30d": 0.13,
         "close_today": 0.132,
-        "return_30d": -5.71,
+        "return_30d": 1.54,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "8YY.SI": {
-        "market_cap": 67604230,
-        "close_30d": 0.039,
-        "close_today": 0.032,
-        "return_30d": -17.95,
+        "market_cap": 60670463,
+        "close_30d": 0.035,
+        "close_today": 0.033,
+        "return_30d": -5.71,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "FHH.SI": {
-        "market_cap": 983200544,
-        "close_30d": 0.74,
-        "close_today": 0.72,
-        "return_30d": -2.7,
+        "market_cap": 996487038,
+        "close_30d": 0.75,
+        "close_today": 0.665,
+        "return_30d": -11.33,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1B1.SI": {
-        "market_cap": 56748937,
-        "close_30d": 0.37,
-        "close_today": 0.34,
-        "return_30d": -8.11,
+        "market_cap": 52147672,
+        "close_30d": 0.335,
+        "close_today": 0.35,
+        "return_30d": 4.48,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "H02.SI": {
-        "market_cap": 3612728583,
-        "close_30d": 16.32,
-        "close_today": 14.78,
-        "return_30d": -9.44,
+        "market_cap": 3550745494,
+        "close_30d": 16.04,
+        "close_today": 14.02,
+        "return_30d": -12.59,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1J5.SI": {
-        "market_cap": 108118059,
-        "close_30d": 0.35,
-        "close_today": 0.355,
-        "return_30d": 1.43,
+        "market_cap": 109662603,
+        "close_30d": 0.355,
+        "close_today": 0.36,
+        "return_30d": 1.41,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "Q0F.SI": {
-        "market_cap": 23286150262,
-        "close_30d": 2.7,
-        "close_today": 2.67,
-        "return_30d": -1.11,
+        "market_cap": 23322160397,
+        "close_30d": 2.68,
+        "close_today": 2.66,
+        "return_30d": -0.75,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -969,15 +969,15 @@
         "exclusion_reason": null
       },
       "PRH.SI": {
-        "market_cap": 17025984,
-        "close_30d": 0.027,
+        "market_cap": 16395392,
+        "close_30d": 0.026,
         "close_today": 0.025,
-        "return_30d": -7.41,
+        "return_30d": -3.85,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "O6Z.SI": {
-        "market_cap": 61687469251,
+        "market_cap": 61523676763,
         "close_30d": 79.97,
         "close_today": 79.97,
         "return_30d": 0.0,
@@ -985,26 +985,26 @@
         "exclusion_reason": null
       },
       "Z4D.SI": {
-        "market_cap": 28357650,
-        "close_30d": 0.05,
-        "close_today": 0.07,
-        "return_30d": 40.0,
+        "market_cap": 32894875,
+        "close_30d": 0.058,
+        "close_today": 0.067,
+        "return_30d": 15.52,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "OTX.SI": {
-        "market_cap": 30945083,
-        "close_30d": 0.23,
+        "market_cap": 29599645,
+        "close_30d": 0.22,
         "close_today": 0.23,
-        "return_30d": 0.0,
+        "return_30d": 4.55,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "546.SI": {
-        "market_cap": 61574970,
-        "close_30d": 0.113,
-        "close_today": 0.114,
-        "return_30d": 0.88,
+        "market_cap": 61030058,
+        "close_30d": 0.112,
+        "close_today": 0.121,
+        "return_30d": 8.04,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1017,10 +1017,10 @@
         "exclusion_reason": null
       },
       "5WA.SI": {
-        "market_cap": 164395780,
-        "close_30d": 0.037,
-        "close_today": 0.048,
-        "return_30d": 29.73,
+        "market_cap": 177725168,
+        "close_30d": 0.04,
+        "close_today": 0.047,
+        "return_30d": 17.5,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1033,18 +1033,18 @@
         "exclusion_reason": null
       },
       "BFK.SI": {
-        "market_cap": 2440900,
-        "close_30d": 0.077,
+        "market_cap": 3391900,
+        "close_30d": 0.107,
         "close_today": 0.125,
-        "return_30d": 62.34,
+        "return_30d": 16.82,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "QC7.SI": {
         "market_cap": 521234522,
         "close_30d": 0.55,
-        "close_today": 0.54,
-        "return_30d": -1.82,
+        "close_today": 0.53,
+        "return_30d": -3.64,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1057,34 +1057,34 @@
         "exclusion_reason": null
       },
       "BSL.SI": {
-        "market_cap": 1637769878,
-        "close_30d": 0.89,
-        "close_today": 0.86,
-        "return_30d": -3.37,
+        "market_cap": 1628568924,
+        "close_30d": 0.885,
+        "close_today": 0.855,
+        "return_30d": -3.39,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AP4.SI": {
-        "market_cap": 1252432044,
-        "close_30d": 0.845,
-        "close_today": 0.775,
-        "return_30d": -8.28,
+        "market_cap": 1282075406,
+        "close_30d": 0.865,
+        "close_today": 0.79,
+        "return_30d": -8.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "9G2.SI": {
-        "market_cap": 46550497,
-        "close_30d": 0.027,
-        "close_today": 0.026,
-        "return_30d": -3.7,
+        "market_cap": 49998682,
+        "close_30d": 0.029,
+        "close_today": 0.03,
+        "return_30d": 3.45,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "FRQ.SI": {
         "market_cap": 10602403,
         "close_30d": 0.062,
-        "close_today": 0.06,
-        "return_30d": -3.23,
+        "close_today": 0.065,
+        "return_30d": 4.84,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1097,62 +1097,62 @@
         "exclusion_reason": null
       },
       "T14.SI": {
-        "market_cap": 4689804173,
-        "close_30d": 2.8,
-        "close_today": 2.54,
-        "return_30d": -9.29,
+        "market_cap": 4800613851,
+        "close_30d": 2.75,
+        "close_today": 2.57,
+        "return_30d": -6.55,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BVA.SI": {
-        "market_cap": 1621512019,
-        "close_30d": 0.205,
-        "close_today": 0.205,
+        "market_cap": 1681994453,
+        "close_30d": 0.2,
+        "close_today": 0.2,
         "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "8K7.SI": {
-        "market_cap": 49906064,
-        "close_30d": 0.08,
-        "close_today": 0.078,
-        "return_30d": -2.5,
+        "market_cap": 48658413,
+        "close_30d": 0.078,
+        "close_today": 0.073,
+        "return_30d": -6.41,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "UGS.SI": {
         "market_cap": null,
-        "close_30d": 1.52,
-        "close_today": 0.895,
-        "return_30d": -41.12,
+        "close_30d": 1.51,
+        "close_today": 0.84,
+        "return_30d": -44.37,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "ULG.SI": {
-        "market_cap": 1666772295,
-        "close_30d": 1.17,
-        "close_today": 0.7,
-        "return_30d": -40.17,
+        "market_cap": 1668919876,
+        "close_30d": 1.18,
+        "close_today": 0.66,
+        "return_30d": -44.07,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "569.SI": {
-        "market_cap": 39352905,
-        "close_30d": 0.077,
-        "close_today": 0.067,
-        "return_30d": -12.99,
+        "market_cap": 39863982,
+        "close_30d": 0.078,
+        "close_today": 0.072,
+        "return_30d": -7.69,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "42C.SI": {
-        "market_cap": 568524046,
-        "close_30d": 0.52,
-        "close_today": 0.405,
-        "return_30d": -22.12,
+        "market_cap": 601323510,
+        "close_30d": 0.55,
+        "close_today": 0.475,
+        "return_30d": -13.64,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": -2.7
+      "sector_median": -1.27
     }
   },
   {
@@ -1166,74 +1166,74 @@
         "exclusion_reason": null
       },
       "CLN.SI": {
-        "market_cap": 250001592,
-        "close_30d": 0.58,
+        "market_cap": 271553454,
+        "close_30d": 0.63,
         "close_today": 0.575,
-        "return_30d": -0.86,
+        "return_30d": -8.73,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "40V.SI": {
-        "market_cap": 55883413,
-        "close_30d": 0.017,
-        "close_today": 0.017,
-        "return_30d": 0.0,
+        "market_cap": 62868840,
+        "close_30d": 0.018,
+        "close_today": 0.015,
+        "return_30d": -16.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S9B.SI": {
-        "market_cap": 44342269,
-        "close_30d": 0.099,
+        "market_cap": 53748205,
+        "close_30d": 0.12,
         "close_today": 0.1,
-        "return_30d": 1.01,
+        "return_30d": -16.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AOF.SI": {
-        "market_cap": 15268013,
-        "close_30d": 0.017,
-        "close_today": 0.02,
-        "return_30d": 17.65,
+        "market_cap": 20656724,
+        "close_30d": 0.023,
+        "close_today": 0.019,
+        "return_30d": -17.39,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1F3.SI": {
-        "market_cap": 28165009,
-        "close_30d": 0.026,
+        "market_cap": 24915200,
+        "close_30d": 0.024,
         "close_today": 0.022,
-        "return_30d": -15.38,
+        "return_30d": -8.33,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "TAP.SI": {
         "market_cap": 86175000,
         "close_30d": 0.225,
-        "close_today": 0.22,
-        "return_30d": -2.22,
+        "close_today": 0.215,
+        "return_30d": -4.44,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "42S.SI": {
-        "market_cap": 48605291,
-        "close_30d": 0.026,
-        "close_today": 0.033,
-        "return_30d": 26.92,
+        "market_cap": 61691331,
+        "close_30d": 0.033,
+        "close_today": 0.023,
+        "return_30d": -30.3,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "B61.SI": {
-        "market_cap": 1266076384,
-        "close_30d": 4.89,
-        "close_today": 4.33,
-        "return_30d": -11.45,
+        "market_cap": 1201348552,
+        "close_30d": 4.64,
+        "close_today": 4.4,
+        "return_30d": -5.17,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BTE.SI": {
-        "market_cap": 303507532,
-        "close_30d": 0.4,
-        "close_today": 0.395,
-        "return_30d": -1.25,
+        "market_cap": 318682909,
+        "close_30d": 0.42,
+        "close_today": 0.405,
+        "return_30d": -3.57,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1246,34 +1246,34 @@
         "exclusion_reason": null
       },
       "9CI.SI": {
-        "market_cap": 13282793383,
-        "close_30d": 2.66,
+        "market_cap": 13782146517,
+        "close_30d": 2.76,
         "close_today": 2.66,
-        "return_30d": 0.0,
+        "return_30d": -3.62,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1D5.SI": {
-        "market_cap": 16099980,
-        "close_30d": 0.001,
+        "market_cap": 32199960,
+        "close_30d": 0.002,
         "close_today": 0.001,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "C33.SI": {
-        "market_cap": 232981960,
-        "close_30d": 0.27,
-        "close_today": 0.235,
-        "return_30d": -12.96,
+        "market_cap": 228667479,
+        "close_30d": 0.265,
+        "close_today": 0.245,
+        "return_30d": -7.55,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "C09.SI": {
-        "market_cap": 6923863407,
-        "close_30d": 7.75,
-        "close_today": 8.34,
-        "return_30d": 7.61,
+        "market_cap": 7013203580,
+        "close_30d": 7.85,
+        "close_today": 8.6,
+        "return_30d": 9.55,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1286,26 +1286,26 @@
         "exclusion_reason": null
       },
       "W8W.SI": {
-        "market_cap": 237996000,
-        "close_30d": 0.495,
-        "close_today": 0.49,
-        "return_30d": -1.01,
+        "market_cap": 247612000,
+        "close_30d": 0.515,
+        "close_today": 0.485,
+        "return_30d": -5.83,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1C0.SI": {
-        "market_cap": 34483679,
-        "close_30d": 0.016,
-        "close_today": 0.013,
-        "return_30d": -18.75,
+        "market_cap": 32328449,
+        "close_30d": 0.017,
+        "close_today": 0.016,
+        "return_30d": -5.88,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "O10.SI": {
-        "market_cap": 541178894,
-        "close_30d": 1.1,
-        "close_today": 1.08,
-        "return_30d": -1.82,
+        "market_cap": 526419469,
+        "close_30d": 1.07,
+        "close_today": 1.03,
+        "return_30d": -3.74,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1318,42 +1318,42 @@
         "exclusion_reason": null
       },
       "ADN.SI": {
-        "market_cap": 1072803549,
-        "close_30d": 0.95,
-        "close_today": 1.01,
-        "return_30d": 6.32,
+        "market_cap": 1129266894,
+        "close_30d": 1.0,
+        "close_today": 1.0,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "TQ5.SI": {
-        "market_cap": 4122343651,
-        "close_30d": 1.05,
-        "close_today": 1.01,
-        "return_30d": -3.81,
+        "market_cap": 4200864483,
+        "close_30d": 1.07,
+        "close_today": 1.02,
+        "return_30d": -4.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S3N.SI": {
-        "market_cap": 375829872,
-        "close_30d": 0.111,
+        "market_cap": 392759145,
+        "close_30d": 0.116,
         "close_today": 0.109,
-        "return_30d": -1.8,
+        "return_30d": -6.03,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5PC.SI": {
-        "market_cap": 43088294,
-        "close_30d": 0.12,
-        "close_today": 0.115,
-        "return_30d": -4.17,
+        "market_cap": 42370155,
+        "close_30d": 0.118,
+        "close_today": 0.12,
+        "return_30d": 1.69,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "F17.SI": {
-        "market_cap": 2493308307,
-        "close_30d": 2.24,
-        "close_today": 2.17,
-        "return_30d": -3.13,
+        "market_cap": 2571224192,
+        "close_30d": 2.31,
+        "close_today": 2.25,
+        "return_30d": -2.6,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1374,50 +1374,50 @@
         "exclusion_reason": null
       },
       "H30.SI": {
-        "market_cap": 711961943,
-        "close_30d": 0.89,
-        "close_today": 0.865,
-        "return_30d": -2.81,
+        "market_cap": 727961088,
+        "close_30d": 0.91,
+        "close_today": 0.9,
+        "return_30d": -1.1,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "CTO.SI": {
-        "market_cap": 35520977,
-        "close_30d": 0.072,
-        "close_today": 0.072,
-        "return_30d": 0.0,
+        "market_cap": 36507671,
+        "close_30d": 0.074,
+        "close_today": 0.076,
+        "return_30d": 2.7,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "H78.SI": {
-        "market_cap": 22833370149,
-        "close_30d": 8.29,
-        "close_today": 8.19,
-        "return_30d": -1.21,
+        "market_cap": 21573760359,
+        "close_30d": 7.89,
+        "close_today": 8.55,
+        "return_30d": 8.37,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AZA.SI": {
-        "market_cap": 12452615,
-        "close_30d": 0.146,
+        "market_cap": 11855572,
+        "close_30d": 0.139,
         "close_today": 0.139,
-        "return_30d": -4.79,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "JCO.SI": {
-        "market_cap": 315557063,
-        "close_30d": 0.645,
+        "market_cap": 308218527,
+        "close_30d": 0.63,
         "close_today": 0.575,
-        "return_30d": -10.85,
+        "return_30d": -8.73,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5I1.SI": {
         "market_cap": 49858299,
         "close_30d": 0.044,
-        "close_today": 0.044,
-        "return_30d": 0.0,
+        "close_today": 0.045,
+        "return_30d": 2.27,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1432,16 +1432,16 @@
       "F86.SI": {
         "market_cap": 87585806,
         "close_30d": 0.055,
-        "close_today": 0.055,
-        "return_30d": 0.0,
+        "close_today": 0.06,
+        "return_30d": 9.09,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "LJ3.SI": {
-        "market_cap": 751088924,
-        "close_30d": 1.0,
-        "close_today": 0.99,
-        "return_30d": -1.0,
+        "market_cap": 747333479,
+        "close_30d": 0.995,
+        "close_today": 0.985,
+        "return_30d": -1.01,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1454,71 +1454,71 @@
         "exclusion_reason": null
       },
       "5UX.SI": {
-        "market_cap": 311630821,
-        "close_30d": 0.074,
+        "market_cap": 303208366,
+        "close_30d": 0.072,
         "close_today": 0.071,
-        "return_30d": -4.05,
+        "return_30d": -1.39,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "P36.SI": {
         "market_cap": 16906263,
         "close_30d": 0.033,
-        "close_today": 0.033,
-        "return_30d": 0.0,
+        "close_today": 0.035,
+        "return_30d": 6.06,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5AE.SI": {
         "market_cap": 74505644,
         "close_30d": 0.027,
-        "close_today": 0.028,
-        "return_30d": 3.7,
+        "close_today": 0.031,
+        "return_30d": 14.81,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "OYY.SI": {
-        "market_cap": 1369000000,
-        "close_30d": 1.85,
-        "close_today": 1.79,
-        "return_30d": -3.24,
+        "market_cap": 1376400000,
+        "close_30d": 1.86,
+        "close_today": 1.77,
+        "return_30d": -4.84,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5IC.SI": {
-        "market_cap": 228065708,
-        "close_30d": 0.455,
-        "close_today": 0.41,
-        "return_30d": -9.89,
+        "market_cap": 220547058,
+        "close_30d": 0.44,
+        "close_today": 0.395,
+        "return_30d": -10.23,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "U06.SI": {
-        "market_cap": 4771434995,
-        "close_30d": 3.33,
-        "close_today": 3.27,
-        "return_30d": -1.8,
+        "market_cap": 4957707232,
+        "close_30d": 3.46,
+        "close_today": 3.24,
+        "return_30d": -6.36,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "SHE.SI": {
-        "market_cap": 180207160,
-        "close_30d": 0.58,
-        "close_today": 0.6,
-        "return_30d": 3.45,
+        "market_cap": 178653650,
+        "close_30d": 0.575,
+        "close_today": 0.595,
+        "return_30d": 3.48,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "581.SI": {
-        "market_cap": 8567892,
-        "close_30d": 0.026,
-        "close_today": 0.023,
-        "return_30d": -11.54,
+        "market_cap": 9226961,
+        "close_30d": 0.028,
+        "close_today": 0.027,
+        "return_30d": -3.57,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S2D.SI": {
-        "market_cap": 1369853344,
+        "market_cap": 1371406030,
         "close_30d": 9.5,
         "close_today": 9.5,
         "return_30d": 0.0,
@@ -1534,127 +1534,127 @@
         "exclusion_reason": null
       },
       "U14.SI": {
-        "market_cap": 8186575893,
-        "close_30d": 9.67,
-        "close_today": 9.2,
-        "return_30d": -4.86,
+        "market_cap": 8415156606,
+        "close_30d": 9.94,
+        "close_today": 9.0,
+        "return_30d": -9.46,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "EH5.SI": {
-        "market_cap": 1083851568,
-        "close_30d": 0.61,
+        "market_cap": 1054285433,
+        "close_30d": 0.565,
         "close_today": 0.55,
-        "return_30d": -9.84,
+        "return_30d": -2.65,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "W05.SI": {
         "market_cap": 1206947005,
         "close_30d": 1.58,
-        "close_today": 1.55,
-        "return_30d": -1.9,
+        "close_today": 1.56,
+        "return_30d": -1.27,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BJV.SI": {
-        "market_cap": 16239671,
-        "close_30d": 0.092,
+        "market_cap": 15886634,
+        "close_30d": 0.09,
         "close_today": 0.09,
-        "return_30d": -2.17,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "Z25.SI": {
-        "market_cap": 1303786378,
-        "close_30d": 0.675,
-        "close_today": 0.57,
-        "return_30d": -15.56,
+        "market_cap": 1323101732,
+        "close_30d": 0.685,
+        "close_today": 0.545,
+        "return_30d": -20.44,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5DM.SI": {
-        "market_cap": 51140800,
-        "close_30d": 0.02,
-        "close_today": 0.016,
-        "return_30d": -20.0,
+        "market_cap": 46026720,
+        "close_30d": 0.018,
+        "close_today": 0.017,
+        "return_30d": -5.56,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": -1.52
+      "sector_median": -3.11
     }
   },
   {
     "Energy": {
       "5AU.SI": {
-        "market_cap": 21389052,
-        "close_30d": 0.13,
+        "market_cap": 22047177,
+        "close_30d": 0.134,
         "close_today": 0.13,
-        "return_30d": 0.0,
+        "return_30d": -2.99,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BLZ.SI": {
         "market_cap": 13772497,
         "close_30d": 0.136,
-        "close_today": 0.135,
-        "return_30d": -0.74,
+        "close_today": 0.154,
+        "return_30d": 13.24,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "Y35.SI": {
-        "market_cap": 71964159,
-        "close_30d": 0.017,
+        "market_cap": 80430531,
+        "close_30d": 0.019,
         "close_today": 0.019,
-        "return_30d": 11.76,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "585.SI": {
-        "market_cap": 5361917,
-        "close_30d": 0.002,
+        "market_cap": 8042875,
+        "close_30d": 0.003,
         "close_today": 0.003,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BTP.SI": {
-        "market_cap": 94199942,
-        "close_30d": 0.465,
-        "close_today": 0.44,
-        "return_30d": -5.38,
+        "market_cap": 90148332,
+        "close_30d": 0.445,
+        "close_today": 0.435,
+        "return_30d": -2.25,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BEZ.SI": {
-        "market_cap": 145455321,
-        "close_30d": 0.485,
-        "close_today": 0.415,
-        "return_30d": -14.43,
+        "market_cap": 146966375,
+        "close_30d": 0.49,
+        "close_today": 0.405,
+        "return_30d": -17.35,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "C13.SI": {
-        "market_cap": 25376130,
-        "close_30d": 0.012,
+        "market_cap": 27490808,
+        "close_30d": 0.013,
         "close_today": 0.012,
-        "return_30d": 0.0,
+        "return_30d": -7.69,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "594.SI": {
         "market_cap": 24411417,
         "close_30d": 0.002,
-        "close_today": 0.001,
+        "close_today": 0.002,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "G92.SI": {
-        "market_cap": 1488117676,
-        "close_30d": 1.73,
-        "close_today": 1.43,
-        "return_30d": -17.34,
+        "market_cap": 1470914003,
+        "close_30d": 1.71,
+        "close_today": 1.42,
+        "return_30d": -16.96,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1667,18 +1667,18 @@
         "exclusion_reason": null
       },
       "RE4.SI": {
-        "market_cap": 923623493,
-        "close_30d": 0.52,
-        "close_today": 0.53,
-        "return_30d": 1.92,
+        "market_cap": 896980508,
+        "close_30d": 0.505,
+        "close_today": 0.54,
+        "return_30d": 6.93,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5OR.SI": {
-        "market_cap": 7781545,
-        "close_30d": 0.038,
-        "close_today": 0.027,
-        "return_30d": -28.95,
+        "market_cap": 6757658,
+        "close_30d": 0.033,
+        "close_today": 0.037,
+        "return_30d": 12.12,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1691,34 +1691,34 @@
         "exclusion_reason": null
       },
       "5G2.SI": {
-        "market_cap": 53574862,
-        "close_30d": 0.076,
-        "close_today": 0.071,
-        "return_30d": -6.58,
+        "market_cap": 54279794,
+        "close_30d": 0.077,
+        "close_today": 0.07,
+        "return_30d": -9.09,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "M05.SI": {
-        "market_cap": 48864020,
-        "close_30d": 0.22,
-        "close_today": 0.215,
-        "return_30d": -2.27,
+        "market_cap": 46642928,
+        "close_30d": 0.21,
+        "close_today": 0.21,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5NF.SI": {
-        "market_cap": 40835566,
-        "close_30d": 0.087,
+        "market_cap": 41774314,
+        "close_30d": 0.089,
         "close_today": 0.09,
-        "return_30d": 3.45,
+        "return_30d": 1.12,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "DU4.SI": {
-        "market_cap": 206091007,
-        "close_30d": 0.109,
-        "close_today": 0.094,
-        "return_30d": -13.76,
+        "market_cap": 207981750,
+        "close_30d": 0.11,
+        "close_today": 0.087,
+        "return_30d": -20.91,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1731,34 +1731,34 @@
         "exclusion_reason": null
       },
       "T13.SI": {
-        "market_cap": 137447973,
-        "close_30d": 0.164,
-        "close_today": 0.161,
-        "return_30d": -1.83,
+        "market_cap": 139124168,
+        "close_30d": 0.166,
+        "close_today": 0.168,
+        "return_30d": 1.2,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5WH.SI": {
         "market_cap": 90948541,
         "close_30d": 0.067,
-        "close_today": 0.065,
-        "return_30d": -2.99,
+        "close_today": 0.067,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5E2.SI": {
-        "market_cap": 7319677296,
-        "close_30d": 2.16,
-        "close_today": 2.2,
-        "return_30d": 1.85,
+        "market_cap": 7387452086,
+        "close_30d": 2.18,
+        "close_today": 2.16,
+        "return_30d": -0.92,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "C9Q.SI": {
-        "market_cap": 92160000,
-        "close_30d": 0.096,
+        "market_cap": 108480000,
+        "close_30d": 0.113,
         "close_today": 0.101,
-        "return_30d": 5.21,
+        "return_30d": -10.62,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1770,7 +1770,7 @@
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": -1.72
+      "sector_median": -1.27
     }
   },
   {
@@ -1778,7 +1778,7 @@
       "5CR.SI": {
         "market_cap": 9700267,
         "close_30d": 0.003,
-        "close_today": 0.003,
+        "close_today": 0.002,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
@@ -1786,40 +1786,40 @@
       "YSV.SI": {
         "market_cap": 22674711,
         "close_30d": 0.083,
-        "close_today": 0.072,
-        "return_30d": -13.25,
+        "close_today": 0.083,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "U9E.SI": {
-        "market_cap": 658001646,
-        "close_30d": 0.23,
+        "market_cap": 643697262,
+        "close_30d": 0.225,
         "close_today": 0.215,
-        "return_30d": -6.52,
+        "return_30d": -4.44,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BEH.SI": {
         "market_cap": 1959894,
         "close_30d": 0.025,
-        "close_today": 0.023,
-        "return_30d": -8.0,
+        "close_today": 0.038,
+        "return_30d": 52.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "SEG.SI": {
-        "market_cap": 443687836,
-        "close_30d": 0.056,
-        "close_today": 0.052,
-        "return_30d": -7.14,
+        "market_cap": 478897788,
+        "close_30d": 0.062,
+        "close_today": 0.057,
+        "return_30d": -8.06,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5IG.SI": {
-        "market_cap": 322326161,
-        "close_30d": 0.059,
-        "close_today": 0.058,
-        "return_30d": -1.69,
+        "market_cap": 344178782,
+        "close_30d": 0.063,
+        "close_today": 0.055,
+        "return_30d": -12.7,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1832,54 +1832,54 @@
         "exclusion_reason": null
       },
       "L02.SI": {
-        "market_cap": 121333013,
-        "close_30d": 0.04,
-        "close_today": 0.029,
-        "return_30d": -27.5,
+        "market_cap": 118299687,
+        "close_30d": 0.039,
+        "close_today": 0.025,
+        "return_30d": -35.9,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AJ2.SI": {
-        "market_cap": 20885261,
-        "close_30d": 0.056,
-        "close_today": 0.053,
-        "return_30d": -5.36,
+        "market_cap": 14918044,
+        "close_30d": 0.04,
+        "close_today": 0.05,
+        "return_30d": 25.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "I11.SI": {
         "market_cap": 6180799,
         "close_30d": 0.001,
-        "close_today": 0.001,
+        "close_today": 0.002,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BHK.SI": {
         "market_cap": 427560510,
-        "close_30d": 0.164,
-        "close_today": 0.16,
-        "return_30d": -2.44,
+        "close_30d": 0.166,
+        "close_today": 0.159,
+        "return_30d": -4.22,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5GD.SI": {
-        "market_cap": 418941385,
-        "close_30d": 0.51,
-        "close_today": 0.595,
-        "return_30d": 16.67,
+        "market_cap": 439477728,
+        "close_30d": 0.535,
+        "close_today": 0.585,
+        "return_30d": 9.35,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BWM.SI": {
-        "market_cap": 803107480,
-        "close_30d": 0.56,
-        "close_today": 0.59,
-        "return_30d": 5.36,
+        "market_cap": 831789890,
+        "close_30d": 0.58,
+        "close_today": 0.6,
+        "return_30d": 3.45,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": -5.94
+      "sector_median": -2.11
     }
   },
   {
@@ -1893,7 +1893,7 @@
         "exclusion_reason": null
       },
       "P74.SI": {
-        "market_cap": 21643165,
+        "market_cap": 21491855,
         "close_30d": 0.025,
         "close_today": 0.025,
         "return_30d": 0.0,
@@ -1901,34 +1901,34 @@
         "exclusion_reason": null
       },
       "BHD.SI": {
-        "market_cap": 5711839,
-        "close_30d": 0.014,
+        "market_cap": 4895862,
+        "close_30d": 0.012,
         "close_today": 0.017,
-        "return_30d": 21.43,
+        "return_30d": 41.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BKV.SI": {
         "market_cap": 4390590,
-        "close_30d": 0.04,
-        "close_today": 0.06,
-        "return_30d": 50.0,
+        "close_30d": 0.088,
+        "close_today": 0.058,
+        "return_30d": -34.09,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "D03.SI": {
-        "market_cap": 141909081,
-        "close_30d": 0.073,
-        "close_today": 0.067,
-        "return_30d": -8.22,
+        "market_cap": 139965121,
+        "close_30d": 0.072,
+        "close_today": 0.07,
+        "return_30d": -2.78,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "P34.SI": {
         "market_cap": 531706590,
         "close_30d": 0.87,
-        "close_today": 0.775,
-        "return_30d": -10.92,
+        "close_today": 0.755,
+        "return_30d": -13.22,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -1943,7 +1943,7 @@
       "5HG.SI": {
         "market_cap": 12554618,
         "close_30d": 0.005,
-        "close_today": 0.004,
+        "close_today": 0.003,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
@@ -1957,90 +1957,90 @@
         "exclusion_reason": null
       },
       "F03.SI": {
-        "market_cap": 1545437270,
-        "close_30d": 2.34,
-        "close_today": 2.27,
-        "return_30d": -2.99,
+        "market_cap": 1631294896,
+        "close_30d": 2.47,
+        "close_today": 2.21,
+        "return_30d": -10.53,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "F99.SI": {
         "market_cap": 2081064973,
         "close_30d": 1.43,
-        "close_today": 1.39,
-        "return_30d": -2.8,
+        "close_today": 1.4,
+        "return_30d": -2.1,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5EV.SI": {
-        "market_cap": 21118554,
-        "close_30d": 0.065,
-        "close_today": 0.063,
-        "return_30d": -3.08,
+        "market_cap": 20468753,
+        "close_30d": 0.063,
+        "close_today": 0.062,
+        "return_30d": -1.59,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5JS.SI": {
-        "market_cap": 509505153,
-        "close_30d": 0.365,
-        "close_today": 0.34,
-        "return_30d": -6.85,
+        "market_cap": 488566585,
+        "close_30d": 0.35,
+        "close_today": 0.35,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BEW.SI": {
-        "market_cap": 254687970,
-        "close_30d": 0.735,
-        "close_today": 0.715,
-        "return_30d": -2.72,
+        "market_cap": 237362258,
+        "close_30d": 0.685,
+        "close_today": 0.75,
+        "return_30d": 9.49,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BNE.SI": {
-        "market_cap": 126284917,
-        "close_30d": 0.44,
-        "close_today": 0.545,
-        "return_30d": 23.86,
+        "market_cap": 120544694,
+        "close_30d": 0.42,
+        "close_today": 0.565,
+        "return_30d": 34.52,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "K03.SI": {
-        "market_cap": 21811579,
-        "close_30d": 0.845,
+        "market_cap": 21940642,
+        "close_30d": 0.85,
         "close_today": 0.99,
-        "return_30d": 17.16,
+        "return_30d": 16.47,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "LGH.SI": {
-        "market_cap": 22774500,
-        "close_30d": 0.225,
-        "close_today": 0.2,
-        "return_30d": -11.11,
+        "market_cap": 22268400,
+        "close_30d": 0.22,
+        "close_today": 0.225,
+        "return_30d": 2.27,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "MV4.SI": {
         "market_cap": 435193557,
         "close_30d": 0.29,
-        "close_today": 0.275,
-        "return_30d": -5.17,
+        "close_today": 0.27,
+        "return_30d": -6.9,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "CNE.SI": {
-        "market_cap": 27444418,
-        "close_30d": 0.113,
-        "close_today": 0.112,
-        "return_30d": -0.88,
+        "market_cap": 29387386,
+        "close_30d": 0.121,
+        "close_today": 0.107,
+        "return_30d": -11.57,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "OTS.SI": {
-        "market_cap": 29746000,
-        "close_30d": 0.139,
+        "market_cap": 30388000,
+        "close_30d": 0.142,
         "close_today": 0.135,
-        "return_30d": -2.88,
+        "return_30d": -4.93,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2053,34 +2053,34 @@
         "exclusion_reason": null
       },
       "RQ1.SI": {
-        "market_cap": 64381349,
-        "close_30d": 0.155,
-        "close_today": 0.16,
-        "return_30d": 3.23,
+        "market_cap": 68119621,
+        "close_30d": 0.164,
+        "close_today": 0.159,
+        "return_30d": -3.05,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "Q01.SI": {
-        "market_cap": 563763071,
-        "close_30d": 0.98,
-        "close_today": 0.975,
-        "return_30d": -0.51,
+        "market_cap": 560886729,
+        "close_30d": 0.975,
+        "close_today": 0.98,
+        "return_30d": 0.51,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "NR7.SI": {
-        "market_cap": 238319907,
-        "close_30d": 0.131,
-        "close_today": 0.107,
-        "return_30d": -18.32,
+        "market_cap": 205597129,
+        "close_30d": 0.113,
+        "close_today": 0.095,
+        "return_30d": -15.93,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AAJ.SI": {
-        "market_cap": 18968724,
-        "close_30d": 0.021,
-        "close_today": 0.021,
-        "return_30d": 0.0,
+        "market_cap": 21678541,
+        "close_30d": 0.024,
+        "close_today": 0.023,
+        "return_30d": -4.17,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2093,38 +2093,38 @@
         "exclusion_reason": null
       },
       "TSH.SI": {
-        "market_cap": 473335426,
+        "market_cap": 461254015,
         "close_30d": 0.4,
-        "close_today": 0.385,
-        "return_30d": -3.75,
+        "close_today": 0.465,
+        "return_30d": 16.25,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "Y03.SI": {
-        "market_cap": 365141544,
-        "close_30d": 0.58,
-        "close_today": 0.56,
-        "return_30d": -3.45,
+        "market_cap": 355698228,
+        "close_30d": 0.565,
+        "close_today": 0.57,
+        "return_30d": 0.88,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5EG.SI": {
-        "market_cap": 30608316,
-        "close_30d": 0.029,
-        "close_today": 0.028,
-        "return_30d": -3.45,
+        "market_cap": 31663776,
+        "close_30d": 0.03,
+        "close_today": 0.025,
+        "return_30d": -16.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "42W.SI": {
-        "market_cap": 62324463,
-        "close_30d": 0.031,
-        "close_today": 0.024,
-        "return_30d": -22.58,
+        "market_cap": 60313997,
+        "close_30d": 0.03,
+        "close_today": 0.026,
+        "return_30d": -13.33,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": -2.84
+      "sector_median": -1.85
     }
   },
   {
@@ -2140,72 +2140,72 @@
       "CJN.SI": {
         "market_cap": 16815513,
         "close_30d": 1.92,
-        "close_today": 1.95,
-        "return_30d": 1.56,
+        "close_today": 2.25,
+        "return_30d": 17.19,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "TCU.SI": {
-        "market_cap": 247800600,
-        "close_30d": 1.08,
-        "close_today": 1.08,
-        "return_30d": 0.0,
+        "market_cap": 250095050,
+        "close_30d": 1.09,
+        "close_today": 1.1,
+        "return_30d": 0.92,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "D05.SI": {
-        "market_cap": 212822910675,
-        "close_30d": 75.0,
-        "close_today": 76.15,
-        "return_30d": 1.53,
+        "market_cap": 208708334401,
+        "close_30d": 73.55,
+        "close_today": 78.65,
+        "return_30d": 6.93,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "B73.SI": {
         "market_cap": 217988618,
         "close_30d": 0.128,
-        "close_today": 0.127,
-        "return_30d": -0.78,
+        "close_today": 0.128,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "G07.SI": {
-        "market_cap": 20371652729,
-        "close_30d": 21.52,
-        "close_today": 20.45,
-        "return_30d": -4.97,
+        "market_cap": 20807106272,
+        "close_30d": 21.98,
+        "close_today": 20.66,
+        "return_30d": -6.01,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "8A1.SI": {
-        "market_cap": 5008199,
-        "close_30d": 0.102,
-        "close_today": 0.119,
-        "return_30d": 16.67,
+        "market_cap": 5057299,
+        "close_30d": 0.103,
+        "close_today": 0.128,
+        "return_30d": 24.27,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S41.SI": {
-        "market_cap": 1124745770,
-        "close_30d": 2.5,
-        "close_today": 2.48,
+        "market_cap": 1129244753,
+        "close_30d": 2.51,
+        "close_today": 2.49,
         "return_30d": -0.8,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BLS.SI": {
-        "market_cap": 150267055,
-        "close_30d": 1.59,
-        "close_today": 1.61,
-        "return_30d": 1.26,
+        "market_cap": 151212131,
+        "close_30d": 1.6,
+        "close_today": 1.55,
+        "return_30d": -3.13,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "I49.SI": {
-        "market_cap": 65042752,
-        "close_30d": 0.173,
-        "close_today": 0.18,
-        "return_30d": 4.05,
+        "market_cap": 58651267,
+        "close_30d": 0.156,
+        "close_today": 0.17,
+        "return_30d": 8.97,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2218,10 +2218,10 @@
         "exclusion_reason": null
       },
       "5UA.SI": {
-        "market_cap": 12055489,
-        "close_30d": 0.036,
-        "close_today": 0.03,
-        "return_30d": -16.67,
+        "market_cap": 11050865,
+        "close_30d": 0.033,
+        "close_today": 0.032,
+        "return_30d": -3.03,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2234,7 +2234,7 @@
         "exclusion_reason": null
       },
       "N33.SI": {
-        "market_cap": 36226185619,
+        "market_cap": 36057710722,
         "close_30d": 1.99,
         "close_today": 1.99,
         "return_30d": 0.0,
@@ -2250,10 +2250,10 @@
         "exclusion_reason": null
       },
       "O39.SI": {
-        "market_cap": 133708939953,
-        "close_30d": 29.78,
-        "close_today": 31.07,
-        "return_30d": 4.33,
+        "market_cap": 128547021881,
+        "close_30d": 28.63,
+        "close_today": 32.27,
+        "return_30d": 12.71,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2266,7 +2266,7 @@
         "exclusion_reason": null
       },
       "K6S.SI": {
-        "market_cap": 45995139420,
+        "market_cap": 46908350102,
         "close_30d": 14.2,
         "close_today": 14.2,
         "return_30d": 0.0,
@@ -2276,92 +2276,92 @@
       "XZB.SI": {
         "market_cap": 56848382,
         "close_30d": 0.215,
-        "close_today": 0.199,
-        "return_30d": -7.44,
+        "close_today": 0.2,
+        "return_30d": -6.98,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S35.SI": {
-        "market_cap": 378301795,
-        "close_30d": 1.6,
-        "close_today": 1.56,
-        "return_30d": -2.5,
+        "market_cap": 373573022,
+        "close_30d": 1.58,
+        "close_today": 1.58,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S68.SI": {
-        "market_cap": 25678889987,
-        "close_30d": 24.03,
-        "close_today": 25.51,
-        "return_30d": 6.16,
+        "market_cap": 25657517627,
+        "close_30d": 24.01,
+        "close_today": 25.3,
+        "return_30d": 5.37,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S23.SI": {
         "market_cap": 128535570,
         "close_30d": 0.81,
-        "close_today": 0.76,
-        "return_30d": -6.17,
+        "close_today": 0.775,
+        "return_30d": -4.32,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "T55.SI": {
-        "market_cap": 50753983,
-        "close_30d": 0.21,
-        "close_today": 0.21,
+        "market_cap": 49545555,
+        "close_30d": 0.205,
+        "close_today": 0.205,
         "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "42T.SI": {
-        "market_cap": 81507638,
-        "close_30d": 0.056,
-        "close_today": 0.055,
-        "return_30d": -1.79,
+        "market_cap": 80052145,
+        "close_30d": 0.055,
+        "close_today": 0.053,
+        "return_30d": -3.64,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "U10.SI": {
-        "market_cap": 3995804250,
-        "close_30d": 4.06,
-        "close_today": 4.15,
-        "return_30d": 2.22,
+        "market_cap": 4094223074,
+        "close_30d": 4.16,
+        "close_today": 4.23,
+        "return_30d": 1.68,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "U11.SI": {
-        "market_cap": 72490874214,
-        "close_30d": 43.89,
-        "close_today": 40.78,
-        "return_30d": -7.09,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "U13.SI": {
-        "market_cap": 525933000,
-        "close_30d": 8.6,
-        "close_today": 8.7,
-        "return_30d": 1.16,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "YF8.SI": {
-        "market_cap": 713492356,
-        "close_30d": 0.205,
-        "close_today": 0.2,
+        "market_cap": 71120005552,
+        "close_30d": 43.06,
+        "close_today": 42.01,
         "return_30d": -2.44,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "8YZ.SI": {
-        "market_cap": 2076007669,
-        "close_30d": 0.595,
-        "close_today": 0.59,
-        "return_30d": -0.84,
+      "U13.SI": {
+        "market_cap": 517371300,
+        "close_30d": 8.46,
+        "close_today": 8.7,
+        "return_30d": 2.84,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": -0.79
+      "YF8.SI": {
+        "market_cap": 765699114,
+        "close_30d": 0.22,
+        "close_today": 0.205,
+        "return_30d": -6.82,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "8YZ.SI": {
+        "market_cap": 2110898554,
+        "close_30d": 0.605,
+        "close_today": 0.58,
+        "return_30d": -4.13,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "sector_median": -0.4
     }
   },
   {
@@ -2375,8 +2375,8 @@
         "exclusion_reason": null
       },
       "YYB.SI": {
-        "market_cap": 4358028,
-        "close_30d": 0.001,
+        "market_cap": 8716057,
+        "close_30d": 0.002,
         "close_today": 0.001,
         "return_30d": null,
         "excluded_from_aggregate": false,
@@ -2391,10 +2391,10 @@
         "exclusion_reason": null
       },
       "BAI.SI": {
-        "market_cap": 8233320,
-        "close_30d": 0.615,
-        "close_today": 0.51,
-        "return_30d": -17.07,
+        "market_cap": 7965570,
+        "close_30d": 0.595,
+        "close_today": 0.5,
+        "return_30d": -15.97,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2407,48 +2407,48 @@
         "exclusion_reason": null
       },
       "GEH.SI": {
-        "market_cap": 59274390,
-        "close_30d": 0.15,
+        "market_cap": 59783414,
+        "close_30d": 0.147,
         "close_today": 0.155,
-        "return_30d": 3.33,
+        "return_30d": 5.44,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "SEJ.SI": {
-        "market_cap": 12275999,
-        "close_30d": 0.061,
+        "market_cap": 11879999,
+        "close_30d": 0.06,
         "close_today": 0.061,
-        "return_30d": 0.0,
+        "return_30d": 1.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "9VW.SI": {
-        "market_cap": 1964937,
-        "close_30d": 0.107,
-        "close_today": 0.109,
-        "return_30d": 1.87,
+        "market_cap": 1836390,
+        "close_30d": 0.1,
+        "close_today": 0.103,
+        "return_30d": 3.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "CC3.SI": {
-        "market_cap": 1916406877,
-        "close_30d": 1.11,
+        "market_cap": 1881877023,
+        "close_30d": 1.09,
         "close_today": 1.13,
-        "return_30d": 1.8,
+        "return_30d": 3.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "T41.SI": {
         "market_cap": 106788629,
         "close_30d": 0.235,
-        "close_today": 0.24,
-        "return_30d": 2.13,
+        "close_today": 0.235,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "E27.SI": {
-        "market_cap": 17641963,
-        "close_30d": 0.003,
+        "market_cap": 23522618,
+        "close_30d": 0.004,
         "close_today": 0.003,
         "return_30d": null,
         "excluded_from_aggregate": false,
@@ -2456,9 +2456,9 @@
       },
       "1D1.SI": {
         "market_cap": 25506817,
-        "close_30d": 0.025,
-        "close_today": 0.024,
-        "return_30d": -4.0,
+        "close_30d": 0.027,
+        "close_today": 0.023,
+        "return_30d": -14.81,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2471,22 +2471,22 @@
         "exclusion_reason": null
       },
       "WKS.SI": {
-        "market_cap": 88387623,
-        "close_30d": 0.2,
-        "close_today": 0.215,
-        "return_30d": 7.5,
+        "market_cap": 92807004,
+        "close_30d": 0.21,
+        "close_today": 0.21,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1F0.SI": {
         "market_cap": 6745823,
         "close_30d": 0.062,
-        "close_today": 0.066,
-        "return_30d": 6.45,
+        "close_today": 0.065,
+        "return_30d": 4.84,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": 1.8
+      "sector_median": 0.0
     }
   },
   {
@@ -2500,111 +2500,111 @@
         "exclusion_reason": null
       },
       "BTX.SI": {
-        "market_cap": 18540360,
-        "close_30d": 0.4,
-        "close_today": 0.33,
-        "return_30d": -17.5,
+        "market_cap": 17613342,
+        "close_30d": 0.38,
+        "close_today": 0.35,
+        "return_30d": -7.89,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "A52.SI": {
         "market_cap": 18176777,
         "close_30d": 0.063,
-        "close_today": 0.058,
-        "return_30d": -7.94,
+        "close_today": 0.057,
+        "return_30d": -9.52,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AWG.SI": {
-        "market_cap": 23649092,
-        "close_30d": 0.22,
-        "close_today": 0.215,
-        "return_30d": -2.27,
+        "market_cap": 24186572,
+        "close_30d": 0.225,
+        "close_today": 0.205,
+        "return_30d": -8.89,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "A55.SI": {
-        "market_cap": 50255928,
-        "close_30d": 0.136,
-        "close_today": 0.13,
-        "return_30d": -4.41,
+        "market_cap": 50994986,
+        "close_30d": 0.138,
+        "close_today": 0.123,
+        "return_30d": -10.87,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5WV.SI": {
-        "market_cap": 13316644,
-        "close_30d": 0.009,
+        "market_cap": 11837017,
+        "close_30d": 0.008,
         "close_today": 0.007,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BEC.SI": {
-        "market_cap": 1168731379,
-        "close_30d": 4.26,
-        "close_today": 4.16,
-        "return_30d": -2.35,
+        "market_cap": 1160500876,
+        "close_30d": 4.23,
+        "close_today": 4.22,
+        "return_30d": -0.24,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5TP.SI": {
-        "market_cap": 490399811,
-        "close_30d": 1.21,
-        "close_today": 1.49,
-        "return_30d": 23.14,
+        "market_cap": 543087394,
+        "close_30d": 1.34,
+        "close_today": 1.39,
+        "return_30d": 3.73,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "C05.SI": {
-        "market_cap": 45187512,
-        "close_30d": 0.595,
+        "market_cap": 47845601,
+        "close_30d": 0.63,
         "close_today": 0.595,
-        "return_30d": 0.0,
+        "return_30d": -5.56,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "QES.SI": {
         "market_cap": 653067218,
         "close_30d": 0.685,
-        "close_today": 0.66,
-        "return_30d": -3.65,
+        "close_today": 0.65,
+        "return_30d": -5.11,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S44.SI": {
-        "market_cap": 162622425,
-        "close_30d": 1.37,
-        "close_today": 1.32,
-        "return_30d": -3.65,
+        "market_cap": 169744575,
+        "close_30d": 1.43,
+        "close_today": 1.3,
+        "return_30d": -9.09,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "OAJ.SI": {
-        "market_cap": 128212444,
-        "close_30d": 0.245,
-        "close_today": 0.245,
-        "return_30d": 0.0,
+        "market_cap": 130829025,
+        "close_30d": 0.25,
+        "close_today": 0.215,
+        "return_30d": -14.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "41T.SI": {
-        "market_cap": 6133395,
-        "close_30d": 0.004,
-        "close_today": 0.004,
+        "market_cap": 7666744,
+        "close_30d": 0.005,
+        "close_today": 0.005,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BTG.SI": {
-        "market_cap": 135996635,
-        "close_30d": 0.495,
-        "close_today": 0.42,
-        "return_30d": -15.15,
+        "market_cap": 134622932,
+        "close_30d": 0.49,
+        "close_today": 0.47,
+        "return_30d": -4.08,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "ZBA.SI": {
-        "market_cap": 124729680,
+        "market_cap": 122334840,
         "close_30d": 0.41,
         "close_today": 0.39,
         "return_30d": -4.88,
@@ -2612,10 +2612,10 @@
         "exclusion_reason": null
       },
       "KUO.SI": {
-        "market_cap": 395696566,
-        "close_30d": 0.069,
+        "market_cap": 464513360,
+        "close_30d": 0.081,
         "close_today": 0.066,
-        "return_30d": -4.35,
+        "return_30d": -18.52,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2644,10 +2644,10 @@
         "exclusion_reason": null
       },
       "BEI.SI": {
-        "market_cap": 39933747,
-        "close_30d": 0.75,
-        "close_today": 0.705,
-        "return_30d": -6.0,
+        "market_cap": 40466197,
+        "close_30d": 0.76,
+        "close_today": 0.71,
+        "return_30d": -6.58,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2660,103 +2660,103 @@
         "exclusion_reason": null
       },
       "BAZ.SI": {
-        "market_cap": 19870612,
-        "close_30d": 0.245,
+        "market_cap": 21898225,
+        "close_30d": 0.27,
         "close_today": 0.245,
-        "return_30d": 0.0,
+        "return_30d": -9.26,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BKK.SI": {
         "market_cap": 5439500,
         "close_30d": 0.43,
-        "close_today": 0.58,
-        "return_30d": 34.88,
+        "close_today": 0.39,
+        "return_30d": -9.3,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "NPW.SI": {
-        "market_cap": 506968584,
-        "close_30d": 0.6,
-        "close_today": 0.58,
-        "return_30d": -3.33,
+        "market_cap": 539151850,
+        "close_30d": 0.64,
+        "close_today": 0.55,
+        "return_30d": -14.06,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5DS.SI": {
-        "market_cap": 65317000,
-        "close_30d": 0.49,
-        "close_today": 0.52,
-        "return_30d": 6.12,
+        "market_cap": 53986500,
+        "close_30d": 0.405,
+        "close_today": 0.49,
+        "return_30d": 20.99,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "N02.SI": {
-        "market_cap": 291375424,
-        "close_30d": 0.78,
-        "close_today": 0.9,
-        "return_30d": 15.38,
+        "market_cap": 328731248,
+        "close_30d": 0.88,
+        "close_today": 0.92,
+        "return_30d": 4.55,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5FX.SI": {
         "market_cap": 6909878,
         "close_30d": 0.004,
-        "close_today": 0.004,
+        "close_today": 0.003,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "N32.SI": {
-        "market_cap": 12650328,
-        "close_30d": 0.036,
+        "market_cap": 10541940,
+        "close_30d": 0.03,
         "close_today": 0.037,
-        "return_30d": 2.78,
+        "return_30d": 23.33,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "P52.SI": {
-        "market_cap": 1134612562,
-        "close_30d": 1.62,
-        "close_today": 1.55,
-        "return_30d": -4.32,
+        "market_cap": 1141616343,
+        "close_30d": 1.63,
+        "close_today": 1.65,
+        "return_30d": 1.23,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "Y8E.SI": {
-        "market_cap": 33456478,
-        "close_30d": 0.1,
-        "close_today": 0.123,
-        "return_30d": 23.0,
+        "market_cap": 40147774,
+        "close_30d": 0.12,
+        "close_today": 0.151,
+        "return_30d": 25.83,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5MD.SI": {
-        "market_cap": 21600000,
-        "close_30d": 0.2,
-        "close_today": 0.3,
-        "return_30d": 50.0,
+        "market_cap": 23760000,
+        "close_30d": 0.22,
+        "close_today": 0.31,
+        "return_30d": 40.91,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "QNS.SI": {
-        "market_cap": 257880105,
-        "close_30d": 0.405,
-        "close_today": 0.38,
-        "return_30d": -6.17,
+        "market_cap": 261063810,
+        "close_30d": 0.41,
+        "close_today": 0.425,
+        "return_30d": 3.66,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "NC2.SI": {
-        "market_cap": 1102919663,
-        "close_30d": 0.69,
-        "close_today": 0.76,
-        "return_30d": 10.14,
+        "market_cap": 1096549617,
+        "close_30d": 0.7,
+        "close_today": 0.795,
+        "return_30d": 13.57,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "STG.SI": {
-        "market_cap": 1102581760,
+        "market_cap": 1144496029,
         "close_30d": 0.37,
         "close_today": 0.385,
         "return_30d": 4.05,
@@ -2764,22 +2764,22 @@
         "exclusion_reason": null
       },
       "S20.SI": {
-        "market_cap": 775716521,
-        "close_30d": 1.6,
+        "market_cap": 785412978,
+        "close_30d": 1.62,
         "close_today": 1.61,
-        "return_30d": 0.63,
+        "return_30d": -0.62,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5F7.SI": {
-        "market_cap": 31487796,
-        "close_30d": 0.012,
-        "close_today": 0.013,
-        "return_30d": 8.33,
+        "market_cap": 36735763,
+        "close_30d": 0.014,
+        "close_today": 0.016,
+        "return_30d": 14.29,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": 0.0
+      "sector_median": -4.08
     }
   },
   {
@@ -2801,55 +2801,55 @@
         "exclusion_reason": null
       },
       "S58.SI": {
-        "market_cap": 7030747618,
-        "close_30d": 4.73,
-        "close_today": 4.01,
-        "return_30d": -15.22,
+        "market_cap": 7179663561,
+        "close_30d": 4.83,
+        "close_today": 3.88,
+        "return_30d": -19.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S59.SI": {
         "market_cap": 3488554179,
         "close_30d": 3.11,
-        "close_today": 3.14,
-        "return_30d": 0.96,
+        "close_today": 3.13,
+        "return_30d": 0.64,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "Z74.SI": {
-        "market_cap": 75460747117,
-        "close_30d": 4.61,
+        "market_cap": 71204826455,
+        "close_30d": 4.35,
         "close_today": 4.52,
-        "return_30d": -1.95,
+        "return_30d": 3.91,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "Z77.SI": {
-        "market_cap": 75460747117,
-        "close_30d": 4.61,
-        "close_today": 4.51,
-        "return_30d": -2.17,
+        "market_cap": 71204826455,
+        "close_30d": 4.35,
+        "close_today": 4.53,
+        "return_30d": 4.14,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BS6.SI": {
-        "market_cap": 15309442065,
-        "close_30d": 3.89,
-        "close_today": 4.9,
-        "return_30d": 25.96,
+        "market_cap": 15584933311,
+        "close_30d": 3.96,
+        "close_today": 4.94,
+        "return_30d": 24.75,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": -2.06
+      "sector_median": 2.27
     }
   },
   {
     "REIT": {
       "O5RU.SI": {
-        "market_cap": 1359095763,
-        "close_30d": 1.65,
-        "close_today": 1.46,
-        "return_30d": -11.52,
+        "market_cap": 1301437155,
+        "close_30d": 1.58,
+        "close_today": 1.45,
+        "return_30d": -8.23,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2862,18 +2862,18 @@
         "exclusion_reason": null
       },
       "M1GU.SI": {
-        "market_cap": 590654002,
-        "close_30d": 0.525,
-        "close_today": 0.48,
-        "return_30d": -8.57,
+        "market_cap": 551277068,
+        "close_30d": 0.49,
+        "close_today": 0.485,
+        "return_30d": -1.02,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BMGU.SI": {
-        "market_cap": 228625144,
-        "close_30d": 0.44,
+        "market_cap": 231223157,
+        "close_30d": 0.445,
         "close_today": 0.45,
-        "return_30d": 2.27,
+        "return_30d": 1.12,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2886,10 +2886,10 @@
         "exclusion_reason": null
       },
       "A17U.SI": {
-        "market_cap": 12887653505,
-        "close_30d": 2.58,
-        "close_today": 2.43,
-        "return_30d": -5.81,
+        "market_cap": 12837701360,
+        "close_30d": 2.57,
+        "close_today": 2.38,
+        "return_30d": -7.39,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2902,50 +2902,50 @@
         "exclusion_reason": null
       },
       "AU8U.SI": {
-        "market_cap": 1168504877,
-        "close_30d": 0.665,
-        "close_today": 0.64,
-        "return_30d": -3.76,
+        "market_cap": 1177290627,
+        "close_30d": 0.67,
+        "close_today": 0.63,
+        "return_30d": -5.97,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "C38U.SI": {
-        "market_cap": 19778168260,
-        "close_30d": 2.51,
-        "close_today": 2.37,
-        "return_30d": -5.58,
+        "market_cap": 19699370777,
+        "close_30d": 2.5,
+        "close_today": 2.34,
+        "return_30d": -6.4,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "8C8U.SI": {
-        "market_cap": 1966460100,
-        "close_30d": 1.14,
+        "market_cap": 2000959400,
+        "close_30d": 1.16,
         "close_today": 1.15,
-        "return_30d": 0.88,
+        "return_30d": -0.86,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "DHLU.SI": {
-        "market_cap": 336557136,
-        "close_30d": 0.48,
+        "market_cap": 333051332,
+        "close_30d": 0.475,
         "close_today": 0.395,
-        "return_30d": -17.71,
+        "return_30d": -16.84,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "DCRU.SI": {
-        "market_cap": 834095597,
-        "close_30d": 0.495,
-        "close_today": 0.505,
-        "return_30d": 2.02,
+        "market_cap": 794634301,
+        "close_30d": 0.475,
+        "close_today": 0.49,
+        "return_30d": 3.16,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "9A4U.SI": {
-        "market_cap": 2133342927,
-        "close_30d": 2.65,
-        "close_today": 2.3,
-        "return_30d": -13.21,
+        "market_cap": 2012587667,
+        "close_30d": 2.5,
+        "close_today": 2.27,
+        "return_30d": -9.2,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2958,10 +2958,10 @@
         "exclusion_reason": null
       },
       "MXNU.SI": {
-        "market_cap": 344488753,
-        "close_30d": 0.315,
+        "market_cap": 339849386,
+        "close_30d": 0.31,
         "close_today": 0.315,
-        "return_30d": 0.0,
+        "return_30d": 1.61,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -2976,53 +2976,53 @@
       "AW9U.SI": {
         "market_cap": 487423875,
         "close_30d": 0.23,
-        "close_today": 0.22,
-        "return_30d": -4.35,
+        "close_today": 0.21,
+        "return_30d": -8.7,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "J69U.SI": {
-        "market_cap": 4646239052,
-        "close_30d": 2.28,
-        "close_today": 2.16,
-        "return_30d": -5.26,
+        "market_cap": 4568043251,
+        "close_30d": 2.24,
+        "close_today": 2.14,
+        "return_30d": -4.46,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BUOU.SI": {
-        "market_cap": 3801261635,
-        "close_30d": 1.0,
-        "close_today": 0.93,
-        "return_30d": -7.0,
+        "market_cap": 3744242710,
+        "close_30d": 0.985,
+        "close_today": 0.915,
+        "return_30d": -7.11,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "8U7U.SI": {
-        "market_cap": 248924274,
-        "close_30d": 0.162,
+        "market_cap": 246086502,
+        "close_30d": 0.126,
         "close_today": 0.126,
-        "return_30d": -22.22,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "UD1U.SI": {
-        "market_cap": 248794950,
-        "close_30d": 0.185,
-        "close_today": 0.168,
-        "return_30d": -9.19,
+        "market_cap": 246105274,
+        "close_30d": 0.183,
+        "close_today": 0.165,
+        "return_30d": -9.84,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AJBU.SI": {
-        "market_cap": 5601738139,
-        "close_30d": 2.29,
-        "close_today": 2.2,
-        "return_30d": -3.93,
+        "market_cap": 5528352923,
+        "close_30d": 2.26,
+        "close_today": 2.19,
+        "return_30d": -3.1,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "CMOU.SI": {
-        "market_cap": 241585312,
+        "market_cap": 239846616,
         "close_30d": 0.179,
         "close_today": 0.173,
         "return_30d": -3.35,
@@ -3030,24 +3030,24 @@
         "exclusion_reason": null
       },
       "K71U.SI": {
-        "market_cap": 4545119368,
-        "close_30d": 0.915,
-        "close_today": 0.88,
-        "return_30d": -3.83,
+        "market_cap": 4445772496,
+        "close_30d": 0.895,
+        "close_today": 0.86,
+        "return_30d": -3.91,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "JYEU.SI": {
-        "market_cap": 1946312138,
-        "close_30d": 0.585,
-        "close_today": 0.56,
-        "return_30d": -4.27,
+        "market_cap": 1996217578,
+        "close_30d": 0.6,
+        "close_today": 0.555,
+        "return_30d": -7.5,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "D5IU.SI": {
-        "market_cap": 136195115,
-        "close_30d": 0.008,
+        "market_cap": 119170726,
+        "close_30d": 0.007,
         "close_today": 0.007,
         "return_30d": null,
         "excluded_from_aggregate": false,
@@ -3055,89 +3055,89 @@
       },
       "MENU.SI": {
         "market_cap": null,
-        "close_30d": 0.535,
+        "close_30d": 0.54,
         "close_today": 0.54,
-        "return_30d": 0.93,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "BTOU.SI": {
-        "market_cap": 112488213,
-        "close_30d": 0.049,
-        "close_today": 0.044,
-        "return_30d": -10.2,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "ME8U.SI": {
-        "market_cap": 5595806724,
-        "close_30d": 1.96,
-        "close_today": 1.92,
-        "return_30d": -2.04,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "M44U.SI": {
-        "market_cap": 6348671968,
-        "close_30d": 1.24,
-        "close_today": 1.16,
-        "return_30d": -6.45,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "N2IU.SI": {
-        "market_cap": 7186742827,
-        "close_30d": 1.36,
-        "close_today": 1.27,
-        "return_30d": -6.62,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "NTDU.SI": {
-        "market_cap": 1235865817,
-        "close_30d": 0.925,
-        "close_today": 0.925,
         "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
+      "BTOU.SI": {
+        "market_cap": 113957789,
+        "close_30d": 0.05,
+        "close_today": 0.043,
+        "return_30d": -14.0,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "ME8U.SI": {
+        "market_cap": 5538706656,
+        "close_30d": 1.94,
+        "close_today": 1.93,
+        "return_30d": -0.52,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "M44U.SI": {
+        "market_cap": 6297473001,
+        "close_30d": 1.23,
+        "close_today": 1.15,
+        "return_30d": -6.5,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "N2IU.SI": {
+        "market_cap": 7028211735,
+        "close_30d": 1.33,
+        "close_today": 1.23,
+        "return_30d": -7.52,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "NTDU.SI": {
+        "market_cap": 1246868087,
+        "close_30d": 0.94,
+        "close_today": 0.945,
+        "return_30d": 0.53,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
       "TS0U.SI": {
-        "market_cap": 1990798687,
-        "close_30d": 0.36,
-        "close_today": 0.36,
+        "market_cap": 1963148706,
+        "close_30d": 0.355,
+        "close_today": 0.355,
         "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "C2PU.SI": {
-        "market_cap": 2780302261,
-        "close_30d": 4.26,
-        "close_today": 4.12,
-        "return_30d": -3.29,
+        "market_cap": 2786828792,
+        "close_30d": 4.27,
+        "close_today": 4.1,
+        "return_30d": -3.98,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "OXMU.SI": {
-        "market_cap": 291624900,
-        "close_30d": 0.157,
-        "close_today": 0.15,
-        "return_30d": -4.46,
+        "market_cap": 298746643,
+        "close_30d": 0.162,
+        "close_today": 0.146,
+        "return_30d": -9.88,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "CRPU.SI": {
         "market_cap": 872647871,
         "close_30d": 0.69,
-        "close_today": 0.695,
-        "return_30d": 0.72,
+        "close_today": 0.685,
+        "return_30d": -0.72,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "P40U.SI": {
-        "market_cap": 1299766648,
-        "close_30d": 0.56,
+        "market_cap": 1241741352,
+        "close_30d": 0.535,
         "close_today": 0.525,
-        "return_30d": -6.25,
+        "return_30d": -1.87,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3158,30 +3158,30 @@
         "exclusion_reason": null
       },
       "T82U.SI": {
-        "market_cap": 4497050460,
-        "close_30d": 1.52,
-        "close_today": 1.44,
-        "return_30d": -5.26,
+        "market_cap": 4408292885,
+        "close_30d": 1.49,
+        "close_today": 1.46,
+        "return_30d": -2.01,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "UIBU.SI": {
-        "market_cap": 1106356968,
-        "close_30d": 0.81,
-        "close_today": 0.79,
-        "return_30d": -2.47,
+        "market_cap": 1126845060,
+        "close_30d": 0.825,
+        "close_today": 0.785,
+        "return_30d": -4.85,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "ODBU.SI": {
-        "market_cap": 408663209,
-        "close_30d": 0.52,
-        "close_today": 0.5,
-        "return_30d": -3.85,
+        "market_cap": 417425570,
+        "close_30d": 0.535,
+        "close_today": 0.485,
+        "return_30d": -9.35,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": -4.31
+      "sector_median": -4.22
     }
   },
   {
@@ -3197,8 +3197,8 @@
       "A04.SI": {
         "market_cap": 324145387,
         "close_30d": 0.315,
-        "close_today": 0.295,
-        "return_30d": -6.35,
+        "close_today": 0.315,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3211,10 +3211,10 @@
         "exclusion_reason": null
       },
       "5FW.SI": {
-        "market_cap": 11343642,
-        "close_30d": 0.024,
+        "market_cap": 12288946,
+        "close_30d": 0.026,
         "close_today": 0.025,
-        "return_30d": 4.17,
+        "return_30d": -3.85,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3229,8 +3229,8 @@
       "43Q.SI": {
         "market_cap": 24365012,
         "close_30d": 0.097,
-        "close_today": 0.126,
-        "return_30d": 29.9,
+        "close_today": 0.13,
+        "return_30d": 34.02,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3245,8 +3245,8 @@
       "XVG.SI": {
         "market_cap": 34004239,
         "close_30d": 0.21,
-        "close_today": 0.215,
-        "return_30d": 2.38,
+        "close_today": 0.22,
+        "return_30d": 4.76,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3261,32 +3261,32 @@
       "5UL.SI": {
         "market_cap": 60203896,
         "close_30d": 0.115,
-        "close_today": 0.112,
-        "return_30d": -2.61,
+        "close_today": 0.095,
+        "return_30d": -17.39,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "53W.SI": {
-        "market_cap": 55299283,
-        "close_30d": 0.205,
+        "market_cap": 53950520,
+        "close_30d": 0.2,
         "close_today": 0.2,
-        "return_30d": -2.44,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1AZ.SI": {
         "market_cap": 54892090,
         "close_30d": 0.235,
-        "close_today": 0.245,
-        "return_30d": 4.26,
+        "close_today": 0.24,
+        "return_30d": 2.13,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "X5N.SI": {
         "market_cap": 276005198,
         "close_30d": 2.66,
-        "close_today": 2.67,
-        "return_30d": 0.38,
+        "close_today": 2.68,
+        "return_30d": 0.75,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3299,98 +3299,98 @@
         "exclusion_reason": null
       },
       "BQN.SI": {
-        "market_cap": 26399998,
-        "close_30d": 0.088,
+        "market_cap": 26099998,
+        "close_30d": 0.087,
         "close_today": 0.087,
-        "return_30d": -1.14,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "F9D.SI": {
-        "market_cap": 1004400354,
-        "close_30d": 1.99,
-        "close_today": 1.89,
-        "return_30d": -5.03,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "AWC.SI": {
-        "market_cap": 21629878,
-        "close_30d": 0.61,
-        "close_today": 0.58,
-        "return_30d": -4.92,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "5EB.SI": {
-        "market_cap": 9069087,
-        "close_30d": 0.045,
-        "close_today": 0.047,
-        "return_30d": 4.44,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "F83.SI": {
-        "market_cap": 506069359,
-        "close_30d": 0.113,
-        "close_today": 0.113,
         "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
+      "F9D.SI": {
+        "market_cap": 1019542067,
+        "close_30d": 2.02,
+        "close_today": 1.79,
+        "return_30d": -11.39,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "AWC.SI": {
+        "market_cap": 21807173,
+        "close_30d": 0.615,
+        "close_today": 0.58,
+        "return_30d": -5.69,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "5EB.SI": {
+        "market_cap": 9875228,
+        "close_30d": 0.049,
+        "close_today": 0.047,
+        "return_30d": -4.08,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "F83.SI": {
+        "market_cap": 532940299,
+        "close_30d": 0.119,
+        "close_today": 0.113,
+        "return_30d": -5.04,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
       "C06.SI": {
-        "market_cap": 48628106,
-        "close_30d": 0.014,
-        "close_today": 0.012,
-        "return_30d": -14.29,
+        "market_cap": 45154670,
+        "close_30d": 0.013,
+        "close_today": 0.011,
+        "return_30d": -15.38,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5NV.SI": {
-        "market_cap": 39664467,
-        "close_30d": 0.102,
-        "close_today": 0.108,
-        "return_30d": 5.88,
+        "market_cap": 41219937,
+        "close_30d": 0.106,
+        "close_today": 0.109,
+        "return_30d": 2.83,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "GU5.SI": {
-        "market_cap": 7786200,
-        "close_30d": 0.019,
-        "close_today": 0.016,
-        "return_30d": -15.79,
+        "market_cap": 6556800,
+        "close_30d": 0.016,
+        "close_today": 0.019,
+        "return_30d": 18.75,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "P9D.SI": {
-        "market_cap": 795900807,
-        "close_30d": 1.55,
-        "close_today": 1.66,
-        "return_30d": 7.1,
+        "market_cap": 793809853,
+        "close_30d": 1.56,
+        "close_today": 1.64,
+        "return_30d": 5.13,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BLR.SI": {
         "market_cap": 6568204,
-        "close_30d": 0.07,
+        "close_30d": 0.066,
         "close_today": 0.068,
-        "return_30d": -2.86,
+        "return_30d": 3.03,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "UZF.SI": {
         "market_cap": 38000000,
         "close_30d": 0.19,
-        "close_today": 0.18,
-        "return_30d": -5.26,
+        "close_today": 0.19,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5RC.SI": {
         "market_cap": 8330800,
         "close_30d": 0.059,
-        "close_today": 0.059,
-        "return_30d": 0.0,
+        "close_today": 0.058,
+        "return_30d": -1.69,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3403,18 +3403,18 @@
         "exclusion_reason": null
       },
       "L23.SI": {
-        "market_cap": 32364449,
-        "close_30d": 0.021,
-        "close_today": 0.022,
-        "return_30d": 4.76,
+        "market_cap": 36987942,
+        "close_30d": 0.024,
+        "close_today": 0.019,
+        "return_30d": -20.83,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "ZKX.SI": {
-        "market_cap": 413553291,
-        "close_30d": 0.825,
-        "close_today": 0.84,
-        "return_30d": 1.82,
+        "market_cap": 431097976,
+        "close_30d": 0.86,
+        "close_today": 0.82,
+        "return_30d": -4.65,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3435,106 +3435,106 @@
         "exclusion_reason": null
       },
       "F13.SI": {
-        "market_cap": 72389503,
-        "close_30d": 0.095,
-        "close_today": 0.093,
-        "return_30d": -2.11,
+        "market_cap": 73151498,
+        "close_30d": 0.096,
+        "close_today": 0.082,
+        "return_30d": -14.58,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "508.SI": {
-        "market_cap": 40141375,
-        "close_30d": 0.67,
+        "market_cap": 31154500,
+        "close_30d": 0.52,
         "close_today": 0.55,
-        "return_30d": -17.91,
+        "return_30d": 5.77,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5VP.SI": {
-        "market_cap": 26825442,
-        "close_30d": 0.057,
-        "close_today": 0.057,
-        "return_30d": 0.0,
+        "market_cap": 27766686,
+        "close_30d": 0.059,
+        "close_today": 0.055,
+        "return_30d": -6.78,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "595.SI": {
-        "market_cap": 62699189,
-        "close_30d": 0.073,
+        "market_cap": 60981403,
+        "close_30d": 0.071,
         "close_today": 0.065,
-        "return_30d": -10.96,
+        "return_30d": -8.45,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "G20.SI": {
-        "market_cap": 283494871,
-        "close_30d": 0.59,
-        "close_today": 0.565,
-        "return_30d": -4.24,
+        "market_cap": 285897370,
+        "close_30d": 0.595,
+        "close_today": 0.575,
+        "return_30d": -3.36,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BDX.SI": {
         "market_cap": 392138986,
         "close_30d": 0.162,
-        "close_today": 0.188,
-        "return_30d": 16.05,
+        "close_today": 0.198,
+        "return_30d": 22.22,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "Y06.SI": {
         "market_cap": 9925524,
         "close_30d": 0.029,
-        "close_today": 0.022,
-        "return_30d": -24.14,
+        "close_today": 0.024,
+        "return_30d": -17.24,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5GZ.SI": {
-        "market_cap": 28493768,
-        "close_30d": 0.016,
+        "market_cap": 30274629,
+        "close_30d": 0.017,
         "close_today": 0.017,
-        "return_30d": 6.25,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "CHZ.SI": {
-        "market_cap": 733705756,
-        "close_30d": 0.74,
-        "close_today": 0.73,
-        "return_30d": -1.35,
+        "market_cap": 728748285,
+        "close_30d": 0.735,
+        "close_today": 0.715,
+        "return_30d": -2.72,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5VS.SI": {
         "market_cap": 258330000,
         "close_30d": 0.6,
-        "close_today": 0.57,
-        "return_30d": -5.0,
+        "close_today": 0.58,
+        "return_30d": -3.33,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1L2.SI": {
-        "market_cap": 53323477,
-        "close_30d": 0.011,
-        "close_today": 0.011,
+        "market_cap": 58171066,
+        "close_30d": 0.012,
+        "close_today": 0.012,
         "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5PO.SI": {
-        "market_cap": 33323240,
-        "close_30d": 0.105,
+        "market_cap": 32688512,
+        "close_30d": 0.103,
         "close_today": 0.099,
-        "return_30d": -5.71,
+        "return_30d": -3.88,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "J2T.SI": {
-        "market_cap": 150430822,
-        "close_30d": 0.295,
-        "close_today": 0.29,
-        "return_30d": -1.69,
+        "market_cap": 152980497,
+        "close_30d": 0.3,
+        "close_today": 0.265,
+        "return_30d": -11.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3547,15 +3547,15 @@
         "exclusion_reason": null
       },
       "BBP.SI": {
-        "market_cap": 60918316,
-        "close_30d": 1.17,
-        "close_today": 1.37,
-        "return_30d": 17.09,
+        "market_cap": 62480324,
+        "close_30d": 1.2,
+        "close_today": 1.33,
+        "return_30d": 10.83,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "41B.SI": {
-        "market_cap": 140834502,
+        "market_cap": 137053710,
         "close_30d": 0.745,
         "close_today": 0.56,
         "return_30d": -24.83,
@@ -3579,130 +3579,130 @@
         "exclusion_reason": null
       },
       "42N.SI": {
-        "market_cap": 12605946,
-        "close_30d": 0.026,
-        "close_today": 0.027,
-        "return_30d": 3.85,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "I07.SI": {
-        "market_cap": 290177305,
-        "close_30d": 0.64,
-        "close_today": 0.69,
-        "return_30d": 7.81,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "5WF.SI": {
-        "market_cap": 58435332,
-        "close_30d": 0.073,
-        "close_today": 0.068,
-        "return_30d": -6.85,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "M14.SI": {
-        "market_cap": 130229400,
-        "close_30d": 0.505,
-        "close_today": 0.435,
-        "return_30d": -13.86,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "I06.SI": {
-        "market_cap": 34266776,
-        "close_30d": 0.32,
-        "close_today": 0.35,
-        "return_30d": 9.37,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "1J4.SI": {
-        "market_cap": 223032971,
-        "close_30d": 0.54,
-        "close_today": 0.48,
-        "return_30d": -11.11,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "C07.SI": {
-        "market_cap": 11106139692,
-        "close_30d": 28.1,
-        "close_today": 27.19,
-        "return_30d": -3.24,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "J36.SI": {
-        "market_cap": 25828982656,
-        "close_30d": 67.99,
-        "close_today": 58.71,
-        "return_30d": -13.65,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "KIN.SI": {
-        "market_cap": 32175000,
-        "close_30d": 0.165,
-        "close_today": 0.19,
-        "return_30d": 15.15,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "ER0.SI": {
-        "market_cap": 182315406,
-        "close_30d": 0.32,
-        "close_today": 0.31,
-        "return_30d": -3.13,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "5TT.SI": {
-        "market_cap": 30551300,
-        "close_30d": 0.13,
-        "close_today": 0.13,
+        "market_cap": 13575634,
+        "close_30d": 0.028,
+        "close_today": 0.028,
         "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
+      "I07.SI": {
+        "market_cap": 308313387,
+        "close_30d": 0.68,
+        "close_today": 0.665,
+        "return_30d": -2.21,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "5WF.SI": {
+        "market_cap": 57634848,
+        "close_30d": 0.072,
+        "close_today": 0.064,
+        "return_30d": -11.11,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "M14.SI": {
+        "market_cap": 131518800,
+        "close_30d": 0.51,
+        "close_today": 0.44,
+        "return_30d": -13.73,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "I06.SI": {
+        "market_cap": 36408449,
+        "close_30d": 0.34,
+        "close_today": 0.38,
+        "return_30d": 11.76,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "1J4.SI": {
+        "market_cap": 231293451,
+        "close_30d": 0.575,
+        "close_today": 0.44,
+        "return_30d": -23.48,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "C07.SI": {
+        "market_cap": 11145663321,
+        "close_30d": 28.2,
+        "close_today": 26.9,
+        "return_30d": -4.61,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "J36.SI": {
+        "market_cap": 23921154042,
+        "close_30d": 63.44,
+        "close_today": 58.42,
+        "return_30d": -7.91,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "KIN.SI": {
+        "market_cap": 30810000,
+        "close_30d": 0.158,
+        "close_today": 0.19,
+        "return_30d": 20.25,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "ER0.SI": {
+        "market_cap": 179466728,
+        "close_30d": 0.315,
+        "close_today": 0.305,
+        "return_30d": -3.17,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
+      "5TT.SI": {
+        "market_cap": 23501000,
+        "close_30d": 0.1,
+        "close_today": 0.13,
+        "return_30d": 30.0,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
       "BN4.SI": {
-        "market_cap": 21625967532,
-        "close_30d": 12.0,
-        "close_today": 11.46,
-        "return_30d": -4.5,
+        "market_cap": 20178241115,
+        "close_30d": 11.21,
+        "close_today": 11.54,
+        "return_30d": 2.94,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "554.SI": {
-        "market_cap": 36112625,
-        "close_30d": 0.047,
-        "close_today": 0.044,
-        "return_30d": -6.38,
+        "market_cap": 34575918,
+        "close_30d": 0.045,
+        "close_today": 0.045,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5MZ.SI": {
-        "market_cap": 108313739,
-        "close_30d": 0.54,
+        "market_cap": 110319549,
+        "close_30d": 0.55,
         "close_today": 0.535,
-        "return_30d": -0.93,
+        "return_30d": -2.73,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5HV.SI": {
-        "market_cap": 377641603,
-        "close_30d": 0.134,
-        "close_today": 0.084,
-        "return_30d": -37.31,
+        "market_cap": 341004731,
+        "close_30d": 0.121,
+        "close_today": 0.083,
+        "return_30d": -31.4,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "K75.SI": {
-        "market_cap": 131986912,
-        "close_30d": 0.32,
-        "close_today": 0.24,
-        "return_30d": -25.0,
+        "market_cap": 123737730,
+        "close_30d": 0.3,
+        "close_today": 0.235,
+        "return_30d": -21.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3715,66 +3715,66 @@
         "exclusion_reason": null
       },
       "5OC.SI": {
-        "market_cap": 10440292,
-        "close_30d": 0.055,
-        "close_today": 0.071,
-        "return_30d": 29.09,
+        "market_cap": 10630115,
+        "close_30d": 0.056,
+        "close_today": 0.075,
+        "return_30d": 33.93,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "ENV.SI": {
-        "market_cap": 13875000,
-        "close_30d": 0.075,
-        "close_today": 0.091,
-        "return_30d": 21.33,
+        "market_cap": 12950000,
+        "close_30d": 0.07,
+        "close_today": 0.096,
+        "return_30d": 37.14,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "LS9.SI": {
         "market_cap": 18418540,
-        "close_30d": 0.01,
+        "close_30d": 0.012,
         "close_today": 0.011,
-        "return_30d": 10.0,
+        "return_30d": -8.33,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "Q0X.SI": {
-        "market_cap": 137024849,
-        "close_30d": 0.091,
-        "close_today": 0.085,
-        "return_30d": -6.59,
+        "market_cap": 138530616,
+        "close_30d": 0.092,
+        "close_today": 0.078,
+        "return_30d": -15.22,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BFT.SI": {
-        "market_cap": 60979288,
-        "close_30d": 0.335,
-        "close_today": 0.365,
-        "return_30d": 8.96,
+        "market_cap": 66440119,
+        "close_30d": 0.365,
+        "close_today": 0.33,
+        "return_30d": -9.59,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "LMS.SI": {
-        "market_cap": 55587872,
-        "close_30d": 0.405,
-        "close_today": 0.42,
-        "return_30d": 3.7,
+        "market_cap": 57646682,
+        "close_30d": 0.42,
+        "close_today": 0.415,
+        "return_30d": -1.19,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "LCC.SI": {
         "market_cap": 247500000,
         "close_30d": 0.375,
-        "close_today": 0.32,
-        "return_30d": -14.67,
+        "close_today": 0.33,
+        "return_30d": -12.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "L19.SI": {
-        "market_cap": 191058650,
-        "close_30d": 0.51,
-        "close_today": 0.58,
-        "return_30d": 13.73,
+        "market_cap": 187312402,
+        "close_30d": 0.5,
+        "close_today": 0.56,
+        "return_30d": 12.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3789,72 +3789,72 @@
       "V3M.SI": {
         "market_cap": 5764892,
         "close_30d": 0.038,
-        "close_today": 0.034,
-        "return_30d": -10.53,
+        "close_today": 0.042,
+        "return_30d": 10.53,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "M03.SI": {
         "market_cap": 5802462,
         "close_30d": 0.005,
-        "close_today": 0.006,
+        "close_today": 0.005,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1V3.SI": {
-        "market_cap": 37931250,
-        "close_30d": 0.125,
-        "close_today": 0.111,
-        "return_30d": -11.2,
+        "market_cap": 37020900,
+        "close_30d": 0.121,
+        "close_today": 0.118,
+        "return_30d": -2.48,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "MF6.SI": {
-        "market_cap": 17445372,
-        "close_30d": 0.03,
-        "close_today": 0.031,
-        "return_30d": 3.33,
+        "market_cap": 15700834,
+        "close_30d": 0.027,
+        "close_today": 0.028,
+        "return_30d": 3.7,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1MZ.SI": {
-        "market_cap": 449243392,
-        "close_30d": 1.12,
-        "close_today": 0.995,
-        "return_30d": -11.16,
+        "market_cap": 445232290,
+        "close_30d": 1.11,
+        "close_today": 1.04,
+        "return_30d": -6.31,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "G0I.SI": {
-        "market_cap": 159757212,
-        "close_30d": 0.66,
-        "close_today": 0.58,
-        "return_30d": -12.12,
+        "market_cap": 151285238,
+        "close_30d": 0.625,
+        "close_today": 0.57,
+        "return_30d": -8.8,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5IF.SI": {
-        "market_cap": 19534942,
-        "close_30d": 0.078,
+        "market_cap": 19034046,
+        "close_30d": 0.076,
         "close_today": 0.077,
-        "return_30d": -1.28,
+        "return_30d": 1.32,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "MR7.SI": {
-        "market_cap": 208964490,
-        "close_30d": 0.525,
-        "close_today": 0.555,
-        "return_30d": 5.71,
+        "market_cap": 206974352,
+        "close_30d": 0.52,
+        "close_today": 0.545,
+        "return_30d": 4.81,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5CF.SI": {
-        "market_cap": 413630548,
-        "close_30d": 0.77,
-        "close_today": 0.705,
-        "return_30d": -8.44,
+        "market_cap": 424374199,
+        "close_30d": 0.79,
+        "close_today": 0.695,
+        "return_30d": -12.03,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3867,106 +3867,106 @@
         "exclusion_reason": null
       },
       "HQU.SI": {
-        "market_cap": 660660000,
-        "close_30d": 1.54,
-        "close_today": 1.36,
-        "return_30d": -11.69,
+        "market_cap": 622050000,
+        "close_30d": 1.45,
+        "close_today": 1.37,
+        "return_30d": -5.52,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "RXS.SI": {
         "market_cap": 108000204,
         "close_30d": 0.074,
-        "close_today": 0.056,
-        "return_30d": -24.32,
+        "close_today": 0.054,
+        "return_30d": -27.03,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BTM.SI": {
-        "market_cap": 334658056,
-        "close_30d": 1.52,
-        "close_today": 1.85,
-        "return_30d": 21.71,
+        "market_cap": 330254661,
+        "close_30d": 1.5,
+        "close_today": 1.95,
+        "return_30d": 30.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "583.SI": {
-        "market_cap": 10153306,
-        "close_30d": 0.026,
+        "market_cap": 9372282,
+        "close_30d": 0.024,
         "close_today": 0.028,
-        "return_30d": 7.69,
+        "return_30d": 16.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "NEX.SI": {
-        "market_cap": 64930000,
-        "close_30d": 0.215,
-        "close_today": 0.21,
-        "return_30d": -2.33,
+        "market_cap": 66440000,
+        "close_30d": 0.22,
+        "close_today": 0.205,
+        "return_30d": -6.82,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "V7R.SI": {
-        "market_cap": 105000000,
-        "close_30d": 0.21,
-        "close_today": 0.235,
-        "return_30d": 11.9,
-        "excluded_from_aggregate": false,
-        "exclusion_reason": null
-      },
-      "566.SI": {
-        "market_cap": 73242409,
-        "close_30d": 0.12,
-        "close_today": 0.12,
+        "market_cap": 115000000,
+        "close_30d": 0.23,
+        "close_today": 0.23,
         "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
+      "566.SI": {
+        "market_cap": 75683823,
+        "close_30d": 0.124,
+        "close_today": 0.117,
+        "return_30d": -5.65,
+        "excluded_from_aggregate": false,
+        "exclusion_reason": null
+      },
       "1E3.SI": {
-        "market_cap": 53102400,
-        "close_30d": 0.156,
-        "close_today": 0.121,
-        "return_30d": -22.44,
+        "market_cap": 52762000,
+        "close_30d": 0.152,
+        "close_today": 0.126,
+        "return_30d": -17.11,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BRD.SI": {
         "market_cap": 18341545,
-        "close_30d": 0.045,
+        "close_30d": 0.047,
         "close_today": 0.042,
-        "return_30d": -6.67,
+        "return_30d": -10.64,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "43B.SI": {
-        "market_cap": 28800144,
-        "close_30d": 0.072,
-        "close_today": 0.067,
-        "return_30d": -6.94,
+        "market_cap": 26400132,
+        "close_30d": 0.066,
+        "close_today": 0.065,
+        "return_30d": -1.52,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "U96.SI": {
-        "market_cap": 9915659737,
-        "close_30d": 5.57,
-        "close_today": 6.01,
-        "return_30d": 7.9,
+        "market_cap": 9988125109,
+        "close_30d": 5.61,
+        "close_today": 6.11,
+        "return_30d": 8.91,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5EW.SI": {
         "market_cap": 3653577,
         "close_30d": 0.017,
-        "close_today": 0.015,
-        "return_30d": -11.76,
+        "close_today": 0.017,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "SES.SI": {
-        "market_cap": 8549506,
-        "close_30d": 0.037,
+        "market_cap": 7394167,
+        "close_30d": 0.032,
         "close_today": 0.03,
-        "return_30d": -18.92,
+        "return_30d": -6.25,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -3979,42 +3979,42 @@
         "exclusion_reason": null
       },
       "SGR.SI": {
-        "market_cap": 31663452,
-        "close_30d": 0.15,
-        "close_today": 0.165,
-        "return_30d": 10.0,
+        "market_cap": 31104685,
+        "close_30d": 0.167,
+        "close_today": 0.17,
+        "return_30d": 1.8,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BKA.SI": {
-        "market_cap": 63075290,
-        "close_30d": 0.58,
-        "close_today": 0.6,
-        "return_30d": 3.45,
+        "market_cap": 58725270,
+        "close_30d": 0.54,
+        "close_today": 0.59,
+        "return_30d": 9.26,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S08.SI": {
-        "market_cap": 788348135,
-        "close_30d": 0.35,
-        "close_today": 0.34,
-        "return_30d": -2.86,
+        "market_cap": 765823902,
+        "close_30d": 0.34,
+        "close_today": 0.335,
+        "return_30d": -1.47,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S63.SI": {
-        "market_cap": 33444309471,
-        "close_30d": 10.72,
-        "close_today": 10.64,
-        "return_30d": -0.75,
+        "market_cap": 32009199176,
+        "close_30d": 10.26,
+        "close_today": 10.48,
+        "return_30d": 2.14,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "ZQM.SI": {
         "market_cap": 416974435,
         "close_30d": 0.63,
-        "close_today": 0.605,
-        "return_30d": -3.97,
+        "close_today": 0.6,
+        "return_30d": -4.76,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -4027,66 +4027,66 @@
         "exclusion_reason": null
       },
       "PA3.SI": {
-        "market_cap": 57378563,
-        "close_30d": 0.097,
+        "market_cap": 56195500,
+        "close_30d": 0.095,
         "close_today": 0.099,
-        "return_30d": 2.06,
+        "return_30d": 4.21,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "500.SI": {
-        "market_cap": 239336157,
-        "close_30d": 0.52,
-        "close_today": 0.535,
-        "return_30d": 2.88,
+        "market_cap": 243938775,
+        "close_30d": 0.53,
+        "close_today": 0.525,
+        "return_30d": -0.94,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BFI.SI": {
         "market_cap": 34119672,
         "close_30d": 0.074,
-        "close_today": 0.076,
-        "return_30d": 2.7,
+        "close_today": 0.073,
+        "return_30d": -1.35,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BQM.SI": {
-        "market_cap": 243427015,
-        "close_30d": 1.05,
-        "close_today": 0.955,
-        "return_30d": -9.05,
+        "market_cap": 238790310,
+        "close_30d": 1.03,
+        "close_today": 0.98,
+        "return_30d": -4.85,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5G9.SI": {
         "market_cap": 15061845,
         "close_30d": 0.008,
-        "close_today": 0.007,
+        "close_today": 0.006,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BFU.SI": {
-        "market_cap": 23997882,
-        "close_30d": 0.275,
-        "close_today": 0.295,
-        "return_30d": 7.27,
+        "market_cap": 22688907,
+        "close_30d": 0.26,
+        "close_today": 0.3,
+        "return_30d": 15.38,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "CHJ.SI": {
-        "market_cap": 70739988,
-        "close_30d": 0.9,
-        "close_today": 0.935,
-        "return_30d": 3.89,
+        "market_cap": 72704987,
+        "close_30d": 0.925,
+        "close_today": 0.93,
+        "return_30d": 0.54,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "ZB9.SI": {
-        "market_cap": 56704464,
-        "close_30d": 0.48,
+        "market_cap": 56113792,
+        "close_30d": 0.475,
         "close_today": 0.475,
-        "return_30d": -1.04,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -4099,10 +4099,10 @@
         "exclusion_reason": null
       },
       "WPC.SI": {
-        "market_cap": 76332087,
-        "close_30d": 0.063,
+        "market_cap": 58157780,
+        "close_30d": 0.048,
         "close_today": 0.056,
-        "return_30d": -11.11,
+        "return_30d": 16.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -4115,55 +4115,55 @@
         "exclusion_reason": null
       },
       "BIP.SI": {
-        "market_cap": 91109990,
-        "close_30d": 0.135,
-        "close_today": 0.124,
-        "return_30d": -8.15,
+        "market_cap": 84361102,
+        "close_30d": 0.125,
+        "close_today": 0.128,
+        "return_30d": 2.4,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BJD.SI": {
-        "market_cap": 3905894,
-        "close_30d": 0.053,
+        "market_cap": 3758501,
+        "close_30d": 0.051,
         "close_today": 0.054,
-        "return_30d": 1.89,
+        "return_30d": 5.88,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "E3B.SI": {
-        "market_cap": 620490433,
-        "close_30d": 0.675,
-        "close_today": 0.66,
-        "return_30d": -2.22,
+        "market_cap": 611297982,
+        "close_30d": 0.665,
+        "close_today": 0.65,
+        "return_30d": -2.26,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1A1.SI": {
-        "market_cap": 47000000,
-        "close_30d": 0.2,
+        "market_cap": 48175000,
+        "close_30d": 0.205,
         "close_today": 0.205,
-        "return_30d": 2.5,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "B49.SI": {
         "market_cap": 48000000,
         "close_30d": 0.12,
-        "close_today": 0.12,
-        "return_30d": 0.0,
+        "close_today": 0.1,
+        "return_30d": -16.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BQF.SI": {
-        "market_cap": 251084579,
-        "close_30d": 2.29,
-        "close_today": 2.15,
-        "return_30d": -6.11,
+        "market_cap": 247795261,
+        "close_30d": 2.26,
+        "close_today": 2.08,
+        "return_30d": -7.96,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "SO7.SI": {
-        "market_cap": 15304997101,
+        "market_cap": 15576135858,
         "close_30d": 17.94,
         "close_today": 17.94,
         "return_30d": 0.0,
@@ -4173,36 +4173,36 @@
       "Z59.SI": {
         "market_cap": 188691836,
         "close_30d": 0.079,
-        "close_today": 0.076,
-        "return_30d": -3.8,
+        "close_today": 0.077,
+        "return_30d": -2.53,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BKX.SI": {
-        "market_cap": 63899997,
-        "close_30d": 0.72,
+        "market_cap": 60793747,
+        "close_30d": 0.685,
         "close_today": 0.675,
-        "return_30d": -6.25,
+        "return_30d": -1.46,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "40W.SI": {
-        "market_cap": 20977278,
-        "close_30d": 0.051,
+        "market_cap": 23033874,
+        "close_30d": 0.06,
         "close_today": 0.057,
-        "return_30d": 11.76,
+        "return_30d": -5.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5CT.SI": {
         "market_cap": 16083840,
         "close_30d": 0.014,
-        "close_today": 0.012,
-        "return_30d": -14.29,
+        "close_today": 0.013,
+        "return_30d": -7.14,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": -1.28
+      "sector_median": -1.47
     }
   },
   {
@@ -4210,8 +4210,8 @@
       "LVR.SI": {
         "market_cap": 141157944,
         "close_30d": 0.805,
-        "close_today": 0.8,
-        "return_30d": -0.62,
+        "close_today": 0.75,
+        "return_30d": -6.83,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -4224,15 +4224,15 @@
         "exclusion_reason": null
       },
       "AWX.SI": {
-        "market_cap": 2511645000,
-        "close_30d": 7.86,
-        "close_today": 8.85,
-        "return_30d": 12.6,
+        "market_cap": 2853561050,
+        "close_30d": 8.93,
+        "close_today": 8.7,
+        "return_30d": -2.58,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "XWA.SI": {
-        "market_cap": 2511839384,
+        "market_cap": 2853116258,
         "close_30d": 4.1,
         "close_today": 4.1,
         "return_30d": 0.0,
@@ -4240,16 +4240,16 @@
         "exclusion_reason": null
       },
       "A31.SI": {
-        "market_cap": 545139509,
-        "close_30d": 0.148,
-        "close_today": 0.169,
-        "return_30d": 14.19,
+        "market_cap": 537772759,
+        "close_30d": 0.146,
+        "close_today": 0.198,
+        "return_30d": 35.62,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "WJ9.SI": {
-        "market_cap": 3429288,
-        "close_30d": 0.002,
+        "market_cap": 5143933,
+        "close_30d": 0.003,
         "close_today": 0.003,
         "return_30d": null,
         "excluded_from_aggregate": false,
@@ -4258,77 +4258,77 @@
       "RCU.SI": {
         "market_cap": 13166046,
         "close_30d": 0.05,
-        "close_today": 0.07,
-        "return_30d": 40.0,
+        "close_today": 0.08,
+        "return_30d": 60.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "575.SI": {
-        "market_cap": 89231389,
-        "close_30d": 0.114,
-        "close_today": 0.117,
-        "return_30d": 2.63,
+        "market_cap": 98624167,
+        "close_30d": 0.126,
+        "close_today": 0.113,
+        "return_30d": -10.32,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AVP.SI": {
-        "market_cap": 3536661178,
-        "close_30d": 16.54,
-        "close_today": 17.93,
-        "return_30d": 8.4,
+        "market_cap": 3672530066,
+        "close_30d": 17.17,
+        "close_today": 17.38,
+        "return_30d": 1.22,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "1R6.SI": {
         "market_cap": 35919668,
         "close_30d": 0.21,
-        "close_today": 0.2,
-        "return_30d": -4.76,
+        "close_today": 0.19,
+        "return_30d": -9.52,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BBW.SI": {
-        "market_cap": 299999930,
-        "close_30d": 10.0,
+        "market_cap": 311999927,
+        "close_30d": 10.4,
         "close_today": 9.9,
-        "return_30d": -1.0,
+        "return_30d": -4.81,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "8AZ.SI": {
-        "market_cap": 547973416,
-        "close_30d": 0.71,
-        "close_today": 0.575,
-        "return_30d": -19.01,
+        "market_cap": 486229933,
+        "close_30d": 0.63,
+        "close_today": 0.565,
+        "return_30d": -10.32,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BXE.SI": {
-        "market_cap": 18715454,
-        "close_30d": 0.083,
-        "close_today": 0.08,
-        "return_30d": -3.61,
+        "market_cap": 17588017,
+        "close_30d": 0.078,
+        "close_today": 0.07,
+        "return_30d": -10.26,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "544.SI": {
-        "market_cap": 860506253,
-        "close_30d": 1.18,
+        "market_cap": 918845660,
+        "close_30d": 1.26,
         "close_today": 1.18,
-        "return_30d": 0.0,
+        "return_30d": -6.35,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "42E.SI": {
         "market_cap": 95623788,
         "close_30d": 0.46,
-        "close_today": 0.46,
-        "return_30d": 0.0,
+        "close_today": 0.45,
+        "return_30d": -2.17,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "STC.SI": {
-        "market_cap": 409835726,
+        "market_cap": 414601216,
         "close_30d": 0.22,
         "close_today": 0.195,
         "return_30d": -11.36,
@@ -4336,119 +4336,119 @@
         "exclusion_reason": null
       },
       "C76.SI": {
-        "market_cap": 56317319,
-        "close_30d": 0.8,
-        "close_today": 0.79,
-        "return_30d": -1.25,
+        "market_cap": 58781201,
+        "close_30d": 0.835,
+        "close_today": 0.74,
+        "return_30d": -11.38,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "532.SI": {
         "market_cap": 14089803,
         "close_30d": 0.001,
-        "close_today": 0.001,
+        "close_today": 0.002,
         "return_30d": null,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BIX.SI": {
-        "market_cap": 42255510,
-        "close_30d": 0.255,
-        "close_today": 0.26,
-        "return_30d": 1.96,
+        "market_cap": 44741128,
+        "close_30d": 0.27,
+        "close_today": 0.275,
+        "return_30d": 1.85,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "E28.SI": {
-        "market_cap": 1047561317,
-        "close_30d": 2.44,
-        "close_today": 2.35,
-        "return_30d": -3.69,
+        "market_cap": 1129133715,
+        "close_30d": 2.63,
+        "close_today": 2.3,
+        "return_30d": -12.55,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BLU.SI": {
-        "market_cap": 10451426,
-        "close_30d": 0.058,
-        "close_today": 0.058,
-        "return_30d": 0.0,
+        "market_cap": 10271229,
+        "close_30d": 0.057,
+        "close_today": 0.064,
+        "return_30d": 12.28,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "41F.SI": {
         "market_cap": 14936078,
         "close_30d": 0.014,
-        "close_today": 0.011,
-        "return_30d": -21.43,
+        "close_today": 0.012,
+        "return_30d": -14.29,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "QS9.SI": {
-        "market_cap": 12768124,
-        "close_30d": 0.047,
-        "close_today": 0.038,
-        "return_30d": -19.15,
+        "market_cap": 12224800,
+        "close_30d": 0.045,
+        "close_today": 0.052,
+        "return_30d": 15.56,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AYN.SI": {
-        "market_cap": 39354801,
-        "close_30d": 1.18,
-        "close_today": 1.16,
-        "return_30d": -1.69,
+        "market_cap": 38354256,
+        "close_30d": 1.15,
+        "close_today": 1.21,
+        "return_30d": 5.22,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "ITS.SI": {
-        "market_cap": 241230000,
-        "close_30d": 0.935,
-        "close_today": 0.875,
-        "return_30d": -6.42,
+        "market_cap": 243810000,
+        "close_30d": 0.945,
+        "close_today": 0.895,
+        "return_30d": -5.29,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "J03.SI": {
         "market_cap": 25257480,
         "close_30d": 0.024,
-        "close_today": 0.017,
-        "return_30d": -29.17,
+        "close_today": 0.023,
+        "return_30d": -4.17,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5PF.SI": {
-        "market_cap": 17789072,
-        "close_30d": 0.17,
+        "market_cap": 16219448,
+        "close_30d": 0.155,
         "close_today": 0.13,
-        "return_30d": -23.53,
+        "return_30d": -16.13,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "NHD.SI": {
-        "market_cap": 6355157,
-        "close_30d": 0.02,
-        "close_today": 0.023,
-        "return_30d": 15.0,
+        "market_cap": 6037399,
+        "close_30d": 0.019,
+        "close_today": 0.053,
+        "return_30d": 178.95,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "K29.SI": {
-        "market_cap": 55596086,
-        "close_30d": 0.26,
+        "market_cap": 52388619,
+        "close_30d": 0.245,
         "close_today": 0.25,
-        "return_30d": -3.85,
+        "return_30d": 2.04,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "M11.SI": {
         "market_cap": 5559340,
         "close_30d": 0.023,
-        "close_today": 0.022,
-        "return_30d": -4.35,
+        "close_today": 0.045,
+        "return_30d": 95.65,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "M12.SI": {
-        "market_cap": 5150417681,
+        "market_cap": 5741405778,
         "close_30d": 0.0,
         "close_today": 0.0,
         "return_30d": null,
@@ -4456,82 +4456,82 @@
         "exclusion_reason": null
       },
       "9MT.SI": {
-        "market_cap": 134669784,
-        "close_30d": 0.555,
-        "close_today": 0.47,
-        "return_30d": -15.32,
+        "market_cap": 132243301,
+        "close_30d": 0.545,
+        "close_today": 0.445,
+        "return_30d": -18.35,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5DD.SI": {
-        "market_cap": 367771984,
-        "close_30d": 2.65,
-        "close_today": 2.8,
-        "return_30d": 5.66,
+        "market_cap": 380262353,
+        "close_30d": 2.74,
+        "close_today": 2.64,
+        "return_30d": -3.65,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "AWZ.SI": {
-        "market_cap": 334253444,
-        "close_30d": 3.71,
-        "close_today": 4.3,
-        "return_30d": 15.9,
+        "market_cap": 343262971,
+        "close_30d": 3.81,
+        "close_today": 4.48,
+        "return_30d": 17.59,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "MZH.SI": {
-        "market_cap": 684995415,
-        "close_30d": 1.05,
-        "close_today": 0.94,
-        "return_30d": -10.48,
+        "market_cap": 717614244,
+        "close_30d": 1.1,
+        "close_today": 0.915,
+        "return_30d": -16.82,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "N01.SI": {
-        "market_cap": 66950945,
-        "close_30d": 0.185,
-        "close_today": 0.181,
-        "return_30d": -2.16,
+        "market_cap": 65141460,
+        "close_30d": 0.18,
+        "close_today": 0.18,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "KUX.SI": {
-        "market_cap": 4841449,
-        "close_30d": 0.022,
+        "market_cap": 11003293,
+        "close_30d": 0.05,
         "close_today": 0.05,
-        "return_30d": 127.27,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "TVV.SI": {
         "market_cap": 11631201,
         "close_30d": 0.034,
-        "close_today": 0.029,
-        "return_30d": -14.71,
+        "close_today": 0.027,
+        "return_30d": -20.59,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "PCT.SI": {
-        "market_cap": 1008497536,
-        "close_30d": 2.6,
-        "close_today": 2.86,
-        "return_30d": 10.0,
+        "market_cap": 1152014493,
+        "close_30d": 2.97,
+        "close_today": 2.93,
+        "return_30d": -1.35,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BDA.SI": {
-        "market_cap": 33147119,
-        "close_30d": 0.395,
+        "market_cap": 32727535,
+        "close_30d": 0.39,
         "close_today": 0.38,
-        "return_30d": -3.8,
+        "return_30d": -2.56,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BCY.SI": {
-        "market_cap": 114020257,
-        "close_30d": 3.25,
-        "close_today": 2.9,
-        "return_30d": -10.77,
+        "market_cap": 112967762,
+        "close_30d": 3.22,
+        "close_today": 3.05,
+        "return_30d": -5.28,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
@@ -4544,103 +4544,103 @@
         "exclusion_reason": null
       },
       "U77.SI": {
-        "market_cap": 64321811,
-        "close_30d": 0.189,
-        "close_today": 0.178,
-        "return_30d": -5.82,
+        "market_cap": 62960503,
+        "close_30d": 0.185,
+        "close_today": 0.18,
+        "return_30d": -2.7,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "XHV.SI": {
-        "market_cap": 22130390,
-        "close_30d": 0.116,
-        "close_today": 0.121,
-        "return_30d": 4.31,
+        "market_cap": 22321169,
+        "close_30d": 0.117,
+        "close_today": 0.118,
+        "return_30d": 0.85,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S69.SI": {
-        "market_cap": 65148617,
-        "close_30d": 0.072,
-        "close_today": 0.067,
-        "return_30d": -6.94,
+        "market_cap": 64243775,
+        "close_30d": 0.071,
+        "close_today": 0.066,
+        "return_30d": -7.04,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "S71.SI": {
-        "market_cap": 58332850,
-        "close_30d": 0.475,
-        "close_today": 0.435,
-        "return_30d": -8.42,
+        "market_cap": 62631060,
+        "close_30d": 0.51,
+        "close_today": 0.415,
+        "return_30d": -18.63,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "TKU.SI": {
-        "market_cap": 108916079,
-        "close_30d": 0.191,
-        "close_today": 0.158,
-        "return_30d": -17.28,
+        "market_cap": 111197044,
+        "close_30d": 0.195,
+        "close_today": 0.162,
+        "return_30d": -16.92,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "42F.SI": {
-        "market_cap": 40002994,
-        "close_30d": 0.023,
-        "close_today": 0.025,
-        "return_30d": 8.7,
+        "market_cap": 41742254,
+        "close_30d": 0.024,
+        "close_today": 0.024,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "5AB.SI": {
-        "market_cap": 71089949,
-        "close_30d": 0.235,
-        "close_today": 0.25,
-        "return_30d": 6.38,
+        "market_cap": 95290783,
+        "close_30d": 0.315,
+        "close_today": 0.255,
+        "return_30d": -19.05,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "CYW.SI": {
-        "market_cap": 19034284,
-        "close_30d": 0.08,
-        "close_today": 0.084,
-        "return_30d": 5.0,
+        "market_cap": 19985998,
+        "close_30d": 0.084,
+        "close_today": 0.081,
+        "return_30d": -3.57,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "558.SI": {
-        "market_cap": 1943631611,
-        "close_30d": 2.19,
-        "close_today": 2.67,
-        "return_30d": 21.92,
+        "market_cap": 2192132456,
+        "close_30d": 2.47,
+        "close_today": 2.54,
+        "return_30d": 2.83,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BN2.SI": {
         "market_cap": 429725128,
         "close_30d": 1.05,
-        "close_today": 1.01,
-        "return_30d": -3.81,
+        "close_today": 0.99,
+        "return_30d": -5.71,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "V03.SI": {
-        "market_cap": 4517094367,
-        "close_30d": 15.71,
-        "close_today": 16.97,
-        "return_30d": 8.02,
+        "market_cap": 4709739385,
+        "close_30d": 16.38,
+        "close_today": 16.72,
+        "return_30d": 2.08,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "BDR.SI": {
-        "market_cap": 111228172,
-        "close_30d": 1.08,
+        "market_cap": 114317844,
+        "close_30d": 1.11,
         "close_today": 1.11,
-        "return_30d": 2.78,
+        "return_30d": 0.0,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "T43.SI": {
-        "market_cap": 49921704,
+        "market_cap": 49572696,
         "close_30d": 0.083,
         "close_today": 0.083,
         "return_30d": 0.0,
@@ -4648,30 +4648,30 @@
         "exclusion_reason": null
       },
       "AIY.SI": {
-        "market_cap": 2727673859,
-        "close_30d": 8.95,
-        "close_today": 8.86,
-        "return_30d": -1.01,
+        "market_cap": 2730721539,
+        "close_30d": 8.96,
+        "close_today": 8.9,
+        "return_30d": -0.67,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "NXR.SI": {
         "market_cap": 76070111,
         "close_30d": 0.265,
-        "close_today": 0.24,
-        "return_30d": -9.43,
+        "close_today": 0.235,
+        "return_30d": -11.32,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
       "Y3D.SI": {
         "market_cap": 85850879,
         "close_30d": 0.037,
-        "close_today": 0.036,
-        "return_30d": -2.7,
+        "close_today": 0.039,
+        "return_30d": 5.41,
         "excluded_from_aggregate": false,
         "exclusion_reason": null
       },
-      "sector_median": -1.25
+      "sector_median": -2.7
     }
   }
 ]
