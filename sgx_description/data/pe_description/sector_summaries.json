@@ -2,11 +2,11 @@
   {
     "sector_name": "Consumer Non-Cyclicals",
     "company_count": 10,
-    "sector_pe_median": 13.754233,
-    "sector_last_year_pe_median": 10.759323146688864,
-    "overall_pe_median": 8.802025,
+    "sector_pe_median": 13.936137,
+    "sector_last_year_pe_median": 10.7869416797336,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "higher",
-    "below_sector_median_count": 5,
+    "below_sector_median_count": 4,
     "below_market_median_count": 1,
     "undervalued_companies": [
       {
@@ -14,12 +14,12 @@
         "company_name": "Golden Agri-Resources Ltd"
       },
       {
-        "symbol": "Y92.SI",
-        "company_name": "Thai Beverage PLC"
+        "symbol": "D01.SI",
+        "company_name": "DFI Retail Group Holdings Ltd"
       },
       {
-        "symbol": "EB5.SI",
-        "company_name": "First Resources Ltd"
+        "symbol": "Y92.SI",
+        "company_name": "Thai Beverage PLC"
       }
     ],
     "excluded_symbols": []
@@ -27,9 +27,9 @@
   {
     "sector_name": "Consumer Cyclicals",
     "company_count": 84,
-    "sector_pe_median": 7.809,
-    "sector_last_year_pe_median": 6.170574353728679,
-    "overall_pe_median": 8.802025,
+    "sector_pe_median": 7.6565965,
+    "sector_last_year_pe_median": 6.1694262659987364,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "higher",
     "below_sector_median_count": 11,
     "below_market_median_count": 14,
@@ -52,9 +52,9 @@
   {
     "sector_name": "Transportation & Logistics",
     "company_count": 8,
-    "sector_pe_median": 11.559695,
-    "sector_last_year_pe_median": 7.742125503709495,
-    "overall_pe_median": 8.802025,
+    "sector_pe_median": 11.436765,
+    "sector_last_year_pe_median": 7.873347977647242,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "higher",
     "below_sector_median_count": 2,
     "below_market_median_count": 2,
@@ -77,9 +77,9 @@
   {
     "sector_name": "Healthcare",
     "company_count": 40,
-    "sector_pe_median": 7.692308,
+    "sector_pe_median": 7.802198,
     "sector_last_year_pe_median": 6.270239246356203,
-    "overall_pe_median": 8.802025,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "higher",
     "below_sector_median_count": 1,
     "below_market_median_count": 2,
@@ -102,12 +102,12 @@
   {
     "sector_name": "Properties & Real Estate",
     "company_count": 53,
-    "sector_pe_median": 10.2089007373773,
-    "sector_last_year_pe_median": 10.669461587627012,
-    "overall_pe_median": 8.802025,
+    "sector_pe_median": 9.956681,
+    "sector_last_year_pe_median": 10.511204786115474,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "lower",
-    "below_sector_median_count": 10,
-    "below_market_median_count": 9,
+    "below_sector_median_count": 11,
+    "below_market_median_count": 8,
     "undervalued_companies": [
       {
         "symbol": "1F3.SI",
@@ -127,24 +127,24 @@
   {
     "sector_name": "Energy",
     "company_count": 23,
-    "sector_pe_median": 3.84887,
+    "sector_pe_median": 4.276876,
     "sector_last_year_pe_median": 6.945182071486763,
-    "overall_pe_median": 8.802025,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "lower",
     "below_sector_median_count": 2,
-    "below_market_median_count": 5,
+    "below_market_median_count": 4,
     "undervalued_companies": [
       {
         "symbol": "JFQ.SI",
         "company_name": "JFQ"
       },
       {
-        "symbol": "TPED.SI",
-        "company_name": "PTT Exploration Production PCL DRC"
-      },
-      {
         "symbol": "C9Q.SI",
         "company_name": "Sinostar Pec Holdings Ltd"
+      },
+      {
+        "symbol": "Y35.SI",
+        "company_name": "AnAn International Ltd"
       }
     ],
     "excluded_symbols": []
@@ -152,9 +152,9 @@
   {
     "sector_name": "Utilities",
     "company_count": 13,
-    "sector_pe_median": 1.3866865528959,
-    "sector_last_year_pe_median": 2.2256629386606717,
-    "overall_pe_median": 8.802025,
+    "sector_pe_median": 1.236849,
+    "sector_last_year_pe_median": 2.251151719141767,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "lower",
     "below_sector_median_count": 2,
     "below_market_median_count": 7,
@@ -168,8 +168,8 @@
         "company_name": "Concord New Energy Group Ltd"
       },
       {
-        "symbol": "5IG.SI",
-        "company_name": "Gallant Venture Ltd"
+        "symbol": "AJ2.SI",
+        "company_name": "Ouhua Energy Holdings Ltd"
       }
     ],
     "excluded_symbols": []
@@ -177,9 +177,9 @@
   {
     "sector_name": "Consumer Defensive",
     "company_count": 30,
-    "sector_pe_median": 5.3481155000000005,
-    "sector_last_year_pe_median": 6.142893363075444,
-    "overall_pe_median": 8.802025,
+    "sector_pe_median": 5.399219,
+    "sector_last_year_pe_median": 6.198761185192881,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "lower",
     "below_sector_median_count": 6,
     "below_market_median_count": 9,
@@ -203,8 +203,8 @@
     "sector_name": "Financial Services",
     "company_count": 29,
     "sector_pe_median": 9.985935,
-    "sector_last_year_pe_median": 11.078606735202966,
-    "overall_pe_median": 8.802025,
+    "sector_last_year_pe_median": 11.546026831345825,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "lower",
     "below_sector_median_count": 5,
     "below_market_median_count": 4,
@@ -227,9 +227,9 @@
   {
     "sector_name": "Communication Services",
     "company_count": 15,
-    "sector_pe_median": 0.060202,
-    "sector_last_year_pe_median": 11.697610539067233,
-    "overall_pe_median": 8.802025,
+    "sector_pe_median": 0.056575,
+    "sector_last_year_pe_median": 11.383018190921923,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "lower",
     "below_sector_median_count": 0,
     "below_market_median_count": 3,
@@ -252,12 +252,12 @@
   {
     "sector_name": "Basic Materials",
     "company_count": 36,
-    "sector_pe_median": 6.864924,
-    "sector_last_year_pe_median": 4.3972880765448155,
-    "overall_pe_median": 8.802025,
+    "sector_pe_median": 6.847715,
+    "sector_last_year_pe_median": 3.3425789209867847,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "higher",
     "below_sector_median_count": 5,
-    "below_market_median_count": 7,
+    "below_market_median_count": 9,
     "undervalued_companies": [
       {
         "symbol": "E6R.SI",
@@ -277,11 +277,11 @@
   {
     "sector_name": "Infrastructures",
     "company_count": 7,
-    "sector_pe_median": 13.38489,
-    "sector_last_year_pe_median": 17.879919764773238,
-    "overall_pe_median": 8.802025,
+    "sector_pe_median": 12.939959,
+    "sector_last_year_pe_median": 17.797713237168317,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "lower",
-    "below_sector_median_count": 2,
+    "below_sector_median_count": 3,
     "below_market_median_count": 0,
     "undervalued_companies": [
       {
@@ -289,8 +289,8 @@
         "company_name": "Yangzijiang Shipbuilding (Holdings) Ltd"
       },
       {
-        "symbol": "C52.SI",
-        "company_name": "ComfortDelGro Corp Ltd"
+        "symbol": "Z77.SI",
+        "company_name": "Singapore Telecommunications Ltd"
       },
       {
         "symbol": "Z74.SI",
@@ -302,9 +302,9 @@
   {
     "sector_name": "REIT",
     "company_count": 41,
-    "sector_pe_median": 14.4802855,
-    "sector_last_year_pe_median": 14.54005789628177,
-    "overall_pe_median": 8.802025,
+    "sector_pe_median": 14.437331499999999,
+    "sector_last_year_pe_median": 14.686927166829987,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "lower",
     "below_sector_median_count": 15,
     "below_market_median_count": 5,
@@ -327,11 +327,11 @@
   {
     "sector_name": "Industrials",
     "company_count": 126,
-    "sector_pe_median": 8.645258,
-    "sector_last_year_pe_median": 8.637190898709347,
-    "overall_pe_median": 8.802025,
-    "pe_status": "higher",
-    "below_sector_median_count": 38,
+    "sector_pe_median": 8.343558,
+    "sector_last_year_pe_median": 8.415011177038775,
+    "overall_pe_median": 8.43500366392313,
+    "pe_status": "lower",
+    "below_sector_median_count": 37,
     "below_market_median_count": 39,
     "undervalued_companies": [
       {
@@ -352,12 +352,12 @@
   {
     "sector_name": "Technology",
     "company_count": 58,
-    "sector_pe_median": 7.69398,
-    "sector_last_year_pe_median": 9.249694754392472,
-    "overall_pe_median": 8.802025,
+    "sector_pe_median": 7.5639585,
+    "sector_last_year_pe_median": 9.644484186727539,
+    "overall_pe_median": 8.43500366392313,
     "pe_status": "lower",
     "below_sector_median_count": 5,
-    "below_market_median_count": 7,
+    "below_market_median_count": 6,
     "undervalued_companies": [
       {
         "symbol": "K29.SI",
