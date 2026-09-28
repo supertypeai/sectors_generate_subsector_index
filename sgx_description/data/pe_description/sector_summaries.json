@@ -2,9 +2,9 @@
   {
     "sector_name": "Consumer Non-Cyclicals",
     "company_count": 10,
-    "sector_pe_median": 13.936137,
-    "sector_last_year_pe_median": 10.7869416797336,
-    "overall_pe_median": 8.43500366392313,
+    "sector_pe_median": 12.6751,
+    "sector_last_year_pe_median": 10.75248290335456,
+    "overall_pe_median": 8.265832,
     "pe_status": "higher",
     "below_sector_median_count": 4,
     "below_market_median_count": 1,
@@ -27,12 +27,12 @@
   {
     "sector_name": "Consumer Cyclicals",
     "company_count": 84,
-    "sector_pe_median": 7.6565965,
-    "sector_last_year_pe_median": 6.1694262659987364,
-    "overall_pe_median": 8.43500366392313,
+    "sector_pe_median": 7.020394,
+    "sector_last_year_pe_median": 6.242871793433369,
+    "overall_pe_median": 8.265832,
     "pe_status": "higher",
     "below_sector_median_count": 11,
-    "below_market_median_count": 14,
+    "below_market_median_count": 16,
     "undervalued_companies": [
       {
         "symbol": "AWK.SI",
@@ -52,20 +52,20 @@
   {
     "sector_name": "Transportation & Logistics",
     "company_count": 8,
-    "sector_pe_median": 11.436765,
-    "sector_last_year_pe_median": 7.873347977647242,
-    "overall_pe_median": 8.43500366392313,
+    "sector_pe_median": 10.814266,
+    "sector_last_year_pe_median": 7.742125503709495,
+    "overall_pe_median": 8.265832,
     "pe_status": "higher",
     "below_sector_median_count": 2,
     "below_market_median_count": 2,
     "undervalued_companies": [
       {
-        "symbol": "S56.SI",
-        "company_name": "Samudera Shipping Line Ltd"
-      },
-      {
         "symbol": "S19.SI",
         "company_name": "Singapore Shipping Corp Ltd"
+      },
+      {
+        "symbol": "S56.SI",
+        "company_name": "Samudera Shipping Line Ltd"
       },
       {
         "symbol": "BTJ.SI",
@@ -78,8 +78,8 @@
     "sector_name": "Healthcare",
     "company_count": 40,
     "sector_pe_median": 7.802198,
-    "sector_last_year_pe_median": 6.270239246356203,
-    "overall_pe_median": 8.43500366392313,
+    "sector_last_year_pe_median": 6.724604455504207,
+    "overall_pe_median": 8.265832,
     "pe_status": "higher",
     "below_sector_median_count": 1,
     "below_market_median_count": 2,
@@ -101,10 +101,10 @@
   },
   {
     "sector_name": "Properties & Real Estate",
-    "company_count": 53,
-    "sector_pe_median": 9.956681,
-    "sector_last_year_pe_median": 10.511204786115474,
-    "overall_pe_median": 8.43500366392313,
+    "company_count": 51,
+    "sector_pe_median": 10.0510205,
+    "sector_last_year_pe_median": 10.759465728080285,
+    "overall_pe_median": 8.265832,
     "pe_status": "lower",
     "below_sector_median_count": 11,
     "below_market_median_count": 8,
@@ -127,9 +127,9 @@
   {
     "sector_name": "Energy",
     "company_count": 23,
-    "sector_pe_median": 4.276876,
-    "sector_last_year_pe_median": 6.945182071486763,
-    "overall_pe_median": 8.43500366392313,
+    "sector_pe_median": 4.188694,
+    "sector_last_year_pe_median": 5.330023482053003,
+    "overall_pe_median": 8.265832,
     "pe_status": "lower",
     "below_sector_median_count": 2,
     "below_market_median_count": 4,
@@ -152,9 +152,9 @@
   {
     "sector_name": "Utilities",
     "company_count": 13,
-    "sector_pe_median": 1.236849,
-    "sector_last_year_pe_median": 2.251151719141767,
-    "overall_pe_median": 8.43500366392313,
+    "sector_pe_median": 1.235385,
+    "sector_last_year_pe_median": 2.248631841514308,
+    "overall_pe_median": 8.265832,
     "pe_status": "lower",
     "below_sector_median_count": 2,
     "below_market_median_count": 7,
@@ -177,12 +177,12 @@
   {
     "sector_name": "Consumer Defensive",
     "company_count": 30,
-    "sector_pe_median": 5.399219,
-    "sector_last_year_pe_median": 6.198761185192881,
-    "overall_pe_median": 8.43500366392313,
+    "sector_pe_median": 5.332567,
+    "sector_last_year_pe_median": 5.642650420808535,
+    "overall_pe_median": 8.265832,
     "pe_status": "lower",
     "below_sector_median_count": 6,
-    "below_market_median_count": 9,
+    "below_market_median_count": 8,
     "undervalued_companies": [
       {
         "symbol": "CNE.SI",
@@ -204,7 +204,7 @@
     "company_count": 29,
     "sector_pe_median": 9.985935,
     "sector_last_year_pe_median": 11.546026831345825,
-    "overall_pe_median": 8.43500366392313,
+    "overall_pe_median": 8.265832,
     "pe_status": "lower",
     "below_sector_median_count": 5,
     "below_market_median_count": 4,
@@ -227,9 +227,9 @@
   {
     "sector_name": "Communication Services",
     "company_count": 15,
-    "sector_pe_median": 0.056575,
-    "sector_last_year_pe_median": 11.383018190921923,
-    "overall_pe_median": 8.43500366392313,
+    "sector_pe_median": 0.055124,
+    "sector_last_year_pe_median": 11.57826711101583,
+    "overall_pe_median": 8.265832,
     "pe_status": "lower",
     "below_sector_median_count": 0,
     "below_market_median_count": 3,
@@ -252,12 +252,12 @@
   {
     "sector_name": "Basic Materials",
     "company_count": 36,
-    "sector_pe_median": 6.847715,
-    "sector_last_year_pe_median": 3.3425789209867847,
-    "overall_pe_median": 8.43500366392313,
+    "sector_pe_median": 6.749834,
+    "sector_last_year_pe_median": 3.525733930355923,
+    "overall_pe_median": 8.265832,
     "pe_status": "higher",
     "below_sector_median_count": 5,
-    "below_market_median_count": 9,
+    "below_market_median_count": 8,
     "undervalued_companies": [
       {
         "symbol": "E6R.SI",
@@ -277,9 +277,9 @@
   {
     "sector_name": "Infrastructures",
     "company_count": 7,
-    "sector_pe_median": 12.939959,
-    "sector_last_year_pe_median": 17.797713237168317,
-    "overall_pe_median": 8.43500366392313,
+    "sector_pe_median": 13.146998,
+    "sector_last_year_pe_median": 17.551093654104644,
+    "overall_pe_median": 8.265832,
     "pe_status": "lower",
     "below_sector_median_count": 3,
     "below_market_median_count": 0,
@@ -289,11 +289,11 @@
         "company_name": "Yangzijiang Shipbuilding (Holdings) Ltd"
       },
       {
-        "symbol": "Z77.SI",
+        "symbol": "Z74.SI",
         "company_name": "Singapore Telecommunications Ltd"
       },
       {
-        "symbol": "Z74.SI",
+        "symbol": "Z77.SI",
         "company_name": "Singapore Telecommunications Ltd"
       }
     ],
@@ -302,9 +302,9 @@
   {
     "sector_name": "REIT",
     "company_count": 41,
-    "sector_pe_median": 14.437331499999999,
-    "sector_last_year_pe_median": 14.686927166829987,
-    "overall_pe_median": 8.43500366392313,
+    "sector_pe_median": 14.0186055,
+    "sector_last_year_pe_median": 15.101594322574783,
+    "overall_pe_median": 8.265832,
     "pe_status": "lower",
     "below_sector_median_count": 15,
     "below_market_median_count": 5,
@@ -327,12 +327,12 @@
   {
     "sector_name": "Industrials",
     "company_count": 126,
-    "sector_pe_median": 8.343558,
-    "sector_last_year_pe_median": 8.415011177038775,
-    "overall_pe_median": 8.43500366392313,
+    "sector_pe_median": 8.189655,
+    "sector_last_year_pe_median": 8.3319822416878,
+    "overall_pe_median": 8.265832,
     "pe_status": "lower",
     "below_sector_median_count": 37,
-    "below_market_median_count": 39,
+    "below_market_median_count": 38,
     "undervalued_companies": [
       {
         "symbol": "LS9.SI",
@@ -352,12 +352,12 @@
   {
     "sector_name": "Technology",
     "company_count": 58,
-    "sector_pe_median": 7.5639585,
-    "sector_last_year_pe_median": 9.644484186727539,
-    "overall_pe_median": 8.43500366392313,
+    "sector_pe_median": 7.5851655000000004,
+    "sector_last_year_pe_median": 9.28318419670064,
+    "overall_pe_median": 8.265832,
     "pe_status": "lower",
     "below_sector_median_count": 5,
-    "below_market_median_count": 6,
+    "below_market_median_count": 7,
     "undervalued_companies": [
       {
         "symbol": "K29.SI",
@@ -368,8 +368,8 @@
         "company_name": "Willas-Array Electronics Holdings Ltd"
       },
       {
-        "symbol": "Y3D.SI",
-        "company_name": "mDR Ltd"
+        "symbol": "QS9.SI",
+        "company_name": "Global Invacom Group Ltd"
       }
     ],
     "excluded_symbols": []

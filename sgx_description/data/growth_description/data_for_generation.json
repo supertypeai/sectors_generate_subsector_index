@@ -1,7 +1,7 @@
 {
   "Consumer Non-Cyclicals": {
-    "avg_annual_earning_growth": 0.355430000438989,
-    "avg_annual_revenue_growth": 0.119769246167269,
+    "avg_annual_earning_growth": 0.350727869669203,
+    "avg_annual_revenue_growth": 0.113473950101692,
     "companies": {
       "P8Z.SI": {
         "company_name": "Bumitama Agri Ltd",
@@ -56,8 +56,8 @@
     }
   },
   "Consumer Cyclicals": {
-    "avg_annual_earning_growth": -0.0438888688216603,
-    "avg_annual_revenue_growth": 0.148212658658102,
+    "avg_annual_earning_growth": -0.0542404214378306,
+    "avg_annual_revenue_growth": 0.149419023639121,
     "companies": {
       "533.SI": {
         "company_name": "ABR Holdings Ltd",
@@ -482,8 +482,8 @@
     }
   },
   "Transportation & Logistics": {
-    "avg_annual_earning_growth": 0.0175224982413376,
-    "avg_annual_revenue_growth": 0.0270086681969575,
+    "avg_annual_earning_growth": 0.0179121574745367,
+    "avg_annual_revenue_growth": 0.0270462752328775,
     "companies": {
       "BTJ.SI": {
         "company_name": "A-Sonic Aerospace Ltd",
@@ -528,8 +528,8 @@
     }
   },
   "Healthcare": {
-    "avg_annual_earning_growth": -0.746328575494947,
-    "avg_annual_revenue_growth": 0.131997749495898,
+    "avg_annual_earning_growth": -0.76260158011418,
+    "avg_annual_revenue_growth": 0.132312717464723,
     "companies": {
       "584.SI": {
         "company_name": "AJJ Medtech Holdings Ltd",
@@ -734,8 +734,8 @@
     }
   },
   "Properties & Real Estate": {
-    "avg_annual_earning_growth": 0.846404624297288,
-    "avg_annual_revenue_growth": 0.132469300729359,
+    "avg_annual_earning_growth": 0.854331463464489,
+    "avg_annual_revenue_growth": 0.1338260593613,
     "companies": {
       "1U8.SI": {
         "company_name": "1U8",
@@ -772,11 +772,6 @@
         "earnings_growth": 0.06398713826366559,
         "revenue_growth": 0.424000844728367
       },
-      "42S.SI": {
-        "company_name": "Astaka Holdings Ltd",
-        "earnings_growth": -0.4978261703669523,
-        "revenue_growth": 0.9934209137696806
-      },
       "B61.SI": {
         "company_name": "Bukit Sembawang Estates Ltd",
         "earnings_growth": 0.6132228605304388,
@@ -809,11 +804,6 @@
       },
       "C09.SI": {
         "company_name": "City Developments Ltd",
-        "earnings_growth": 2.127833853245644,
-        "revenue_growth": 0.09656862610231057
-      },
-      "C70.SI": {
-        "company_name": "City Developments Ltd Pref",
         "earnings_growth": 2.127833853245644,
         "revenue_growth": 0.09656862610231057
       },
@@ -1005,8 +995,8 @@
     }
   },
   "Energy": {
-    "avg_annual_earning_growth": 0.217170825891417,
-    "avg_annual_revenue_growth": 0.207906946313699,
+    "avg_annual_earning_growth": 0.497354634831268,
+    "avg_annual_revenue_growth": 0.211114868470609,
     "companies": {
       "5AU.SI": {
         "company_name": "AP Oil International Ltd",
@@ -1126,8 +1116,8 @@
     }
   },
   "Utilities": {
-    "avg_annual_earning_growth": 0.477643515018373,
-    "avg_annual_revenue_growth": -0.0556444058946718,
+    "avg_annual_earning_growth": 0.519751612134884,
+    "avg_annual_revenue_growth": -0.0580141867518501,
     "companies": {
       "5CR.SI": {
         "company_name": "Asiatic Group (Holdings) Ltd",
@@ -1197,8 +1187,8 @@
     }
   },
   "Consumer Defensive": {
-    "avg_annual_earning_growth": 0.492366860121788,
-    "avg_annual_revenue_growth": 0.109795861488472,
+    "avg_annual_earning_growth": 0.477353057108316,
+    "avg_annual_revenue_growth": 0.107653985773673,
     "companies": {
       "BAC.SI": {
         "company_name": "Camsing Healthcare Ltd",
@@ -1353,8 +1343,8 @@
     }
   },
   "Financial Services": {
-    "avg_annual_earning_growth": 0.0893965315201968,
-    "avg_annual_revenue_growth": 0.0858925806230648,
+    "avg_annual_earning_growth": 0.0824939741640369,
+    "avg_annual_revenue_growth": 0.0823996379287197,
     "companies": {
       "HKB.SI": {
         "company_name": "AMTD IDEA Group",
@@ -1504,8 +1494,8 @@
     }
   },
   "Communication Services": {
-    "avg_annual_earning_growth": -1.35833502721801,
-    "avg_annual_revenue_growth": 0.0311970303126613,
+    "avg_annual_earning_growth": -1.15234046241695,
+    "avg_annual_revenue_growth": 0.0319909266343134,
     "companies": {
       "S7OU.SI": {
         "company_name": "Asian Pay Television Trust",
@@ -1585,8 +1575,8 @@
     }
   },
   "Basic Materials": {
-    "avg_annual_earning_growth": 11.1032089755737,
-    "avg_annual_revenue_growth": 0.0935560906047719,
+    "avg_annual_earning_growth": 10.9251685780148,
+    "avg_annual_revenue_growth": 0.0894660665415306,
     "companies": {
       "541.SI": {
         "company_name": "Abundance International Ltd",
@@ -1771,8 +1761,8 @@
     }
   },
   "Infrastructures": {
-    "avg_annual_earning_growth": 3.38281192729277,
-    "avg_annual_revenue_growth": 0.0181423550323951,
+    "avg_annual_earning_growth": 3.37039890933265,
+    "avg_annual_revenue_growth": 0.0184935941185102,
     "companies": {
       "C52.SI": {
         "company_name": "ComfortDelGro Corp Ltd",
@@ -1794,15 +1784,15 @@
         "earnings_growth": 0.43684362258556075,
         "revenue_growth": 0.1379360766648663
       },
-      "Z77.SI": {
-        "company_name": "Singapore Telecommunications Ltd",
-        "earnings_growth": 4.053333333333334,
-        "revenue_growth": 0.0013165811360821094
-      },
       "Z74.SI": {
         "company_name": "Singapore Telecommunications Ltd",
         "earnings_growth": 4.067169811320754,
         "revenue_growth": 0.01792956998761281
+      },
+      "Z77.SI": {
+        "company_name": "Singapore Telecommunications Ltd",
+        "earnings_growth": 4.053333333333334,
+        "revenue_growth": 0.0013165811360821094
       },
       "BS6.SI": {
         "company_name": "Yangzijiang Shipbuilding (Holdings) Ltd",
@@ -1812,8 +1802,8 @@
     }
   },
   "REIT": {
-    "avg_annual_earning_growth": 0.393038229702585,
-    "avg_annual_revenue_growth": 0.042858899351035,
+    "avg_annual_earning_growth": 0.392133941654907,
+    "avg_annual_revenue_growth": 0.0425298708663586,
     "companies": {
       "O5RU.SI": {
         "company_name": "AIMS APAC REIT",
@@ -1822,8 +1812,8 @@
       },
       "XZL.SI": {
         "company_name": "Acrophyte Hospitality Trust",
-        "earnings_growth": 0.07813752589810398,
-        "revenue_growth": -0.11280324133355807
+        "earnings_growth": 0.07813753617651617,
+        "revenue_growth": -0.11280324070146562
       },
       "M1GU.SI": {
         "company_name": "Alpha Integrated REIT",
@@ -1872,8 +1862,8 @@
       },
       "DCRU.SI": {
         "company_name": "Digital Core REIT",
-        "earnings_growth": -0.7625800221043614,
-        "revenue_growth": 0.6258724974954235
+        "earnings_growth": -0.7625800212735473,
+        "revenue_growth": 0.6258724965956859
       },
       "9A4U.SI": {
         "company_name": "ESR-REIT",
@@ -1882,8 +1872,8 @@
       },
       "MXNU.SI": {
         "company_name": "Elite UK REIT",
-        "earnings_growth": -0.31481681150114954,
-        "revenue_growth": -0.0074443973909311505
+        "earnings_growth": -0.3148168057857474,
+        "revenue_growth": -0.007444403341650342
       },
       "Q5T.SI": {
         "company_name": "Far East Hospitality Trust",
@@ -1905,15 +1895,15 @@
         "earnings_growth": 0.40964447128626136,
         "revenue_growth": 0.055548341743643016
       },
-      "8U7U.SI": {
+      "UD1U.SI": {
         "company_name": "IREIT Global",
         "earnings_growth": -8.822018465507039,
         "revenue_growth": -0.28942743914833424
       },
-      "UD1U.SI": {
+      "8U7U.SI": {
         "company_name": "IREIT Global",
         "earnings_growth": -8.822018465507039,
-        "revenue_growth": -0.2894274372793739
+        "revenue_growth": -0.28942743914833424
       },
       "AJBU.SI": {
         "company_name": "Keppel DC REIT",
@@ -1922,8 +1912,8 @@
       },
       "CMOU.SI": {
         "company_name": "Keppel Pacific Oak US REIT",
-        "earnings_growth": -0.44201755871352116,
-        "revenue_growth": -0.03198509509001663
+        "earnings_growth": -0.4420176239302491,
+        "revenue_growth": -0.03198509306590992
       },
       "K71U.SI": {
         "company_name": "Keppel REIT",
@@ -1947,8 +1937,8 @@
       },
       "BTOU.SI": {
         "company_name": "Manulife US REIT",
-        "earnings_growth": -0.5351598747324872,
-        "revenue_growth": -0.35832683279231065
+        "earnings_growth": -0.535159873301548,
+        "revenue_growth": -0.35832682991169956
       },
       "ME8U.SI": {
         "company_name": "Mapletree Industrial Trust",
@@ -1982,8 +1972,8 @@
       },
       "OXMU.SI": {
         "company_name": "Prime US REIT",
-        "earnings_growth": 1.384410070092807,
-        "revenue_growth": -0.10730686682023068
+        "earnings_growth": 1.3844101445579593,
+        "revenue_growth": -0.10730686426865679
       },
       "CRPU.SI": {
         "company_name": "Sasseur REIT",
@@ -1995,15 +1985,15 @@
         "earnings_growth": 0.33037801336387035,
         "revenue_growth": 0.012000906126362482
       },
-      "SET.SI": {
-        "company_name": "Stoneweg Europe Stapled Trust",
-        "earnings_growth": 1.3717548279599634,
-        "revenue_growth": 0.0732512022887248
-      },
       "SEB.SI": {
         "company_name": "Stoneweg Europe Stapled Trust",
         "earnings_growth": 1.3717548239791584,
         "revenue_growth": 0.07325120195704259
+      },
+      "SET.SI": {
+        "company_name": "Stoneweg Europe Stapled Trust",
+        "earnings_growth": 1.3717548239791584,
+        "revenue_growth": 0.07325120195704239
       },
       "T82U.SI": {
         "company_name": "Suntec Real Estate Investment Trust",
@@ -2017,14 +2007,14 @@
       },
       "ODBU.SI": {
         "company_name": "United Hampshire US REIT",
-        "earnings_growth": -0.34622982167490823,
-        "revenue_growth": -0.07200408600756769
+        "earnings_growth": -0.34622982815254966,
+        "revenue_growth": -0.07200409174258064
       }
     }
   },
   "Industrials": {
-    "avg_annual_earning_growth": 0.555528874105434,
-    "avg_annual_revenue_growth": 0.031849252473284,
+    "avg_annual_earning_growth": 0.531304315183719,
+    "avg_annual_revenue_growth": 0.0328524684074109,
     "companies": {
       "BQC.SI": {
         "company_name": "A-Smart Holdings Ltd",
@@ -2659,8 +2649,8 @@
     }
   },
   "Technology": {
-    "avg_annual_earning_growth": 0.456667165495564,
-    "avg_annual_revenue_growth": 0.159326432851004,
+    "avg_annual_earning_growth": 0.443068392135507,
+    "avg_annual_revenue_growth": 0.155156075513784,
     "companies": {
       "LVR.SI": {
         "company_name": "17LIVE Group Ltd",

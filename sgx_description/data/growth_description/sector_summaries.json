@@ -2,9 +2,9 @@
   {
     "sector_name": "Consumer Non-Cyclicals",
     "company_count": 10,
-    "avg_annual_earning_growth": 0.355430000438989,
-    "avg_annual_revenue_growth": 0.119769246167269,
-    "earnings_rank": 9,
+    "avg_annual_earning_growth": 0.350727869669203,
+    "avg_annual_revenue_growth": 0.113473950101692,
+    "earnings_rank": 10,
     "revenue_rank": 6,
     "total_sectors": 15,
     "top_earning": {
@@ -20,8 +20,8 @@
   {
     "sector_name": "Consumer Cyclicals",
     "company_count": 84,
-    "avg_annual_earning_growth": -0.0438888688216603,
-    "avg_annual_revenue_growth": 0.148212658658102,
+    "avg_annual_earning_growth": -0.0542404214378306,
+    "avg_annual_revenue_growth": 0.149419023639121,
     "earnings_rank": 13,
     "revenue_rank": 3,
     "total_sectors": 15,
@@ -38,8 +38,8 @@
   {
     "sector_name": "Transportation & Logistics",
     "company_count": 8,
-    "avg_annual_earning_growth": 0.0175224982413376,
-    "avg_annual_revenue_growth": 0.0270086681969575,
+    "avg_annual_earning_growth": 0.0179121574745367,
+    "avg_annual_revenue_growth": 0.0270462752328775,
     "earnings_rank": 12,
     "revenue_rank": 13,
     "total_sectors": 15,
@@ -56,8 +56,8 @@
   {
     "sector_name": "Healthcare",
     "company_count": 40,
-    "avg_annual_earning_growth": -0.746328575494947,
-    "avg_annual_revenue_growth": 0.131997749495898,
+    "avg_annual_earning_growth": -0.76260158011418,
+    "avg_annual_revenue_growth": 0.132312717464723,
     "earnings_rank": 14,
     "revenue_rank": 5,
     "total_sectors": 15,
@@ -73,9 +73,9 @@
   },
   {
     "sector_name": "Properties & Real Estate",
-    "company_count": 53,
-    "avg_annual_earning_growth": 0.846404624297288,
-    "avg_annual_revenue_growth": 0.132469300729359,
+    "company_count": 51,
+    "avg_annual_earning_growth": 0.854331463464489,
+    "avg_annual_revenue_growth": 0.1338260593613,
     "earnings_rank": 3,
     "revenue_rank": 4,
     "total_sectors": 15,
@@ -92,9 +92,9 @@
   {
     "sector_name": "Energy",
     "company_count": 23,
-    "avg_annual_earning_growth": 0.217170825891417,
-    "avg_annual_revenue_growth": 0.207906946313699,
-    "earnings_rank": 10,
+    "avg_annual_earning_growth": 0.497354634831268,
+    "avg_annual_revenue_growth": 0.211114868470609,
+    "earnings_rank": 6,
     "revenue_rank": 1,
     "total_sectors": 15,
     "top_earning": {
@@ -110,9 +110,9 @@
   {
     "sector_name": "Utilities",
     "company_count": 13,
-    "avg_annual_earning_growth": 0.477643515018373,
-    "avg_annual_revenue_growth": -0.0556444058946718,
-    "earnings_rank": 6,
+    "avg_annual_earning_growth": 0.519751612134884,
+    "avg_annual_revenue_growth": -0.0580141867518501,
+    "earnings_rank": 5,
     "revenue_rank": 15,
     "total_sectors": 15,
     "top_earning": {
@@ -128,9 +128,9 @@
   {
     "sector_name": "Consumer Defensive",
     "company_count": 30,
-    "avg_annual_earning_growth": 0.492366860121788,
-    "avg_annual_revenue_growth": 0.109795861488472,
-    "earnings_rank": 5,
+    "avg_annual_earning_growth": 0.477353057108316,
+    "avg_annual_revenue_growth": 0.107653985773673,
+    "earnings_rank": 7,
     "revenue_rank": 7,
     "total_sectors": 15,
     "top_earning": {
@@ -146,8 +146,8 @@
   {
     "sector_name": "Financial Services",
     "company_count": 29,
-    "avg_annual_earning_growth": 0.0893965315201968,
-    "avg_annual_revenue_growth": 0.0858925806230648,
+    "avg_annual_earning_growth": 0.0824939741640369,
+    "avg_annual_revenue_growth": 0.0823996379287197,
     "earnings_rank": 11,
     "revenue_rank": 9,
     "total_sectors": 15,
@@ -164,8 +164,8 @@
   {
     "sector_name": "Communication Services",
     "company_count": 15,
-    "avg_annual_earning_growth": -1.35833502721801,
-    "avg_annual_revenue_growth": 0.0311970303126613,
+    "avg_annual_earning_growth": -1.15234046241695,
+    "avg_annual_revenue_growth": 0.0319909266343134,
     "earnings_rank": 15,
     "revenue_rank": 12,
     "total_sectors": 15,
@@ -182,8 +182,8 @@
   {
     "sector_name": "Basic Materials",
     "company_count": 36,
-    "avg_annual_earning_growth": 11.1032089755737,
-    "avg_annual_revenue_growth": 0.0935560906047719,
+    "avg_annual_earning_growth": 10.9251685780148,
+    "avg_annual_revenue_growth": 0.0894660665415306,
     "earnings_rank": 1,
     "revenue_rank": 8,
     "total_sectors": 15,
@@ -200,8 +200,8 @@
   {
     "sector_name": "Infrastructures",
     "company_count": 7,
-    "avg_annual_earning_growth": 3.38281192729277,
-    "avg_annual_revenue_growth": 0.0181423550323951,
+    "avg_annual_earning_growth": 3.37039890933265,
+    "avg_annual_revenue_growth": 0.0184935941185102,
     "earnings_rank": 2,
     "revenue_rank": 14,
     "total_sectors": 15,
@@ -218,9 +218,9 @@
   {
     "sector_name": "REIT",
     "company_count": 41,
-    "avg_annual_earning_growth": 0.393038229702585,
-    "avg_annual_revenue_growth": 0.042858899351035,
-    "earnings_rank": 8,
+    "avg_annual_earning_growth": 0.392133941654907,
+    "avg_annual_revenue_growth": 0.0425298708663586,
+    "earnings_rank": 9,
     "revenue_rank": 10,
     "total_sectors": 15,
     "top_earning": {
@@ -236,8 +236,8 @@
   {
     "sector_name": "Industrials",
     "company_count": 126,
-    "avg_annual_earning_growth": 0.555528874105434,
-    "avg_annual_revenue_growth": 0.031849252473284,
+    "avg_annual_earning_growth": 0.531304315183719,
+    "avg_annual_revenue_growth": 0.0328524684074109,
     "earnings_rank": 4,
     "revenue_rank": 11,
     "total_sectors": 15,
@@ -254,9 +254,9 @@
   {
     "sector_name": "Technology",
     "company_count": 58,
-    "avg_annual_earning_growth": 0.456667165495564,
-    "avg_annual_revenue_growth": 0.159326432851004,
-    "earnings_rank": 7,
+    "avg_annual_earning_growth": 0.443068392135507,
+    "avg_annual_revenue_growth": 0.155156075513784,
+    "earnings_rank": 8,
     "revenue_rank": 2,
     "total_sectors": 15,
     "top_earning": {
