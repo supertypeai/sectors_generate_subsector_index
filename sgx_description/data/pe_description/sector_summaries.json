@@ -2,9 +2,9 @@
   {
     "sector_name": "Consumer Non-Cyclicals",
     "company_count": 10,
-    "sector_pe_median": 11.751567,
-    "sector_last_year_pe_median": 11.169824244503173,
-    "overall_pe_median": 7.749419,
+    "sector_pe_median": 11.569249,
+    "sector_last_year_pe_median": 11.513450592070868,
+    "overall_pe_median": 8.26474479224094,
     "pe_status": "higher",
     "below_sector_median_count": 4,
     "below_market_median_count": 1,
@@ -18,8 +18,8 @@
         "company_name": "First Resources Ltd"
       },
       {
-        "symbol": "Y92.SI",
-        "company_name": "Thai Beverage PLC"
+        "symbol": "F34.SI",
+        "company_name": "Wilmar International Ltd"
       }
     ],
     "excluded_symbols": []
@@ -27,12 +27,12 @@
   {
     "sector_name": "Consumer Cyclicals",
     "company_count": 84,
-    "sector_pe_median": 6.636880596289165,
-    "sector_last_year_pe_median": 6.389762909599184,
-    "overall_pe_median": 7.749419,
-    "pe_status": "higher",
+    "sector_pe_median": 6.1063655,
+    "sector_last_year_pe_median": 6.332561623086734,
+    "overall_pe_median": 8.26474479224094,
+    "pe_status": "lower",
     "below_sector_median_count": 11,
-    "below_market_median_count": 15,
+    "below_market_median_count": 16,
     "undervalued_companies": [
       {
         "symbol": "AWK.SI",
@@ -52,11 +52,11 @@
   {
     "sector_name": "Transportation & Logistics",
     "company_count": 8,
-    "sector_pe_median": 5.559062,
-    "sector_last_year_pe_median": 7.610903029771749,
-    "overall_pe_median": 7.749419,
+    "sector_pe_median": 7.299850781846144,
+    "sector_last_year_pe_median": 7.873347977647242,
+    "overall_pe_median": 8.26474479224094,
     "pe_status": "lower",
-    "below_sector_median_count": 2,
+    "below_sector_median_count": 3,
     "below_market_median_count": 3,
     "undervalued_companies": [
       {
@@ -77,24 +77,24 @@
   {
     "sector_name": "Healthcare",
     "company_count": 40,
-    "sector_pe_median": 8.006743,
-    "sector_last_year_pe_median": 6.4519853063159145,
-    "overall_pe_median": 7.749419,
+    "sector_pe_median": 8.175306,
+    "sector_last_year_pe_median": 2.8981750302892912,
+    "overall_pe_median": 8.26474479224094,
     "pe_status": "higher",
     "below_sector_median_count": 1,
-    "below_market_median_count": 1,
+    "below_market_median_count": 2,
     "undervalued_companies": [
       {
-        "symbol": "9QX.SI",
-        "company_name": "Beverly Wilshire Ltd"
+        "symbol": "1B1.SI",
+        "company_name": "HC Surgical Specialists Ltd"
       },
       {
         "symbol": "ULG.SI",
         "company_name": "Ultragreen Ai Ltd"
       },
       {
-        "symbol": "1B1.SI",
-        "company_name": "HC Surgical Specialists Ltd"
+        "symbol": "505.SI",
+        "company_name": "AsiaMedic Ltd"
       }
     ],
     "excluded_symbols": []
@@ -102,12 +102,12 @@
   {
     "sector_name": "Properties & Real Estate",
     "company_count": 51,
-    "sector_pe_median": 8.846101,
-    "sector_last_year_pe_median": 10.271347410454238,
-    "overall_pe_median": 7.749419,
+    "sector_pe_median": 8.584906,
+    "sector_last_year_pe_median": 10.464464143029586,
+    "overall_pe_median": 8.26474479224094,
     "pe_status": "lower",
-    "below_sector_median_count": 10,
-    "below_market_median_count": 5,
+    "below_sector_median_count": 9,
+    "below_market_median_count": 8,
     "undervalued_companies": [
       {
         "symbol": "5IC.SI",
@@ -127,17 +127,13 @@
   {
     "sector_name": "Energy",
     "company_count": 23,
-    "sector_pe_median": 3.839146,
-    "sector_last_year_pe_median": 7.757787071785047,
-    "overall_pe_median": 7.749419,
+    "sector_pe_median": 4.070353,
+    "sector_last_year_pe_median": 6.945182071486763,
+    "overall_pe_median": 8.26474479224094,
     "pe_status": "lower",
-    "below_sector_median_count": 2,
+    "below_sector_median_count": 1,
     "below_market_median_count": 4,
     "undervalued_companies": [
-      {
-        "symbol": "JFQ.SI",
-        "company_name": "JFQ"
-      },
       {
         "symbol": "C9Q.SI",
         "company_name": "Sinostar Pec Holdings Ltd"
@@ -145,6 +141,10 @@
       {
         "symbol": "Y35.SI",
         "company_name": "AnAn International Ltd"
+      },
+      {
+        "symbol": "DU4.SI",
+        "company_name": "Mermaid Maritime PCL"
       }
     ],
     "excluded_symbols": []
@@ -152,24 +152,24 @@
   {
     "sector_name": "Utilities",
     "company_count": 13,
-    "sector_pe_median": 1.005182,
-    "sector_last_year_pe_median": 1.7892318562822271,
-    "overall_pe_median": 7.749419,
-    "pe_status": "lower",
-    "below_sector_median_count": 2,
-    "below_market_median_count": 7,
+    "sector_pe_median": 3.5298,
+    "sector_last_year_pe_median": 1.7942716023132441,
+    "overall_pe_median": 8.26474479224094,
+    "pe_status": "higher",
+    "below_sector_median_count": 0,
+    "below_market_median_count": 3,
     "undervalued_companies": [
       {
-        "symbol": "YSV.SI",
-        "company_name": "Charisma Energy Services Ltd"
+        "symbol": "BHK.SI",
+        "company_name": "SIIC Environment Holdings Ltd"
       },
       {
-        "symbol": "SEG.SI",
-        "company_name": "Concord New Energy Group Ltd"
+        "symbol": "U9E.SI",
+        "company_name": "China Everbright Water Ltd"
       },
       {
-        "symbol": "AJ2.SI",
-        "company_name": "Ouhua Energy Holdings Ltd"
+        "symbol": "BWM.SI",
+        "company_name": "Zheneng Jinjiang Environment Holding Co Ltd"
       }
     ],
     "excluded_symbols": []
@@ -177,9 +177,9 @@
   {
     "sector_name": "Consumer Defensive",
     "company_count": 30,
-    "sector_pe_median": 5.126458,
-    "sector_last_year_pe_median": 6.117701320309807,
-    "overall_pe_median": 7.749419,
+    "sector_pe_median": 5.519213000000001,
+    "sector_last_year_pe_median": 6.008707551631035,
+    "overall_pe_median": 8.26474479224094,
     "pe_status": "lower",
     "below_sector_median_count": 7,
     "below_market_median_count": 10,
@@ -189,12 +189,12 @@
         "company_name": "MindChamps PreSchool Ltd"
       },
       {
-        "symbol": "BHD.SI",
-        "company_name": "China Mining International Ltd"
-      },
-      {
         "symbol": "D03.SI",
         "company_name": "Del Monte Pacific Ltd"
+      },
+      {
+        "symbol": "BKV.SI",
+        "company_name": "China Shenshan Orchard Holdings Co Ltd"
       }
     ],
     "excluded_symbols": []
@@ -202,24 +202,24 @@
   {
     "sector_name": "Financial Services",
     "company_count": 29,
-    "sector_pe_median": 7.745534,
-    "sector_last_year_pe_median": 11.634842419080067,
-    "overall_pe_median": 7.749419,
-    "pe_status": "lower",
-    "below_sector_median_count": 5,
-    "below_market_median_count": 6,
+    "sector_pe_median": 11.759259,
+    "sector_last_year_pe_median": 11.546026831345825,
+    "overall_pe_median": 8.26474479224094,
+    "pe_status": "higher",
+    "below_sector_median_count": 7,
+    "below_market_median_count": 4,
     "undervalued_companies": [
       {
-        "symbol": "N33.SI",
-        "company_name": "Nomura Holdings Inc"
+        "symbol": "YF8.SI",
+        "company_name": "Yangzijiang Financial Holding Ltd"
       },
       {
-        "symbol": "S23.SI",
-        "company_name": "Singapura Finance Ltd"
+        "symbol": "T55.SI",
+        "company_name": "TIH Ltd"
       },
       {
-        "symbol": "HKB.SI",
-        "company_name": "AMTD IDEA Group"
+        "symbol": "S35.SI",
+        "company_name": "Sing Investments & Finance Ltd"
       }
     ],
     "excluded_symbols": []
@@ -227,24 +227,24 @@
   {
     "sector_name": "Communication Services",
     "company_count": 15,
-    "sector_pe_median": 0.053674,
-    "sector_last_year_pe_median": 11.4397818708146,
-    "overall_pe_median": 7.749419,
+    "sector_pe_median": 6.545455,
+    "sector_last_year_pe_median": 11.009515899454875,
+    "overall_pe_median": 8.26474479224094,
     "pe_status": "lower",
     "below_sector_median_count": 0,
-    "below_market_median_count": 3,
+    "below_market_median_count": 1,
     "undervalued_companies": [
+      {
+        "symbol": "CC3.SI",
+        "company_name": "StarHub Ltd"
+      },
       {
         "symbol": "S7OU.SI",
         "company_name": "Asian Pay Television Trust"
       },
       {
-        "symbol": "XJB.SI",
-        "company_name": "GHY Culture & Media Holding Co Ltd"
-      },
-      {
-        "symbol": "CC3.SI",
-        "company_name": "StarHub Ltd"
+        "symbol": "T41.SI",
+        "company_name": "TeleChoice International Ltd"
       }
     ],
     "excluded_symbols": []
@@ -252,17 +252,13 @@
   {
     "sector_name": "Basic Materials",
     "company_count": 36,
-    "sector_pe_median": 6.075065,
+    "sector_pe_median": 5.942954,
     "sector_last_year_pe_median": 4.3972880765448155,
-    "overall_pe_median": 7.749419,
+    "overall_pe_median": 8.26474479224094,
     "pe_status": "higher",
-    "below_sector_median_count": 5,
+    "below_sector_median_count": 4,
     "below_market_median_count": 10,
     "undervalued_companies": [
-      {
-        "symbol": "E6R.SI",
-        "company_name": "Le Tree Holdings Ltd"
-      },
       {
         "symbol": "S44.SI",
         "company_name": "EnGro Corp Ltd"
@@ -270,6 +266,10 @@
       {
         "symbol": "5MD.SI",
         "company_name": "Soon Lian Holdings Ltd"
+      },
+      {
+        "symbol": "KUO.SI",
+        "company_name": "International Cement Group Ltd"
       }
     ],
     "excluded_symbols": []
@@ -278,8 +278,8 @@
     "sector_name": "Infrastructures",
     "company_count": 7,
     "sector_pe_median": 13.043478,
-    "sector_last_year_pe_median": 17.30447407128989,
-    "overall_pe_median": 7.749419,
+    "sector_last_year_pe_median": 17.67440344576094,
+    "overall_pe_median": 8.26474479224094,
     "pe_status": "lower",
     "below_sector_median_count": 3,
     "below_market_median_count": 0,
@@ -289,11 +289,11 @@
         "company_name": "Yangzijiang Shipbuilding (Holdings) Ltd"
       },
       {
-        "symbol": "Z77.SI",
+        "symbol": "Z74.SI",
         "company_name": "Singapore Telecommunications Ltd"
       },
       {
-        "symbol": "Z74.SI",
+        "symbol": "Z77.SI",
         "company_name": "Singapore Telecommunications Ltd"
       }
     ],
@@ -302,10 +302,10 @@
   {
     "sector_name": "REIT",
     "company_count": 41,
-    "sector_pe_median": 14.0438705,
-    "sector_last_year_pe_median": 14.017826017730629,
-    "overall_pe_median": 7.749419,
-    "pe_status": "higher",
+    "sector_pe_median": 13.899659,
+    "sector_last_year_pe_median": 14.466048912394534,
+    "overall_pe_median": 8.26474479224094,
+    "pe_status": "lower",
     "below_sector_median_count": 15,
     "below_market_median_count": 5,
     "undervalued_companies": [
@@ -327,24 +327,24 @@
   {
     "sector_name": "Industrials",
     "company_count": 126,
-    "sector_pe_median": 7.964602,
-    "sector_last_year_pe_median": 8.750538461139437,
-    "overall_pe_median": 7.749419,
+    "sector_pe_median": 8.267362,
+    "sector_last_year_pe_median": 8.737755799333627,
+    "overall_pe_median": 8.26474479224094,
     "pe_status": "lower",
-    "below_sector_median_count": 38,
-    "below_market_median_count": 38,
+    "below_sector_median_count": 37,
+    "below_market_median_count": 37,
     "undervalued_companies": [
       {
-        "symbol": "LS9.SI",
-        "company_name": "Leader Environmental Technologies Ltd"
+        "symbol": "5OC.SI",
+        "company_name": "Koyo International Ltd"
       },
       {
-        "symbol": "H20.SI",
-        "company_name": "Hoe Leong Corp Ltd"
+        "symbol": "1MZ.SI",
+        "company_name": "Nam Cheong Ltd"
       },
       {
-        "symbol": "40W.SI",
-        "company_name": "ZICO Holdings Inc"
+        "symbol": "AWM.SI",
+        "company_name": "Shanghai Turbo Enterprises Ltd"
       }
     ],
     "excluded_symbols": []
@@ -352,12 +352,12 @@
   {
     "sector_name": "Technology",
     "company_count": 58,
-    "sector_pe_median": 7.182802499999999,
-    "sector_last_year_pe_median": 9.720039928548912,
-    "overall_pe_median": 7.749419,
+    "sector_pe_median": 7.855036999999999,
+    "sector_last_year_pe_median": 9.279220487604285,
+    "overall_pe_median": 8.26474479224094,
     "pe_status": "lower",
-    "below_sector_median_count": 4,
-    "below_market_median_count": 5,
+    "below_sector_median_count": 6,
+    "below_market_median_count": 8,
     "undervalued_companies": [
       {
         "symbol": "QS9.SI",
