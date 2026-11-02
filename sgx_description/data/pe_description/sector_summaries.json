@@ -2,10 +2,10 @@
   {
     "sector_name": "Consumer Non-Cyclicals",
     "company_count": 10,
-    "sector_pe_median": 11.569249,
-    "sector_last_year_pe_median": 11.513450592070868,
-    "overall_pe_median": 8.26474479224094,
-    "pe_status": "higher",
+    "sector_pe_median": 11.308826,
+    "sector_last_year_pe_median": 11.568546412338565,
+    "overall_pe_median": 8.29872058448188,
+    "pe_status": "lower",
     "below_sector_median_count": 4,
     "below_market_median_count": 1,
     "undervalued_companies": [
@@ -27,12 +27,12 @@
   {
     "sector_name": "Consumer Cyclicals",
     "company_count": 84,
-    "sector_pe_median": 6.1063655,
-    "sector_last_year_pe_median": 6.332561623086734,
-    "overall_pe_median": 8.26474479224094,
+    "sector_pe_median": 6.212155,
+    "sector_last_year_pe_median": 6.43427409849117,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "lower",
     "below_sector_median_count": 11,
-    "below_market_median_count": 16,
+    "below_market_median_count": 15,
     "undervalued_companies": [
       {
         "symbol": "AWK.SI",
@@ -52,9 +52,9 @@
   {
     "sector_name": "Transportation & Logistics",
     "company_count": 8,
-    "sector_pe_median": 7.299850781846144,
+    "sector_pe_median": 7.289364930578159,
     "sector_last_year_pe_median": 7.873347977647242,
-    "overall_pe_median": 8.26474479224094,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "lower",
     "below_sector_median_count": 3,
     "below_market_median_count": 3,
@@ -77,9 +77,9 @@
   {
     "sector_name": "Healthcare",
     "company_count": 40,
-    "sector_pe_median": 8.175306,
-    "sector_last_year_pe_median": 2.8981750302892912,
-    "overall_pe_median": 8.26474479224094,
+    "sector_pe_median": 7.753898,
+    "sector_last_year_pe_median": 2.943611515654856,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "higher",
     "below_sector_median_count": 1,
     "below_market_median_count": 2,
@@ -101,13 +101,13 @@
   },
   {
     "sector_name": "Properties & Real Estate",
-    "company_count": 51,
-    "sector_pe_median": 8.584906,
-    "sector_last_year_pe_median": 10.464464143029586,
-    "overall_pe_median": 8.26474479224094,
+    "company_count": 52,
+    "sector_pe_median": 8.526436499999999,
+    "sector_last_year_pe_median": 10.481410722087428,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "lower",
     "below_sector_median_count": 9,
-    "below_market_median_count": 8,
+    "below_market_median_count": 9,
     "undervalued_companies": [
       {
         "symbol": "5IC.SI",
@@ -127,12 +127,12 @@
   {
     "sector_name": "Energy",
     "company_count": 23,
-    "sector_pe_median": 4.070353,
+    "sector_pe_median": 4.057854,
     "sector_last_year_pe_median": 6.945182071486763,
-    "overall_pe_median": 8.26474479224094,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "lower",
     "below_sector_median_count": 1,
-    "below_market_median_count": 4,
+    "below_market_median_count": 5,
     "undervalued_companies": [
       {
         "symbol": "C9Q.SI",
@@ -152,9 +152,9 @@
   {
     "sector_name": "Utilities",
     "company_count": 13,
-    "sector_pe_median": 3.5298,
-    "sector_last_year_pe_median": 1.7942716023132441,
-    "overall_pe_median": 8.26474479224094,
+    "sector_pe_median": 3.580571,
+    "sector_last_year_pe_median": 2.223433139030927,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "higher",
     "below_sector_median_count": 0,
     "below_market_median_count": 3,
@@ -177,12 +177,12 @@
   {
     "sector_name": "Consumer Defensive",
     "company_count": 30,
-    "sector_pe_median": 5.519213000000001,
-    "sector_last_year_pe_median": 6.008707551631035,
-    "overall_pe_median": 8.26474479224094,
+    "sector_pe_median": 5.4103635,
+    "sector_last_year_pe_median": 6.119072261719368,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "lower",
     "below_sector_median_count": 7,
-    "below_market_median_count": 10,
+    "below_market_median_count": 9,
     "undervalued_companies": [
       {
         "symbol": "CNE.SI",
@@ -202,9 +202,9 @@
   {
     "sector_name": "Financial Services",
     "company_count": 29,
-    "sector_pe_median": 11.759259,
-    "sector_last_year_pe_median": 11.546026831345825,
-    "overall_pe_median": 8.26474479224094,
+    "sector_pe_median": 11.851852,
+    "sector_last_year_pe_median": 11.457211243611585,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "higher",
     "below_sector_median_count": 7,
     "below_market_median_count": 4,
@@ -227,9 +227,9 @@
   {
     "sector_name": "Communication Services",
     "company_count": 15,
-    "sector_pe_median": 6.545455,
-    "sector_last_year_pe_median": 11.009515899454875,
-    "overall_pe_median": 8.26474479224094,
+    "sector_pe_median": 6.424242,
+    "sector_last_year_pe_median": 11.641260464522716,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "lower",
     "below_sector_median_count": 0,
     "below_market_median_count": 1,
@@ -252,12 +252,12 @@
   {
     "sector_name": "Basic Materials",
     "company_count": 36,
-    "sector_pe_median": 5.942954,
-    "sector_last_year_pe_median": 4.3972880765448155,
-    "overall_pe_median": 8.26474479224094,
+    "sector_pe_median": 6.035283,
+    "sector_last_year_pe_median": 4.206101631911453,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "higher",
     "below_sector_median_count": 4,
-    "below_market_median_count": 10,
+    "below_market_median_count": 9,
     "undervalued_companies": [
       {
         "symbol": "S44.SI",
@@ -277,9 +277,9 @@
   {
     "sector_name": "Infrastructures",
     "company_count": 7,
-    "sector_pe_median": 13.043478,
-    "sector_last_year_pe_median": 17.67440344576094,
-    "overall_pe_median": 8.26474479224094,
+    "sector_pe_median": 13.146998,
+    "sector_last_year_pe_median": 17.633300181958482,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "lower",
     "below_sector_median_count": 3,
     "below_market_median_count": 0,
@@ -301,10 +301,10 @@
   },
   {
     "sector_name": "REIT",
-    "company_count": 41,
-    "sector_pe_median": 13.899659,
-    "sector_last_year_pe_median": 14.466048912394534,
-    "overall_pe_median": 8.26474479224094,
+    "company_count": 42,
+    "sector_pe_median": 13.694371499999999,
+    "sector_last_year_pe_median": 14.392614276572074,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "lower",
     "below_sector_median_count": 15,
     "below_market_median_count": 5,
@@ -326,13 +326,13 @@
   },
   {
     "sector_name": "Industrials",
-    "company_count": 126,
-    "sector_pe_median": 8.267362,
-    "sector_last_year_pe_median": 8.737755799333627,
-    "overall_pe_median": 8.26474479224094,
+    "company_count": 130,
+    "sector_pe_median": 8.162487586419754,
+    "sector_last_year_pe_median": 8.886147788720862,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "lower",
-    "below_sector_median_count": 37,
-    "below_market_median_count": 37,
+    "below_sector_median_count": 38,
+    "below_market_median_count": 39,
     "undervalued_companies": [
       {
         "symbol": "5OC.SI",
@@ -351,13 +351,13 @@
   },
   {
     "sector_name": "Technology",
-    "company_count": 58,
-    "sector_pe_median": 7.855036999999999,
-    "sector_last_year_pe_median": 9.279220487604285,
-    "overall_pe_median": 8.26474479224094,
+    "company_count": 60,
+    "sector_pe_median": 7.856090999999999,
+    "sector_last_year_pe_median": 9.39248255441219,
+    "overall_pe_median": 8.29872058448188,
     "pe_status": "lower",
     "below_sector_median_count": 6,
-    "below_market_median_count": 8,
+    "below_market_median_count": 7,
     "undervalued_companies": [
       {
         "symbol": "QS9.SI",
@@ -368,8 +368,8 @@
         "company_name": "Willas-Array Electronics Holdings Ltd"
       },
       {
-        "symbol": "Y3D.SI",
-        "company_name": "mDR Ltd"
+        "symbol": "5AB.SI",
+        "company_name": "Trek 2000 International Ltd"
       }
     ],
     "excluded_symbols": []
