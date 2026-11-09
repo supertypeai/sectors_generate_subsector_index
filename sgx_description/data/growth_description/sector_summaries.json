@@ -2,8 +2,8 @@
   {
     "sector_name": "Consumer Non-Cyclicals",
     "company_count": 10,
-    "avg_annual_earning_growth": 0.350134176919064,
-    "avg_annual_revenue_growth": 0.0991489111522747,
+    "avg_annual_earning_growth": 0.348520794295651,
+    "avg_annual_revenue_growth": 0.089678573338257,
     "earnings_rank": 10,
     "revenue_rank": 6,
     "total_sectors": 15,
@@ -20,44 +20,44 @@
   {
     "sector_name": "Consumer Cyclicals",
     "company_count": 84,
-    "avg_annual_earning_growth": -0.0812956440338535,
-    "avg_annual_revenue_growth": 0.141397130872885,
+    "avg_annual_earning_growth": -0.0729604346936837,
+    "avg_annual_revenue_growth": 0.141260353432117,
     "earnings_rank": 14,
     "revenue_rank": 3,
     "total_sectors": 15,
     "top_earning": {
-      "symbol": "51O.SI",
-      "company_name": "MSM International Ltd"
+      "symbol": "AWK.SI",
+      "company_name": "Fuxing China Group Ltd"
     },
     "top_revenue": {
-      "symbol": "5OX.SI",
-      "company_name": "Mary Chia Holdings Ltd"
+      "symbol": "5HH.SI",
+      "company_name": "Prospera Global Ltd"
     },
     "excluded_symbols": []
   },
   {
     "sector_name": "Transportation & Logistics",
     "company_count": 8,
-    "avg_annual_earning_growth": 0.0179841431934799,
-    "avg_annual_revenue_growth": 0.0270583918582548,
+    "avg_annual_earning_growth": 0.0188042261300635,
+    "avg_annual_revenue_growth": 0.0271098259577522,
     "earnings_rank": 13,
-    "revenue_rank": 12,
+    "revenue_rank": 13,
     "total_sectors": 15,
     "top_earning": {
-      "symbol": "FQ7.SI",
-      "company_name": "Salt Investments Ltd"
-    },
-    "top_revenue": {
       "symbol": "R14.SI",
       "company_name": "Eneco Energy Ltd"
+    },
+    "top_revenue": {
+      "symbol": "FQ7.SI",
+      "company_name": "Salt Investments Ltd"
     },
     "excluded_symbols": []
   },
   {
     "sector_name": "Healthcare",
     "company_count": 40,
-    "avg_annual_earning_growth": 0.283792630995411,
-    "avg_annual_revenue_growth": 0.042113722840932,
+    "avg_annual_earning_growth": 0.265731876562039,
+    "avg_annual_revenue_growth": 0.0387350520365941,
     "earnings_rank": 11,
     "revenue_rank": 10,
     "total_sectors": 15,
@@ -74,8 +74,8 @@
   {
     "sector_name": "Properties & Real Estate",
     "company_count": 52,
-    "avg_annual_earning_growth": 0.875198757057424,
-    "avg_annual_revenue_growth": 0.124490051639471,
+    "avg_annual_earning_growth": 0.884639497846202,
+    "avg_annual_revenue_growth": 0.1181020417524,
     "earnings_rank": 3,
     "revenue_rank": 4,
     "total_sectors": 15,
@@ -92,9 +92,9 @@
   {
     "sector_name": "Energy",
     "company_count": 23,
-    "avg_annual_earning_growth": 0.476582328211023,
-    "avg_annual_revenue_growth": 0.21119121361935,
-    "earnings_rank": 8,
+    "avg_annual_earning_growth": 0.488380483098439,
+    "avg_annual_revenue_growth": 0.211347582104191,
+    "earnings_rank": 7,
     "revenue_rank": 1,
     "total_sectors": 15,
     "top_earning": {
@@ -110,9 +110,9 @@
   {
     "sector_name": "Utilities",
     "company_count": 13,
-    "avg_annual_earning_growth": 0.479350172518344,
-    "avg_annual_revenue_growth": -0.0523675211749477,
-    "earnings_rank": 7,
+    "avg_annual_earning_growth": 0.455224538604102,
+    "avg_annual_revenue_growth": -0.0534995248624507,
+    "earnings_rank": 8,
     "revenue_rank": 15,
     "total_sectors": 15,
     "top_earning": {
@@ -128,9 +128,9 @@
   {
     "sector_name": "Consumer Defensive",
     "company_count": 30,
-    "avg_annual_earning_growth": 0.497357905290713,
-    "avg_annual_revenue_growth": 0.108621554752347,
-    "earnings_rank": 5,
+    "avg_annual_earning_growth": 0.505368350719434,
+    "avg_annual_revenue_growth": 0.108033322104901,
+    "earnings_rank": 6,
     "revenue_rank": 5,
     "total_sectors": 15,
     "top_earning": {
@@ -138,16 +138,16 @@
       "company_name": "MindChamps PreSchool Ltd"
     },
     "top_revenue": {
-      "symbol": "5EG.SI",
-      "company_name": "Zhongxin Fruit and Juice Ltd"
+      "symbol": "42W.SI",
+      "company_name": "Zixin Group Holdings Ltd"
     },
     "excluded_symbols": []
   },
   {
     "sector_name": "Financial Services",
     "company_count": 29,
-    "avg_annual_earning_growth": 0.0833660620448823,
-    "avg_annual_revenue_growth": 0.0828692676201193,
+    "avg_annual_earning_growth": 0.0191414984600212,
+    "avg_annual_revenue_growth": 0.0772750216840661,
     "earnings_rank": 12,
     "revenue_rank": 8,
     "total_sectors": 15,
@@ -156,16 +156,16 @@
       "company_name": "IFS Capital Ltd"
     },
     "top_revenue": {
-      "symbol": "K6S.SI",
-      "company_name": "Prudential PLC"
+      "symbol": "U13.SI",
+      "company_name": "United Overseas Insurance Ltd"
     },
     "excluded_symbols": []
   },
   {
     "sector_name": "Communication Services",
     "company_count": 15,
-    "avg_annual_earning_growth": -1.08748839105854,
-    "avg_annual_revenue_growth": 0.0337774628667955,
+    "avg_annual_earning_growth": -1.09071682543594,
+    "avg_annual_revenue_growth": 0.0340379380276421,
     "earnings_rank": 15,
     "revenue_rank": 11,
     "total_sectors": 15,
@@ -182,8 +182,8 @@
   {
     "sector_name": "Basic Materials",
     "company_count": 36,
-    "avg_annual_earning_growth": 9.43117096854462,
-    "avg_annual_revenue_growth": 0.083985288212227,
+    "avg_annual_earning_growth": 9.9354107723375,
+    "avg_annual_revenue_growth": 0.0848776427239336,
     "earnings_rank": 1,
     "revenue_rank": 7,
     "total_sectors": 15,
@@ -200,10 +200,10 @@
   {
     "sector_name": "Infrastructures",
     "company_count": 7,
-    "avg_annual_earning_growth": 3.40243465532575,
-    "avg_annual_revenue_growth": 0.0178277303271761,
+    "avg_annual_earning_growth": 2.96732698254712,
+    "avg_annual_revenue_growth": 0.0288427364015525,
     "earnings_rank": 2,
-    "revenue_rank": 14,
+    "revenue_rank": 12,
     "total_sectors": 15,
     "top_earning": {
       "symbol": "Z74.SI",
@@ -218,8 +218,8 @@
   {
     "sector_name": "REIT",
     "company_count": 42,
-    "avg_annual_earning_growth": 0.364618987425254,
-    "avg_annual_revenue_growth": 0.0439191636664722,
+    "avg_annual_earning_growth": 0.388770912088066,
+    "avg_annual_revenue_growth": 0.0451878236090851,
     "earnings_rank": 9,
     "revenue_rank": 9,
     "total_sectors": 15,
@@ -236,10 +236,10 @@
   {
     "sector_name": "Industrials",
     "company_count": 130,
-    "avg_annual_earning_growth": 0.62257902015963,
-    "avg_annual_revenue_growth": 0.0241515959933171,
+    "avg_annual_earning_growth": 0.684593778455356,
+    "avg_annual_revenue_growth": 0.0207713119374986,
     "earnings_rank": 4,
-    "revenue_rank": 13,
+    "revenue_rank": 14,
     "total_sectors": 15,
     "top_earning": {
       "symbol": "5OC.SI",
@@ -254,14 +254,14 @@
   {
     "sector_name": "Technology",
     "company_count": 60,
-    "avg_annual_earning_growth": 0.47958009774104,
-    "avg_annual_revenue_growth": 0.150668486566413,
-    "earnings_rank": 6,
+    "avg_annual_earning_growth": 0.541338898239657,
+    "avg_annual_revenue_growth": 0.162786729584599,
+    "earnings_rank": 5,
     "revenue_rank": 2,
     "total_sectors": 15,
     "top_earning": {
-      "symbol": "BLU.SI",
-      "company_name": "GRP Ltd"
+      "symbol": "5AB.SI",
+      "company_name": "Trek 2000 International Ltd"
     },
     "top_revenue": {
       "symbol": "9MT.SI",
