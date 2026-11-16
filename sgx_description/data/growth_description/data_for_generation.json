@@ -1,7 +1,7 @@
 {
   "Consumer Non-Cyclicals": {
-    "avg_annual_earning_growth": 0.348520794295651,
-    "avg_annual_revenue_growth": 0.089678573338257,
+    "avg_annual_earning_growth": 0.345809054949156,
+    "avg_annual_revenue_growth": 0.0909942414234263,
     "companies": {
       "P8Z.SI": {
         "company_name": "Bumitama Agri Ltd",
@@ -50,14 +50,14 @@
       },
       "F34.SI": {
         "company_name": "Wilmar International Ltd",
-        "earnings_growth": 0.1385050148924835,
-        "revenue_growth": -0.013473989131786756
+        "earnings_growth": 0.08414635612016919,
+        "revenue_growth": -0.013473989122099612
       }
     }
   },
   "Consumer Cyclicals": {
-    "avg_annual_earning_growth": -0.0729604346936837,
-    "avg_annual_revenue_growth": 0.141260353432117,
+    "avg_annual_earning_growth": -0.0846273690277041,
+    "avg_annual_revenue_growth": 0.137548053341566,
     "companies": {
       "533.SI": {
         "company_name": "ABR Holdings Ltd",
@@ -482,8 +482,8 @@
     }
   },
   "Transportation & Logistics": {
-    "avg_annual_earning_growth": 0.0188042261300635,
-    "avg_annual_revenue_growth": 0.0271098259577522,
+    "avg_annual_earning_growth": 0.0193540027246418,
+    "avg_annual_revenue_growth": 0.0271018764251511,
     "companies": {
       "BTJ.SI": {
         "company_name": "A-Sonic Aerospace Ltd",
@@ -517,7 +517,7 @@
       },
       "C6L.SI": {
         "company_name": "Singapore Airlines Ltd",
-        "earnings_growth": -0.5737940964722822,
+        "earnings_growth": -0.5789773131356234,
         "revenue_growth": 0.050266635277740813
       },
       "S19.SI": {
@@ -528,8 +528,8 @@
     }
   },
   "Healthcare": {
-    "avg_annual_earning_growth": 0.265731876562039,
-    "avg_annual_revenue_growth": 0.0387350520365941,
+    "avg_annual_earning_growth": 0.251958643734203,
+    "avg_annual_revenue_growth": 0.0389481356842873,
     "companies": {
       "584.SI": {
         "company_name": "AJJ Medtech Holdings Ltd",
@@ -608,8 +608,8 @@
       },
       "Q0F.SI": {
         "company_name": "IHH Healthcare Bhd",
-        "earnings_growth": -0.17755614513389875,
-        "revenue_growth": 0.09819008785865728
+        "earnings_growth": -0.32553131538365104,
+        "revenue_growth": 0.07177435450734256
       },
       "40T.SI": {
         "company_name": "ISEC Healthcare Ltd",
@@ -734,8 +734,8 @@
     }
   },
   "Properties & Real Estate": {
-    "avg_annual_earning_growth": 0.884639497846202,
-    "avg_annual_revenue_growth": 0.1181020417524,
+    "avg_annual_earning_growth": 0.893848173642769,
+    "avg_annual_revenue_growth": 0.127826769489315,
     "companies": {
       "1U8.SI": {
         "company_name": "1U8",
@@ -786,11 +786,6 @@
         "company_name": "Bund Center Investment Ltd",
         "earnings_growth": -0.4378179137486178,
         "revenue_growth": -0.03384870564540016
-      },
-      "CY6U.SI": {
-        "company_name": "CapitaLand India Trust",
-        "earnings_growth": -0.2650242151444362,
-        "revenue_growth": 0.059269975277187
       },
       "9CI.SI": {
         "company_name": "CapitaLand Investment Ltd",
@@ -879,8 +874,8 @@
       },
       "H78.SI": {
         "company_name": "Hongkong Land Holdings Ltd",
-        "earnings_growth": -1.861165465113328,
-        "revenue_growth": -0.31713176207252475
+        "earnings_growth": -1.8668615006799303,
+        "revenue_growth": -0.340200521618359
       },
       "AZA.SI": {
         "company_name": "IPC Corp Ltd",
@@ -1000,8 +995,8 @@
     }
   },
   "Energy": {
-    "avg_annual_earning_growth": 0.488380483098439,
-    "avg_annual_revenue_growth": 0.211347582104191,
+    "avg_annual_earning_growth": 0.461799643919373,
+    "avg_annual_revenue_growth": 0.211170595279453,
     "companies": {
       "5AU.SI": {
         "company_name": "AP Oil International Ltd",
@@ -1121,8 +1116,8 @@
     }
   },
   "Utilities": {
-    "avg_annual_earning_growth": 0.455224538604102,
-    "avg_annual_revenue_growth": -0.0534995248624507,
+    "avg_annual_earning_growth": 0.451508696240728,
+    "avg_annual_revenue_growth": -0.053477795001692,
     "companies": {
       "5CR.SI": {
         "company_name": "Asiatic Group (Holdings) Ltd",
@@ -1192,8 +1187,8 @@
     }
   },
   "Consumer Defensive": {
-    "avg_annual_earning_growth": 0.505368350719434,
-    "avg_annual_revenue_growth": 0.108033322104901,
+    "avg_annual_earning_growth": 0.480345920581565,
+    "avg_annual_revenue_growth": 0.106907671954061,
     "companies": {
       "BAC.SI": {
         "company_name": "Camsing Healthcare Ltd",
@@ -1348,8 +1343,8 @@
     }
   },
   "Financial Services": {
-    "avg_annual_earning_growth": 0.0191414984600212,
-    "avg_annual_revenue_growth": 0.0772750216840661,
+    "avg_annual_earning_growth": 0.0224450338012446,
+    "avg_annual_revenue_growth": 0.0797185296217253,
     "companies": {
       "HKB.SI": {
         "company_name": "AMTD IDEA Group",
@@ -1368,8 +1363,8 @@
       },
       "D05.SI": {
         "company_name": "DBS Group Holdings Ltd",
-        "earnings_growth": -0.03153232949512843,
-        "revenue_growth": 0.0305171715353108
+        "earnings_growth": -0.031537916371367825,
+        "revenue_growth": 0.027043996950262366
       },
       "B73.SI": {
         "company_name": "Global Investments Ltd",
@@ -1428,8 +1423,8 @@
       },
       "O39.SI": {
         "company_name": "Oversea-Chinese Banking Corp Ltd",
-        "earnings_growth": -0.021747726374060895,
-        "revenue_growth": 0.006649580937867978
+        "earnings_growth": -0.019122003770535956,
+        "revenue_growth": 0.009742278725903407
       },
       "P15.SI": {
         "company_name": "Pacific Century Regional Developments Ltd",
@@ -1438,8 +1433,8 @@
       },
       "K6S.SI": {
         "company_name": "Prudential PLC",
-        "earnings_growth": 0.6433978796349306,
-        "revenue_growth": 0.5951221276110987
+        "earnings_growth": 1.115175900621118,
+        "revenue_growth": 1.1610463414634147
       },
       "XZB.SI": {
         "company_name": "Sincap Group Ltd",
@@ -1453,7 +1448,7 @@
       },
       "S68.SI": {
         "company_name": "Singapore Exchange Ltd",
-        "earnings_growth": 0.07782302930786765,
+        "earnings_growth": 0.07758356001215812,
         "revenue_growth": 0.1377794801641587
       },
       "S23.SI": {
@@ -1478,8 +1473,8 @@
       },
       "U11.SI": {
         "company_name": "United Overseas Bank Ltd",
-        "earnings_growth": -0.22547559966914807,
-        "revenue_growth": -0.034678039572117736
+        "earnings_growth": -0.22583319515834854,
+        "revenue_growth": -0.03400027983769414
       },
       "U13.SI": {
         "company_name": "United Overseas Insurance Ltd",
@@ -1499,8 +1494,8 @@
     }
   },
   "Communication Services": {
-    "avg_annual_earning_growth": -1.09071682543594,
-    "avg_annual_revenue_growth": 0.0340379380276421,
+    "avg_annual_earning_growth": -1.10748130006757,
+    "avg_annual_revenue_growth": 0.0352983804576225,
     "companies": {
       "S7OU.SI": {
         "company_name": "Asian Pay Television Trust",
@@ -1580,8 +1575,8 @@
     }
   },
   "Basic Materials": {
-    "avg_annual_earning_growth": 9.9354107723375,
-    "avg_annual_revenue_growth": 0.0848776427239336,
+    "avg_annual_earning_growth": 10.2700582380471,
+    "avg_annual_revenue_growth": 0.08365180508396,
     "companies": {
       "541.SI": {
         "company_name": "Abundance International Ltd",
@@ -1766,8 +1761,8 @@
     }
   },
   "Infrastructures": {
-    "avg_annual_earning_growth": 2.96732698254712,
-    "avg_annual_revenue_growth": 0.0288427364015525,
+    "avg_annual_earning_growth": 2.98834913853518,
+    "avg_annual_revenue_growth": 0.02934245302161,
     "companies": {
       "C52.SI": {
         "company_name": "ComfortDelGro Corp Ltd",
@@ -1789,15 +1784,15 @@
         "earnings_growth": 0.21017971795459756,
         "revenue_growth": 0.1427146470020857
       },
-      "Z74.SI": {
-        "company_name": "Singapore Telecommunications Ltd",
-        "earnings_growth": 0.3954547717429183,
-        "revenue_growth": 0.008094103675217904
-      },
       "Z77.SI": {
         "company_name": "Singapore Telecommunications Ltd",
         "earnings_growth": 0.3954547717429183,
         "revenue_growth": 0.008094103675217904
+      },
+      "Z74.SI": {
+        "company_name": "Singapore Telecommunications Ltd",
+        "earnings_growth": 0.3916443252904379,
+        "revenue_growth": -0.00835836671117045
       },
       "BS6.SI": {
         "company_name": "Yangzijiang Shipbuilding (Holdings) Ltd",
@@ -1807,12 +1802,12 @@
     }
   },
   "REIT": {
-    "avg_annual_earning_growth": 0.388770912088066,
-    "avg_annual_revenue_growth": 0.0451878236090851,
+    "avg_annual_earning_growth": 0.383857949871546,
+    "avg_annual_revenue_growth": 0.0456403694533191,
     "companies": {
       "O5RU.SI": {
         "company_name": "AIMS APAC REIT",
-        "earnings_growth": 1.4543719833875857,
+        "earnings_growth": 2.2944483485593814,
         "revenue_growth": 0.021642214911105635
       },
       "XZL.SI": {
@@ -1832,23 +1827,28 @@
       },
       "J85.SI": {
         "company_name": "CDL Hospitality Trusts",
-        "earnings_growth": -3.0063348416289593,
+        "earnings_growth": -3.052906369648451,
         "revenue_growth": 0.028075878259733573
       },
       "A17U.SI": {
         "company_name": "CapitaLand Ascendas REIT",
-        "earnings_growth": 0.02042776731531055,
+        "earnings_growth": 0.019354189346322652,
         "revenue_growth": 0.010195358511824331
       },
       "HMN.SI": {
         "company_name": "CapitaLand Ascott Trust",
-        "earnings_growth": 0.35840779516948273,
+        "earnings_growth": 0.3688669177375398,
         "revenue_growth": 0.03466745725862239
       },
       "AU8U.SI": {
         "company_name": "CapitaLand China Trust",
-        "earnings_growth": -0.6264132951913908,
+        "earnings_growth": -0.4499059005867375,
         "revenue_growth": -0.11070509385732984
+      },
+      "CY6U.SI": {
+        "company_name": "CapitaLand India Trust",
+        "earnings_growth": -0.2650242151444362,
+        "revenue_growth": 0.059269975277187
       },
       "C38U.SI": {
         "company_name": "CapitaLand Integrated Commercial Trust",
@@ -1862,23 +1862,28 @@
       },
       "DHLU.SI": {
         "company_name": "Daiwa House Logistics Trust",
-        "earnings_growth": 0.027344763002449216,
+        "earnings_growth": 0.028301052445387814,
         "revenue_growth": 0.012154115586690018
       },
       "DCRU.SI": {
         "company_name": "Digital Core REIT",
         "earnings_growth": -0.7807679458777484,
-        "revenue_growth": 0.6258724965956858
+        "revenue_growth": 0.6258724965956859
       },
       "9A4U.SI": {
         "company_name": "ESR-REIT",
-        "earnings_growth": -1.2477480650185084,
+        "earnings_growth": -1.0378370346355432,
         "revenue_growth": 0.20372249692311015
+      },
+      "MENU.SI": {
+        "company_name": "Elite UK REIT",
+        "earnings_growth": null,
+        "revenue_growth": null
       },
       "MXNU.SI": {
         "company_name": "Elite UK REIT",
         "earnings_growth": -0.3148168057857474,
-        "revenue_growth": -0.007444403341650453
+        "revenue_growth": -0.007444403341650342
       },
       "Q5T.SI": {
         "company_name": "Far East Hospitality Trust",
@@ -1887,8 +1892,8 @@
       },
       "AW9U.SI": {
         "company_name": "First Real Estate Investment Trust",
-        "earnings_growth": -0.21145997714534473,
-        "revenue_growth": -0.016475882986009195
+        "earnings_growth": -0.22132619040834353,
+        "revenue_growth": -0.016436587060101163
       },
       "J69U.SI": {
         "company_name": "Frasers Centrepoint Trust",
@@ -1900,12 +1905,12 @@
         "earnings_growth": 0.3900898152855448,
         "revenue_growth": 0.055548341743643016
       },
-      "8U7U.SI": {
+      "UD1U.SI": {
         "company_name": "IREIT Global",
         "earnings_growth": -8.822018465507039,
         "revenue_growth": -0.28942743914833424
       },
-      "UD1U.SI": {
+      "8U7U.SI": {
         "company_name": "IREIT Global",
         "earnings_growth": -8.822018465507039,
         "revenue_growth": -0.28942743914833424
@@ -1917,17 +1922,17 @@
       },
       "CMOU.SI": {
         "company_name": "Keppel Pacific Oak US REIT",
-        "earnings_growth": -0.44201762393024924,
-        "revenue_growth": -0.03858896479021018
+        "earnings_growth": -0.4420176239302491,
+        "revenue_growth": -0.03198509306590992
       },
       "K71U.SI": {
         "company_name": "Keppel REIT",
-        "earnings_growth": 3.19054820415879,
+        "earnings_growth": 3.477523264860714,
         "revenue_growth": 0.049308051074241147
       },
       "JYEU.SI": {
         "company_name": "Lendlease Global Commercial REIT",
-        "earnings_growth": 0.7129798129417242,
+        "earnings_growth": 1.316797679920629,
         "revenue_growth": 0.025931771746182376
       },
       "D5IU.SI": {
@@ -1935,30 +1940,25 @@
         "earnings_growth": -1.8794359383160615,
         "revenue_growth": 0.053711213565036824
       },
-      "MENU.SI": {
-        "company_name": "MENU",
-        "earnings_growth": null,
-        "revenue_growth": null
-      },
       "BTOU.SI": {
         "company_name": "Manulife US REIT",
         "earnings_growth": -0.535159873301548,
-        "revenue_growth": -0.3583268299116996
+        "revenue_growth": -0.35832682991169956
       },
       "ME8U.SI": {
         "company_name": "Mapletree Industrial Trust",
-        "earnings_growth": -0.358576771864561,
-        "revenue_growth": -0.05463526081325929
+        "earnings_growth": -0.37089860563762067,
+        "revenue_growth": -0.05456616931218418
       },
       "M44U.SI": {
         "company_name": "Mapletree Logistics Trust",
-        "earnings_growth": 0.3337231856226326,
-        "revenue_growth": -0.027092252161504238
+        "earnings_growth": 0.3864443717990629,
+        "revenue_growth": -0.025792750190502128
       },
       "N2IU.SI": {
         "company_name": "Mapletree Pan Asia Commercial Trust",
         "earnings_growth": -0.5527516300598616,
-        "revenue_growth": -0.043813542066209236
+        "revenue_growth": -0.04572196896926965
       },
       "NTDU.SI": {
         "company_name": "NTT DC REIT",
@@ -1967,18 +1967,18 @@
       },
       "TS0U.SI": {
         "company_name": "OUE Real Estate Investment Trust",
-        "earnings_growth": -1.4164312583246732,
+        "earnings_growth": -1.4034401100381446,
         "revenue_growth": -0.07414024722439352
       },
       "C2PU.SI": {
         "company_name": "Parkway Life Real Estate Investment Trust",
         "earnings_growth": 0.6076219736745194,
-        "revenue_growth": 0.07659063293935713
+        "revenue_growth": 0.0759010931519674
       },
       "OXMU.SI": {
         "company_name": "Prime US REIT",
-        "earnings_growth": 1.3844101445579589,
-        "revenue_growth": -0.11361021259952858
+        "earnings_growth": 1.3844101445579593,
+        "revenue_growth": -0.10730686426865679
       },
       "CRPU.SI": {
         "company_name": "Sasseur REIT",
@@ -1987,22 +1987,22 @@
       },
       "P40U.SI": {
         "company_name": "Starhill Global Real Estate Investment Trust",
-        "earnings_growth": 0.01731951719426099,
+        "earnings_growth": -0.17916042667744692,
         "revenue_growth": 0.002066664237338428
+      },
+      "SEB.SI": {
+        "company_name": "Stoneweg Europe Stapled Trust",
+        "earnings_growth": 1.463628213806183,
+        "revenue_growth": 0.07325120195704239
       },
       "SET.SI": {
         "company_name": "Stoneweg Europe Stapled Trust",
         "earnings_growth": 1.3717548239791584,
         "revenue_growth": 0.07325120195704259
       },
-      "SEB.SI": {
-        "company_name": "Stoneweg Europe Stapled Trust",
-        "earnings_growth": 1.3717548239791584,
-        "revenue_growth": 0.07325120195704259
-      },
       "T82U.SI": {
         "company_name": "Suntec Real Estate Investment Trust",
-        "earnings_growth": 0.40367413904620675,
+        "earnings_growth": 0.41248614375027715,
         "revenue_growth": 0.017365755162267342
       },
       "UIBU.SI": {
@@ -2013,7 +2013,7 @@
       "ODBU.SI": {
         "company_name": "United Hampshire US REIT",
         "earnings_growth": -0.34817294292549006,
-        "revenue_growth": -0.07061212141455683
+        "revenue_growth": -0.07200409174258064
       },
       "V8VU.SI": {
         "company_name": "V8VU",
@@ -2023,8 +2023,8 @@
     }
   },
   "Industrials": {
-    "avg_annual_earning_growth": 0.684593778455356,
-    "avg_annual_revenue_growth": 0.0207713119374986,
+    "avg_annual_earning_growth": 0.684735887455762,
+    "avg_annual_revenue_growth": 0.02082828209769,
     "companies": {
       "9DC.SI": {
         "company_name": "9DC",
@@ -2271,12 +2271,12 @@
         "earnings_growth": 0.1702739056003913,
         "revenue_growth": 0.3201820069357012
       },
-      "P7VU.SI": {
+      "NS8U.SI": {
         "company_name": "Hutchison Port Holdings Trust",
         "earnings_growth": 0.08419949766244961,
         "revenue_growth": -0.025751454404353783
       },
-      "NS8U.SI": {
+      "P7VU.SI": {
         "company_name": "Hutchison Port Holdings Trust",
         "earnings_growth": 0.08419949766244961,
         "revenue_growth": -0.025751454404353783
@@ -2318,7 +2318,7 @@
       },
       "J36.SI": {
         "company_name": "Jardine Matheson Holdings Ltd",
-        "earnings_growth": -3.2369168502925763,
+        "earnings_growth": 0.8862650197061724,
         "revenue_growth": -0.09722841815129991
       },
       "KIN.SI": {
@@ -2679,8 +2679,8 @@
     }
   },
   "Technology": {
-    "avg_annual_earning_growth": 0.541338898239657,
-    "avg_annual_revenue_growth": 0.162786729584599,
+    "avg_annual_earning_growth": 0.525339776876474,
+    "avg_annual_revenue_growth": 0.150265388124262,
     "companies": {
       "LVR.SI": {
         "company_name": "17LIVE Group Ltd",

@@ -2,8 +2,8 @@
   {
     "sector_name": "Consumer Non-Cyclicals",
     "company_count": 10,
-    "avg_annual_earning_growth": 0.348520794295651,
-    "avg_annual_revenue_growth": 0.089678573338257,
+    "avg_annual_earning_growth": 0.345809054949156,
+    "avg_annual_revenue_growth": 0.0909942414234263,
     "earnings_rank": 10,
     "revenue_rank": 6,
     "total_sectors": 15,
@@ -20,8 +20,8 @@
   {
     "sector_name": "Consumer Cyclicals",
     "company_count": 84,
-    "avg_annual_earning_growth": -0.0729604346936837,
-    "avg_annual_revenue_growth": 0.141260353432117,
+    "avg_annual_earning_growth": -0.0846273690277041,
+    "avg_annual_revenue_growth": 0.137548053341566,
     "earnings_rank": 14,
     "revenue_rank": 3,
     "total_sectors": 15,
@@ -38,8 +38,8 @@
   {
     "sector_name": "Transportation & Logistics",
     "company_count": 8,
-    "avg_annual_earning_growth": 0.0188042261300635,
-    "avg_annual_revenue_growth": 0.0271098259577522,
+    "avg_annual_earning_growth": 0.0193540027246418,
+    "avg_annual_revenue_growth": 0.0271018764251511,
     "earnings_rank": 13,
     "revenue_rank": 13,
     "total_sectors": 15,
@@ -56,8 +56,8 @@
   {
     "sector_name": "Healthcare",
     "company_count": 40,
-    "avg_annual_earning_growth": 0.265731876562039,
-    "avg_annual_revenue_growth": 0.0387350520365941,
+    "avg_annual_earning_growth": 0.251958643734203,
+    "avg_annual_revenue_growth": 0.0389481356842873,
     "earnings_rank": 11,
     "revenue_rank": 10,
     "total_sectors": 15,
@@ -73,9 +73,9 @@
   },
   {
     "sector_name": "Properties & Real Estate",
-    "company_count": 52,
-    "avg_annual_earning_growth": 0.884639497846202,
-    "avg_annual_revenue_growth": 0.1181020417524,
+    "company_count": 51,
+    "avg_annual_earning_growth": 0.893848173642769,
+    "avg_annual_revenue_growth": 0.127826769489315,
     "earnings_rank": 3,
     "revenue_rank": 4,
     "total_sectors": 15,
@@ -92,8 +92,8 @@
   {
     "sector_name": "Energy",
     "company_count": 23,
-    "avg_annual_earning_growth": 0.488380483098439,
-    "avg_annual_revenue_growth": 0.211347582104191,
+    "avg_annual_earning_growth": 0.461799643919373,
+    "avg_annual_revenue_growth": 0.211170595279453,
     "earnings_rank": 7,
     "revenue_rank": 1,
     "total_sectors": 15,
@@ -110,8 +110,8 @@
   {
     "sector_name": "Utilities",
     "company_count": 13,
-    "avg_annual_earning_growth": 0.455224538604102,
-    "avg_annual_revenue_growth": -0.0534995248624507,
+    "avg_annual_earning_growth": 0.451508696240728,
+    "avg_annual_revenue_growth": -0.053477795001692,
     "earnings_rank": 8,
     "revenue_rank": 15,
     "total_sectors": 15,
@@ -128,8 +128,8 @@
   {
     "sector_name": "Consumer Defensive",
     "company_count": 30,
-    "avg_annual_earning_growth": 0.505368350719434,
-    "avg_annual_revenue_growth": 0.108033322104901,
+    "avg_annual_earning_growth": 0.480345920581565,
+    "avg_annual_revenue_growth": 0.106907671954061,
     "earnings_rank": 6,
     "revenue_rank": 5,
     "total_sectors": 15,
@@ -146,8 +146,8 @@
   {
     "sector_name": "Financial Services",
     "company_count": 29,
-    "avg_annual_earning_growth": 0.0191414984600212,
-    "avg_annual_revenue_growth": 0.0772750216840661,
+    "avg_annual_earning_growth": 0.0224450338012446,
+    "avg_annual_revenue_growth": 0.0797185296217253,
     "earnings_rank": 12,
     "revenue_rank": 8,
     "total_sectors": 15,
@@ -156,16 +156,16 @@
       "company_name": "IFS Capital Ltd"
     },
     "top_revenue": {
-      "symbol": "U13.SI",
-      "company_name": "United Overseas Insurance Ltd"
+      "symbol": "K6S.SI",
+      "company_name": "Prudential PLC"
     },
     "excluded_symbols": []
   },
   {
     "sector_name": "Communication Services",
     "company_count": 15,
-    "avg_annual_earning_growth": -1.09071682543594,
-    "avg_annual_revenue_growth": 0.0340379380276421,
+    "avg_annual_earning_growth": -1.10748130006757,
+    "avg_annual_revenue_growth": 0.0352983804576225,
     "earnings_rank": 15,
     "revenue_rank": 11,
     "total_sectors": 15,
@@ -182,8 +182,8 @@
   {
     "sector_name": "Basic Materials",
     "company_count": 36,
-    "avg_annual_earning_growth": 9.9354107723375,
-    "avg_annual_revenue_growth": 0.0848776427239336,
+    "avg_annual_earning_growth": 10.2700582380471,
+    "avg_annual_revenue_growth": 0.08365180508396,
     "earnings_rank": 1,
     "revenue_rank": 7,
     "total_sectors": 15,
@@ -200,13 +200,13 @@
   {
     "sector_name": "Infrastructures",
     "company_count": 7,
-    "avg_annual_earning_growth": 2.96732698254712,
-    "avg_annual_revenue_growth": 0.0288427364015525,
+    "avg_annual_earning_growth": 2.98834913853518,
+    "avg_annual_revenue_growth": 0.02934245302161,
     "earnings_rank": 2,
     "revenue_rank": 12,
     "total_sectors": 15,
     "top_earning": {
-      "symbol": "Z74.SI",
+      "symbol": "Z77.SI",
       "company_name": "Singapore Telecommunications Ltd"
     },
     "top_revenue": {
@@ -217,9 +217,9 @@
   },
   {
     "sector_name": "REIT",
-    "company_count": 42,
-    "avg_annual_earning_growth": 0.388770912088066,
-    "avg_annual_revenue_growth": 0.0451878236090851,
+    "company_count": 43,
+    "avg_annual_earning_growth": 0.383857949871546,
+    "avg_annual_revenue_growth": 0.0456403694533191,
     "earnings_rank": 9,
     "revenue_rank": 9,
     "total_sectors": 15,
@@ -236,8 +236,8 @@
   {
     "sector_name": "Industrials",
     "company_count": 130,
-    "avg_annual_earning_growth": 0.684593778455356,
-    "avg_annual_revenue_growth": 0.0207713119374986,
+    "avg_annual_earning_growth": 0.684735887455762,
+    "avg_annual_revenue_growth": 0.02082828209769,
     "earnings_rank": 4,
     "revenue_rank": 14,
     "total_sectors": 15,
@@ -254,8 +254,8 @@
   {
     "sector_name": "Technology",
     "company_count": 60,
-    "avg_annual_earning_growth": 0.541338898239657,
-    "avg_annual_revenue_growth": 0.162786729584599,
+    "avg_annual_earning_growth": 0.525339776876474,
+    "avg_annual_revenue_growth": 0.150265388124262,
     "earnings_rank": 5,
     "revenue_rank": 2,
     "total_sectors": 15,
